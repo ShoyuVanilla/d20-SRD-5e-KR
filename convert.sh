@@ -11,6 +11,7 @@ md2pot_walk_dir() {
 				*.md)
 					echo "$pathname"
 					po4a-gettextize -f text -M utf-8 -m "$pathname" -p "${pathname%.*}.pot"
+					cp "${pathname%.*}.pot" "${pathname%.*}.en.po"
 			esac
 		fi
 	done
