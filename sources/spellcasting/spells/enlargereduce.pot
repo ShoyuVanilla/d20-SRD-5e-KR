@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/enlargereduce.md:6
+#, no-wrap
+msgid ""
+"name: Enlarge/Reduce\n"
+"level: 2\n"
+"school: transmutation\n"
+"classes: sorcerer\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/enlargereduce.md:9
+msgid "# Enlarge/Reduce _2nd-level transmutation_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/enlargereduce.md:14
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** 30 feet    \n"
+"**Components:** V, S, M (a pinch of powdered iron)    \n"
+"**Duration:** Concentration, up to 1 minute \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/enlargereduce.md:18
+#, no-wrap
+msgid ""
+"You cause a creature or an object you can see within range to grow larger or "
+"smaller for the duration. Choose either a creature or an object that is "
+"neither worn nor carried. If the target is unwilling, it can make a "
+"Constitution saving throw. On a success, the spell has no effect.    \n"
+"If the target is a creature, everything it is wearing and carrying changes "
+"size with it. Any item dropped by an affected creature returns to normal "
+"size at once.    \n"
+"**Enlarge.** The target's size doubles in all dimensions, and its weight is "
+"multiplied by eight. This growth increases its size by one category-- from "
+"Medium to Large, for example. If there isn't enough room for the target to "
+"double its size, the creature or object attains the maximum possible size in "
+"the space available. Until the spell ends, the target also has advantage on "
+"Strength checks and Strength saving throws. The target's weapons also grow "
+"to match its new size. While these weapons are enlarged, the target's "
+"attacks with them deal 1d4 extra damage.    \n"
+"**Reduce.** The target's size is halved in all dimensions, and its weight is "
+"reduced to one-eighth of normal. This reduction decreases its size by one "
+"category--from Medium to Small, for example. Until the spell ends, the "
+"target also has disadvantage on Strength checks and Strength saving "
+"throws. The target's weapons also shrink to match its new size. While these "
+"weapons are reduced, the target's attacks with them deal 1d4 less damage "
+"(this can't reduce the damage below 1). \n"
+msgstr ""

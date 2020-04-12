@@ -1,0 +1,37 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/eyes_of_charming.md:3
+msgid "name: Eyes of Charming type: item"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/eyes_of_charming.md:6
+msgid "# Eyes of Charming _Wondrous item, uncommon (requires attunement)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/eyes_of_charming.md:7
+msgid ""
+"These crystal lenses fit over the eyes. They have 3 charges. While wearing "
+"them, you can expend 1 charge as an action to cast the **_charm person_** "
+"spell (save DC 13) on a humanoid within 30 feet of you, provided that you "
+"and the target can see each other. The lenses regain all expended charges "
+"daily at dawn."
+msgstr ""

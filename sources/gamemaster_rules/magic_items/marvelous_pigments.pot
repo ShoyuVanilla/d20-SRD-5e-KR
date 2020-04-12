@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/marvelous_pigments.md:3
+msgid "name: Marvelous Pigments type: item"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/marvelous_pigments.md:6
+msgid "# Marvelous Pigments _Wondrous item, very rare_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/marvelous_pigments.md:11
+#, no-wrap
+msgid ""
+"Typically found in 1d4 pots inside a fine wooden box with a brush (weighing "
+"1 pound in total), these pigments allow you to create three-dimensional "
+"objects by painting them in two dimensions. The paint flows from the brush "
+"to form the desired object as you concentrate on its image.    \n"
+"Each pot of paint is sufficient to cover 1,000 square feet of a surface, "
+"which lets you create inanimate objects or terrain features--such as a door, "
+"a pit, flowers, trees, cells, rooms, or weapons-- that are up to 10,000 "
+"cubic feet. It takes 10 minutes to cover 100 square feet.    \n"
+"When you complete the painting, the object or terrain feature depicted "
+"becomes a real, nonmagical object. Thus, painting a door on a wall creates "
+"an actual door that can be opened to whatever is beyond. Painting a pit on a "
+"floor creates a real pit, and its depth counts against the total area of "
+"objects you create.    \n"
+"Nothing created by the pigments can have a value greater than 25 gp. If you "
+"paint an object of greater value (such as a diamond or a pile of gold), the "
+"object looks authentic, but close inspection reveals it is made from paste, "
+"bone, or some other worthless material.    \n"
+"If you paint a form of energy such as fire or lightning, the energy appears "
+"but dissipates as soon as you complete the painting, doing no harm to "
+"anything. \n"
+msgstr ""

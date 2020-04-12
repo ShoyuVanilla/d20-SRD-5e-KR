@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/false_life.md:6
+#, no-wrap
+msgid ""
+"name: False Life\n"
+"level: 1\n"
+"school: necromancy\n"
+"classes: sorcerer\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/false_life.md:9
+msgid "# False Life _1st-level necromancy_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/false_life.md:14
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** Self    \n"
+"**Components:** V, S, M (a small amount of alcohol or distilled spirits)    "
+"\n"
+"**Duration:** 1 hour \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/false_life.md:16
+msgid ""
+"Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 "
+"temporary hit points for the duration."
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/false_life.md:17
+#, no-wrap
+msgid ""
+"**At Higher Levels.** When you cast this spell using a spell slot of 2nd "
+"level or higher, you gain 5 additional temporary hit points for each slot "
+"level above 1st. \n"
+msgstr ""

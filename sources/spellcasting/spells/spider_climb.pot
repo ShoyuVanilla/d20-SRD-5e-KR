@@ -1,0 +1,53 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/spider_climb.md:7
+#, no-wrap
+msgid ""
+"name: Spider Climb\n"
+"level: 2\n"
+"school: transmutation\n"
+"classes: sorcerer\n"
+"         warlock\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/spider_climb.md:10
+msgid "# Spider Climb _2nd-level transmutation_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/spider_climb.md:15
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** Touch    \n"
+"**Components:** V, S, M (a drop of bitumen and a spider)   \n"
+"**Duration:** Concentration, up to 1 hour \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/spider_climb.md:16
+msgid ""
+"Until the spell ends, one willing creature you touch gains the ability to "
+"move up, down, and across vertical surfaces and upside down along ceilings, "
+"while leaving its hands free. The target also gains a climbing speed equal "
+"to its walking speed."
+msgstr ""

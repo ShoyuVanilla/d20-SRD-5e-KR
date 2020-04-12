@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/heal.md:6
+#, no-wrap
+msgid ""
+"name: Heal\n"
+"level: 6\n"
+"school: evocation\n"
+"classes: cleric\n"
+"         druid\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/heal.md:9
+msgid "# Heal _6th-level evocation_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/heal.md:14
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** 60 feet    \n"
+"**Components:** V, S    \n"
+"**Duration:** Instantaneous \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/heal.md:16
+msgid ""
+"Choose a creature that you can see within range. A surge of positive energy "
+"washes through the creature, causing it to regain 70 hit points. This spell "
+"also ends blindness, deafness, and any diseases affecting the target. This "
+"spell has no effect on constructs or undead."
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/heal.md:17
+#, no-wrap
+msgid ""
+"**At Higher Levels.** When you cast this spell using a spell slot of 7th "
+"level or higher, the amount of healing increases by 10 for each slot level "
+"above 6th. \n"
+msgstr ""

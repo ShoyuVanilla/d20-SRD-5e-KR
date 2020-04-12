@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/rules/abilities/saving_throws.md:7
+#, no-wrap
+msgid ""
+"# Saving Throws \n"
+"A saving throw--also called a save--represents an attempt to resist a spell, "
+"a trap, a poison, a disease, or a similar threat. You don’t normally decide "
+"to make a saving throw; you are forced to make one because your character or "
+"monster is at risk of harm.   \n"
+"To make a saving throw, roll a d20 and add the appropriate ability "
+"modifier. For example, you use your Dexterity modifier for a Dexterity "
+"saving throw.   \n"
+"A saving throw can be modified by a situational bonus or penalty and can be "
+"affected by advantage and disadvantage, as determined by the GM.    \n"
+"Each class gives proficiency in at least two saving throws. The wizard, for "
+"example, is proficient in Intelligence saves. As with skill proficiencies, "
+"proficiency in a saving throw lets a character add his or her proficiency "
+"bonus to saving throws made using a particular ability score. Some monsters "
+"have saving throw proficiencies as well.    \n"
+"The Difficulty Class for a saving throw is determined by the effect that "
+"causes it. For example, the DC for a saving throw allowed by a spell is "
+"determined by the caster’s spellcasting ability and proficiency bonus.    \n"
+"The result of a successful or failed saving throw is also detailed in the "
+"effect that allows the save. Usually, a successful save means that a "
+"creature suffers no harm, or reduced harm, from an effect.\n"
+msgstr ""

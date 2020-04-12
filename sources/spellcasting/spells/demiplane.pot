@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/demiplane.md:6
+#, no-wrap
+msgid ""
+"name: Demiplane\n"
+"level: 8\n"
+"school: conjuration\n"
+"classes: warlock\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/demiplane.md:9
+msgid "# Demiplane _8th-level conjuration_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/demiplane.md:14
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** 60 feet    \n"
+"**Components:** S    \n"
+"**Duration:** 1 hour \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/demiplane.md:16
+#, no-wrap
+msgid ""
+"You create a shadowy door on a flat solid surface that you can see within "
+"range. The door is large enough to allow Medium creatures to pass through "
+"unhindered. When opened, the door leads to a demiplane that appears to be an "
+"empty room 30 feet in each dimension, made of wood or stone. When the spell "
+"ends, the door disappears, and any creatures or objects inside the demiplane "
+"remain trapped there, as the door also disappears from the other side.    \n"
+"Each time you cast this spell, you can create a new demiplane, or have the "
+"shadowy door connect to a demiplane you created with a previous casting of "
+"this spell. Additionally, if you know the nature and contents of a demiplane "
+"created by a casting of this spell by another creature, you can have the "
+"shadowy door connect to its demiplane instead. \n"
+msgstr ""

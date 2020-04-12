@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/dancing_lights.md:7
+#, no-wrap
+msgid ""
+"name: Dancing Lights\n"
+"level: 0\n"
+"school: evocation\n"
+"classes: bard\n"
+"         sorcerer\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/dancing_lights.md:10
+msgid "# Dancing Lights _Evocation cantrip_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/dancing_lights.md:15
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** 120 feet    \n"
+"**Components:** V, S, M (a bit of phosphorus or wychwood, or a glowworm)    "
+"\n"
+"**Duration:** Concentration, up to 1 minute \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/dancing_lights.md:17
+#, no-wrap
+msgid ""
+"You create up to four torch-sized lights within range, making them appear as "
+"torches, lanterns, or glowing orbs that hover in the air for the "
+"duration. You can also combine the four lights into one glowing vaguely "
+"humanoid form of Medium size. Whichever form you choose, each light sheds "
+"dim light in a 10- foot radius.    \n"
+"As a bonus action on your turn, you can move the lights up to 60 feet to a "
+"new spot within range. A light must be within 20 feet of another light "
+"created by this spell, and a light winks out if it exceeds the spell's "
+"range.\n"
+msgstr ""

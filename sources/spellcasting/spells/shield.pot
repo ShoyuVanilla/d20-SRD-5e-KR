@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/shield.md:6
+#, no-wrap
+msgid ""
+"name: Shield\n"
+"level: 1\n"
+"school: abjuration\n"
+"classes: sorcerer\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/shield.md:9
+msgid "# Shield _1st-level abjuration_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/shield.md:14
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 reaction, which you take when you are hit by an attack "
+"or targeted by the magic missile spell    \n"
+"**Range:** Self    \n"
+"**Components:** V, S    \n"
+"**Duration:** 1 round \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/shield.md:15
+msgid ""
+"An invisible barrier of magical force appears and protects you. Until the "
+"start of your next turn, you have a +5 bonus to AC, including against the "
+"triggering attack, and you take no damage from **_magic missile_**."
+msgstr ""

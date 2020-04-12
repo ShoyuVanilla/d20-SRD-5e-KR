@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ogre.md:4
+msgid "name: Ogre type: giant cr: 2"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ogre.md:7
+msgid "# Ogre _Large giant, chaotic evil_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ogre.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 11 (hide armor)    \n"
+"**Hit Points** 59 (7d10 + 21)    \n"
+"**Speed** 40 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ogre.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 19 (+4) | 8 (−1)  | 16 (+3) | 5 (−3)  | 7 (−2)  | 7 (−2)  |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ogre.md:19
+#, no-wrap
+msgid ""
+"**Senses** darkvision 60 ft., passive Perception 8    \n"
+"**Languages** Common, Giant    \n"
+"**Challenge** 2 (450 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ogre.md:22
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Greatclub.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one "
+"target. _Hit:_ 13 (2d8 + 4) bludgeoning damage.    \n"
+"**Javelin.** _Melee or Ranged Weapon Attack:_ +6 to hit, reach 5 ft. or "
+"range 30/120 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage.\n"
+msgstr ""

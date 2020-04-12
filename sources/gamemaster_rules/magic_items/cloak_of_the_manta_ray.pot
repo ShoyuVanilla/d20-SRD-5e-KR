@@ -1,0 +1,35 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/cloak_of_the_manta_ray.md:3
+msgid "name: Cloak of the Manta Ray type: item"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/cloak_of_the_manta_ray.md:6
+msgid "# Cloak of the Manta Ray _Wondrous item, uncommon_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/cloak_of_the_manta_ray.md:7
+msgid ""
+"While wearing this cloak with its hood up, you can breathe underwater, and "
+"you have a swimming speed of 60 feet. Pulling the hood up or down requires "
+"an action."
+msgstr ""

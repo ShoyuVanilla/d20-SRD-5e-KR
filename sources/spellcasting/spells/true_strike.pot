@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/true_strike.md:8
+#, no-wrap
+msgid ""
+"name: True Strike\n"
+"level: 0\n"
+"school: divination\n"
+"classes: bard\n"
+"         sorcerer\n"
+"         warlock\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/true_strike.md:11
+msgid "# True Strike _Divination cantrip_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/true_strike.md:16
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** 30 feet    \n"
+"**Components:** S    \n"
+"**Duration:** Concentration, up to 1 round \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/true_strike.md:17
+msgid ""
+"You extend your hand and point a finger at a target in range. Your magic "
+"grants you a brief insight into the target's defenses. On your next turn, "
+"you gain advantage on your first attack roll against the target, provided "
+"that this spell hasn't ended."
+msgstr ""

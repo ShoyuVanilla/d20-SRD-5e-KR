@@ -1,0 +1,75 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/jackal.md:4
+msgid "name: Jackal type: beast cr: 0"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/jackal.md:7
+msgid "# Jackal _Small beast, unaligned_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/jackal.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 12    \n"
+"**Hit Points** 3 (1d6)    \n"
+"**Speed** 40 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/jackal.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 8 (−1)  | 15 (+2) | 11 (+0) | 3 (−4)  | 12 (+1) | 6 (−2)  |  \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/jackal.md:20
+#, no-wrap
+msgid ""
+"**Skills** Perception +3    \n"
+"**Senses** passive Perception 13    \n"
+"**Languages** --    \n"
+"**Challenge** 0 (10 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/jackal.md:23
+#, no-wrap
+msgid ""
+"**Keen Hearing and Smell.** The jackal has advantage on Wisdom (Perception) "
+"checks that rely on hearing or smell.    \n"
+"**Pack Tactics.** The jackal has advantage on an attack roll against a "
+"creature if at least one of the jackal's allies is within 5 feet of the "
+"creature and the ally isn't incapacitated. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/jackal.md:25
+#, no-wrap
+msgid ""
+"### Actions    \n"
+"**Bite.** _Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ "
+"1 (1d4 – 1) piercing damage. \n"
+msgstr ""

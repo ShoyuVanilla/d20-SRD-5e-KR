@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/healing_word.md:7
+#, no-wrap
+msgid ""
+"name: Healing Word\n"
+"level: 1\n"
+"school: evocation\n"
+"classes: bard\n"
+"         cleric\n"
+"         druid\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/healing_word.md:10
+msgid "# Healing Word _1st-level evocation_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/healing_word.md:15
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 bonus action    \n"
+"**Range:** 60 feet    \n"
+"**Components:** V    \n"
+"**Duration:** Instantaneous \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/healing_word.md:17
+msgid ""
+"A creature of your choice that you can see within range regains hit points "
+"equal to 1d4 + your spellcasting ability modifier. This spell has no effect "
+"on undead or constructs.  **At Higher Levels.** When you cast this spell "
+"using a spell slot of 2nd level or higher, the healing increases by 1d4 for "
+"each slot level above 1st."
+msgstr ""

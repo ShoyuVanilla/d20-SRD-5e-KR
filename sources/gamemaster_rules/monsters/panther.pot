@@ -1,0 +1,79 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/panther.md:4
+msgid "name: Panther type: beast cr: .25"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/panther.md:7
+msgid "# Panther _Medium beast, unaligned_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/panther.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 12    \n"
+"**Hit Points** 13 (3d8)    \n"
+"**Speed** 50 ft., climb 40 ft.\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/panther.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 14 (+2) | 15 (+2) | 10 (+0) | 3 (−4)  | 14 (+2) | 7 (−2)  |  \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/panther.md:20
+#, no-wrap
+msgid ""
+"**Skills** Perception +4, Stealth +6    \n"
+"**Senses** passive Perception 14    \n"
+"**Languages** --    \n"
+"**Challenge** 1/4 (50 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/panther.md:23
+#, no-wrap
+msgid ""
+"**Keen Smell.** The panther has advantage on Wisdom (Perception) checks that "
+"rely on smell.   \n"
+"**Pounce.** If the panther moves at least 20 feet straight toward a creature "
+"and then hits it with a claw attack on the same turn, that target must "
+"succeed on a DC 12 Strength saving throw or be knocked prone. If the target "
+"is prone, the panther can make one bite attack against it as a bonus "
+"action. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/panther.md:26
+#, no-wrap
+msgid ""
+"### Actions    \n"
+"**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ "
+"5 (1d6 + 2) piercing damage.    \n"
+"**Claw.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ "
+"4 (1d4 + 2) slashing damage. \n"
+msgstr ""

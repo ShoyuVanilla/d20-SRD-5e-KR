@@ -1,0 +1,39 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/amulet_of_the_planes.md:3
+msgid "name: Amulet of the Planes type: item"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/amulet_of_the_planes.md:6
+msgid "# Amulet of the Planes _Wondrous item, very rare (requires attunement)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/amulet_of_the_planes.md:7
+msgid ""
+"While wearing this amulet, you can use an action to name a location that you "
+"are familiar with on another plane of existence. Then make a DC 15 "
+"Intelligence check. On a successful check, you cast the **_plane shift_** "
+"spell. On a failure, you and each creature and object within 15 feet of you "
+"travel to a random destination. Roll a d100. On a 1–60, you travel to a "
+"random location on the plane you named. On a 61–100, you travel to a "
+"randomly determined plane of existence."
+msgstr ""

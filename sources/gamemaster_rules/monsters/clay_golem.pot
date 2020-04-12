@@ -1,0 +1,96 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/clay_golem.md:4
+msgid "name: Clay Golem type: construct cr: 9"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/clay_golem.md:7
+msgid "# Clay Golem _Large construct, unaligned_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/clay_golem.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 14 (natural armor)    \n"
+"**Hit Points** 133 (14d10 + 56)    \n"
+"**Speed** 20 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/clay_golem.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 20 (+5) | 9 (−1)  | 18 (+4) | 3 (−4)  | 8 (−1)  | 1 (−5)  |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/clay_golem.md:21
+#, no-wrap
+msgid ""
+"**Damage Immunities** acid, poison, psychic; bludgeoning, piercing, and "
+"slashing from nonmagical attacks that aren't adamantine    \n"
+"**Condition Immunities** charmed, exhaustion, frightened, paralyzed, "
+"petrified, poisoned    \n"
+"**Senses** darkvision 60 ft., passive Perception 9    \n"
+"**Languages** understands the languages of its creator but can't speak    \n"
+"**Challenge** 9 (5,000 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/clay_golem.md:27
+#, no-wrap
+msgid ""
+"**Acid Absorption.** Whenever the golem is subjected to acid damage, it "
+"takes no damage and instead regains a number of hit points equal to the acid "
+"damage dealt.    \n"
+"**Berserk.** Whenever the golem starts its turn with 60 hit points or fewer, "
+"roll a d6. On a 6, the golem goes berserk. On each of its turns while "
+"berserk, the golem attacks the nearest creature it can see. If no creature "
+"is near enough to move to and attack, the golem attacks an object, with "
+"preference for an object smaller than itself. Once the golem goes berserk, "
+"it continues to do so until it is destroyed or regains all its hit points.    "
+"\n"
+"**Immutable Form.** The golem is immune to any spell or effect that would "
+"alter its form.    \n"
+"**Magic Resistance.** The golem has advantage on saving throws against "
+"spells and other magical effects.    \n"
+"**Magic Weapons.** The golem's weapon attacks are magical. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/clay_golem.md:31
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Multiattack.** The golem makes two slam attacks.    \n"
+"**Slam.** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ "
+"16 (2d10 + 5) bludgeoning damage. If the target is a creature, it must "
+"succeed on a DC 15 Constitution saving throw or have its hit point maximum "
+"reduced by an amount equal to the damage taken. The target dies if this "
+"attack reduces its hit point maximum to 0. The reduction lasts until removed "
+"by the greater restoration spell or other magic.    \n"
+"**Haste (Recharge 5–6).** Until the end of its next turn, the golem "
+"magically gains a +2 bonus to its AC, has advantage on Dexterity saving "
+"throws, and can use its slam attack as a bonus action.\n"
+msgstr ""

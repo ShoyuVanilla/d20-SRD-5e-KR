@@ -1,0 +1,144 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/character/races/dwarf.md:5
+msgid ""
+"# Dwarf ## Dwarf Traits - - - Your dwarf character has an assortment of "
+"inborn abilities, part and parcel of dwarven nature."
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/dwarf.md:7
+#, no-wrap
+msgid "**Ability Score Increase.** Your Constitution score increases by 2. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/dwarf.md:9
+#, no-wrap
+msgid ""
+"**Age.** Dwarves mature at the same rate as humans, but they’re considered "
+"young until they reach the age of 50. On average, they live about 350 "
+"years. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/dwarf.md:11
+#, no-wrap
+msgid ""
+"**Alignment.** Most dwarves are lawful, believing firmly in the benefits of "
+"a well-­‐‑ordered society. They tend toward good as well, with a strong "
+"sense of fair play and a belief that everyone deserves to share in the "
+"benefits of a just order. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/dwarf.md:13
+#, no-wrap
+msgid ""
+"**Size.** Dwarves stand between 4 and 5 feet tall and average about 150 "
+"pounds. Your size is Medium. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/dwarf.md:15
+#, no-wrap
+msgid ""
+"**Speed.** Your base walking speed is 25 feet. Your speed is not reduced by "
+"wearing heavy armor. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/dwarf.md:17
+#, no-wrap
+msgid ""
+"**Darkvision.** Accustomed to life underground, you have superior vision in "
+"dark and dim conditions. You can see in dim light within 60 feet of you as "
+"if it were bright light, and in darkness as if it were dim light. You can’t "
+"discern color in darkness, only shades of gray. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/dwarf.md:19
+#, no-wrap
+msgid ""
+"**Dwarven Resilience.** You have advantage on saving throws against poison, "
+"and you have resistance against poison damage.\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/dwarf.md:21
+#, no-wrap
+msgid ""
+"**Dwarven Combat Training.** You have proficiency with the battleaxe, "
+"handaxe, light hammer, and warhammer.\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/dwarf.md:23
+#, no-wrap
+msgid ""
+"**Tool Proficiency.** You gain proficiency with the artisan’s tools of your "
+"choice: smith’s tools, brewer’s supplies, or mason’s tools. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/dwarf.md:25
+#, no-wrap
+msgid ""
+"**Stonecunning.** Whenever you make an Intelligence (History) check related "
+"to the origin of stonework, you are considered proficient in the History "
+"skill and add double your proficiency bonus to the check, instead of your "
+"normal proficiency bonus. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/dwarf.md:27
+#, no-wrap
+msgid ""
+"**Languages.** You can speak, read, and write Common and Dwarvish. Dwarvish "
+"is full of hard consonants and guttural sounds, and those characteristics "
+"spill over into whatever other language a dwarf might speak.\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/dwarf.md:29
+msgid "## Hill Dwarf"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/dwarf.md:31
+msgid ""
+"As a hill dwarf, you have keen senses, deep intuition, and remarkable "
+"resilience."
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/dwarf.md:33
+#, no-wrap
+msgid "**Ability Score Increase.** Your Wisdom score increases by 1. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/dwarf.md:34
+#, no-wrap
+msgid ""
+"**Dwarven Toughness.** Your hit point maximum increases by 1, and it "
+"increases by 1 every time you gain a level.\n"
+msgstr ""

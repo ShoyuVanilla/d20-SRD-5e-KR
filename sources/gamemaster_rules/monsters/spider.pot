@@ -1,0 +1,77 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/spider.md:4
+msgid "name: Spider type: beast cr: 0"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/spider.md:7
+msgid "# Spider _Tiny beast, unaligned_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/spider.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 12    \n"
+"**Hit Points** 1 (1d4 − 1)    \n"
+"**Speed** 20 ft., climb 20 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/spider.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 2 (−4)  | 14 (+2) | 8 (−1)  | 1 (−5)  | 10 (+0) | 2 (−4)  |  \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/spider.md:20
+#, no-wrap
+msgid ""
+"**Skills** Stealth +4    \n"
+"**Senses** darkvision 30 ft., passive Perception 10    \n"
+"**Languages** --    \n"
+"**Challenge** 0 (10 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/spider.md:24
+#, no-wrap
+msgid ""
+"**Spider Climb.** The spider can climb difficult surfaces, including upside "
+"down on ceilings, without needing to make an ability check.    \n"
+"**Web Sense.** While in contact with a web, the spider knows the exact "
+"location of any other creature in contact with the same web.    \n"
+"**Web Walker.** The spider ignores movement restrictions caused by "
+"webbing. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/spider.md:26
+#, no-wrap
+msgid ""
+"### Actions    \n"
+"**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one "
+"creature. _Hit:_ 1 piercing damage, and the target must succeed on a DC 9 "
+"Constitution saving throw or take 2 (1d4) poison damage. \n"
+msgstr ""

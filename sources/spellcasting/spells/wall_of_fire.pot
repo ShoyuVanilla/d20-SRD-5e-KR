@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/wall_of_fire.md:7
+#, no-wrap
+msgid ""
+"name: Wall of Fire\n"
+"level: 4\n"
+"school: evocation\n"
+"classes: druid\n"
+"         sorcerer\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/wall_of_fire.md:10
+msgid "# Wall of Fire _4th-level evocation_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/wall_of_fire.md:15
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** 120 feet    \n"
+"**Components:** V, S, M (a small piece of phosphorus)    \n"
+"**Duration:** Concentration, up to 1 minute \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/wall_of_fire.md:19
+#, no-wrap
+msgid ""
+"You create a wall of fire on a solid surface within range. You can make the "
+"wall up to 60 feet long, 20 feet high, and 1 foot thick, or a ringed wall up "
+"to 20 feet in diameter, 20 feet high, and 1 foot thick. The wall is opaque "
+"and lasts for the duration.    \n"
+"When the wall appears, each creature within its area must make a Dexterity "
+"saving throw. On a failed save, a creature takes 5d8 fire damage, or half as "
+"much damage on a successful save.    \n"
+"One side of the wall, selected by you when you cast this spell, deals 5d8 "
+"fire damage to each creature that ends its turn within 10 feet of that side "
+"or inside the wall. A creature takes the same damage when it enters the wall "
+"for the first time on a turn or ends its turn there. The other side of the "
+"wall deals no damage. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/wall_of_fire.md:20
+#, no-wrap
+msgid ""
+"**At Higher Levels.** When you cast this spell using a spell slot of 5th "
+"level or higher, the damage increases by 1d8 for each slot level above "
+"4th. \n"
+msgstr ""

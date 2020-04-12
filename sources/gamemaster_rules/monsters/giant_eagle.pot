@@ -1,0 +1,85 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_eagle.md:4
+msgid "name: Giant Eagle type: beast cr: 1"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_eagle.md:7
+msgid "# Giant Eagle _Large beast, neutral good_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_eagle.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 13    \n"
+"**Hit Points** 26 (4d10 + 4)    \n"
+"**Speed** 10 ft., fly 80 ft.\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_eagle.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 16 (+3) | 17 (+3) | 13 (+1) | 8 (−1)  | 14 (+2) | 10 (+0) |   \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_eagle.md:20
+#, no-wrap
+msgid ""
+"**Skills** Perception +4    \n"
+"**Senses** passive Perception 14    \n"
+"**Languages** Giant Eagle, understands Common and Auran but can't speak them    "
+"\n"
+"**Challenge** 1 (200 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_eagle.md:22
+#, no-wrap
+msgid ""
+"**Keen Sight.** The eagle has advantage on Wisdom (Perception) checks that "
+"rely on sight. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_eagle.md:26
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Multiattack.** The eagle makes two attacks: one with its beak and one with "
+"its talons.    \n"
+"**Beak.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ "
+"6 (1d6 + 3) piercing damage. Talons. _Melee Weapon Attack:_ +5 to hit, reach "
+"5 ft., one target. _Hit:_ 10 (2d6 + 3) slashing damage. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_eagle.md:28
+msgid ""
+"### Description A giant eagle is a noble creature that speaks its own "
+"language and understands speech in the Common tongue. A mated pair of giant "
+"eagles typically has up to four eggs or young in their nest (treat the young "
+"as normal eagles)."
+msgstr ""

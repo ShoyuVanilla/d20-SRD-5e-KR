@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/rhinoceros.md:4
+msgid "name: Rhinoceros type: beast cr: 2"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/rhinoceros.md:7
+msgid "# Rhinoceros _Large beast, unaligned_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/rhinoceros.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 11 (natural armor)    \n"
+"**Hit Points** 45 (6d10 + 12)    \n"
+"**Speed** 40 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/rhinoceros.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 21 (+5) | 8 (−1)  | 15 (+2) | 2 (−4)  | 12 (+1) | 6 (−2)  |  \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/rhinoceros.md:19
+#, no-wrap
+msgid ""
+"**Senses** passive Perception 11    \n"
+"**Languages** --    \n"
+"**Challenge** 2 (450 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/rhinoceros.md:21
+#, no-wrap
+msgid ""
+"**Charge.** If the rhinoceros moves at least 20 feet straight toward a "
+"target and then hits it with a gore attack on the same turn, the target "
+"takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it "
+"must succeed on a DC 15 Strength saving throw or be knocked prone. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/rhinoceros.md:23
+msgid ""
+"### Actions **Gore.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one "
+"target. _Hit:_ 14 (2d8 + 5) bludgeoning damage."
+msgstr ""

@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/assassin.md:4
+msgid "name: Assassin type: humanoid (any race)  cr: 8"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/assassin.md:7
+msgid "# Assassin _Medium humanoid (any race), any non-good alignment_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/assassin.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 15 (studded leather)    \n"
+"**Hit Points** 78 (12d8 + 24)    \n"
+"**Speed** 30 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/assassin.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 11 (+0) | 16 (+3) | 14 (+2) | 13 (+1) | 11 (+0) | 10 (+0) |   \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/assassin.md:22
+#, no-wrap
+msgid ""
+"**Saving Throws** Dex +6, Int +4    \n"
+"**Skills** Acrobatics +6, Deception +3, Perception +3, Stealth +9    \n"
+"**Damage Resistances** poison    \n"
+"**Senses** passive Perception 13    \n"
+"**Languages** Thieves' cant plus any two languages    \n"
+"**Challenge** 8 (3,900 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/assassin.md:26
+#, no-wrap
+msgid ""
+"**Assassinate.** During its first turn, the assassin has advantage on attack "
+"rolls against any creature that hasn't taken a turn. Any hit the assassin "
+"scores against a surprised creature is a critical hit.    \n"
+"**Evasion.** If the assassin is subjected to an effect that allows it to "
+"make a Dexterity saving throw to take only half damage, the assassin instead "
+"takes no damage if it succeeds on the saving throw, and only half damage if "
+"it fails.    \n"
+"**Sneak Attack.** Once per turn, the assassin deals an extra 14 (4d6) damage "
+"when it hits a target with a weapon attack and has advantage on the attack "
+"roll, or when the target is within 5 feet of an ally of the assassin that "
+"isn't incapacitated and the assassin doesn't have disadvantage on the attack "
+"roll. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/assassin.md:31
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Multiattack.** The assassin makes two shortsword attacks.    \n"
+"**Shortsword.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one "
+"target. _Hit:_ 6 (1d6 + 3) piercing damage, and the target must make a DC 15 "
+"Constitution saving throw, taking 24 (7d6) poison damage on a failed save, "
+"or half as much damage on a successful one.    \n"
+"**Light Crossbow.** _Ranged Weapon Attack:_ +6 to hit, range 80/320 ft., one "
+"target. _Hit:_ 7 (1d8 + 3) piercing damage, and the target must make a DC 15 "
+"Constitution saving throw, taking 24 (7d6) poison damage on a failed save, "
+"or half as much damage on a successful one. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/assassin.md:33
+msgid ""
+"### Description Trained in the use of poison, assassins are remorseless "
+"killers who work for nobles, guildmasters, sovereigns, and anyone else who "
+"can afford them."
+msgstr ""

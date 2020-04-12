@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/sword_of_wounding.md:3
+msgid "name: Sword of Wounding type: weapon"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/sword_of_wounding.md:6
+msgid "# Sword of Wounding _Weapon (any sword), rare (requires attunement)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/sword_of_wounding.md:8
+#, no-wrap
+msgid ""
+"Hit points lost to this weapon's damage can be regained only through a short "
+"or long rest, rather than by regeneration, magic, or any other means.    \n"
+"Once per turn, when you hit a creature with an attack using this magic "
+"weapon, you can wound the target. At the start of each of the wounded "
+"creature's turns, it takes 1d4 necrotic damage for each time you've wounded "
+"it, and it can then make a DC 15 Constitution saving throw, ending the "
+"effect of all such wounds on itself on a success. Alternatively, the wounded "
+"creature, or a creature within 5 feet of it, can use an action to make a DC "
+"15 Wisdom (Medicine) check, ending the effect of such wounds on it on a "
+"success.\n"
+msgstr ""

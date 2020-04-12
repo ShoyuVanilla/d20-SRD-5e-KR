@@ -1,0 +1,63 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/reverse_gravity.md:7
+#, no-wrap
+msgid ""
+"name: Reverse Gravity\n"
+"level: 7\n"
+"school: transmutation\n"
+"classes: druid\n"
+"         sorcerer\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/reverse_gravity.md:10
+msgid "# Reverse Gravity _7th-level transmutation_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/reverse_gravity.md:15
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** 100 feet    \n"
+"**Components:** V, S, M (a lodestone and iron filings)    \n"
+"**Duration:** Concentration, up to 1 minute \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/reverse_gravity.md:18
+#, no-wrap
+msgid ""
+"This spell reverses gravity in a 50-foot-radius, 100- foot high cylinder "
+"centered on a point within range. All creatures and objects that aren't "
+"somehow anchored to the ground in the area fall upward and reach the top of "
+"the area when you cast this spell. A creature can make a Dexterity saving "
+"throw to grab onto a fixed object it can reach, thus avoiding the fall.    "
+"\n"
+"If some solid object (such as a ceiling) is encountered in this fall, "
+"falling objects and creatures strike it just as they would during a normal "
+"downward fall. If an object or creature reaches the top of the area without "
+"striking anything, it remains there, oscillating slightly, for the "
+"duration.    \n"
+"At the end of the duration, affected objects and creatures fall back "
+"down. \n"
+msgstr ""

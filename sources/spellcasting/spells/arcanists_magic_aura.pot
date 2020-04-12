@@ -1,0 +1,63 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/arcanists_magic_aura.md:5
+msgid "name: Arcanist's Magic Aura level: 2 school: illusion classes: wizard"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/arcanists_magic_aura.md:8
+msgid "# Arcanist's Magic Aura _2nd-level illusion_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/arcanists_magic_aura.md:13
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** Touch   \n"
+"**Components:** V, S, M (a small square of silk)   \n"
+"**Duration:** 24 hours \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/arcanists_magic_aura.md:17
+#, no-wrap
+msgid ""
+"You place an illusion on a creature or an object you touch so that "
+"divination spells reveal false information about it. The target can be a "
+"willing creature or an object that isn't being carried or worn by another "
+"creature.    \n"
+"When you cast the spell, choose one or both of the following effects. The "
+"effect lasts for the duration. If you cast this spell on the same creature "
+"or object every day for 30 days, placing the same effect on it each time, "
+"the illusion lasts until it is dispelled.    \n"
+"**False Aura.** You change the way the target appears to spells and magical "
+"effects, such as **_detect magic_**, that detect magical auras. You can make "
+"a nonmagical object appear magical, a magical object appear nonmagical, or "
+"change the object's magical aura so that it appears to belong to a specific "
+"school of magic that you choose. When you use this effect on an object, you "
+"can make the false magic apparent to any creature that handles the item.    "
+"\n"
+"**Mask.** You change the way the target appears to spells and magical "
+"effects that detect creature types, such as a paladin's Divine Sense or the "
+"trigger of a **_symbol_** spell. You choose a creature type and other spells "
+"and magical effects treat the target as if it were a creature of that type "
+"or of that alignment. \n"
+msgstr ""

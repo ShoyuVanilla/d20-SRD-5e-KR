@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/ice_storm.md:7
+#, no-wrap
+msgid ""
+"name: Ice Storm\n"
+"level: 4\n"
+"school: evocation\n"
+"classes: druid\n"
+"         sorcerer\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/ice_storm.md:10
+msgid "# Ice Storm _4th-level evocation_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/ice_storm.md:15
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** 300 feet    \n"
+"**Components:** V, S, M (a pinch of dust and a few drops of water)    \n"
+"**Duration:** Instantaneous \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/ice_storm.md:18
+#, no-wrap
+msgid ""
+"A hail of rock-hard ice pounds to the ground in a 20- foot-radius, "
+"40-foot-high cylinder centered on a point within range. Each creature in the "
+"cylinder must make a Dexterity saving throw. A creature takes 2d8 "
+"bludgeoning damage and 4d6 cold damage on a failed save, or half as much "
+"damage on a successful one.    \n"
+"Hailstones turn the storm's area of effect into difficult terrain until the "
+"end of your next turn. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/ice_storm.md:19
+#, no-wrap
+msgid ""
+"**At Higher Levels.** When you cast this spell using a spell slot of 5th "
+"level or higher, the bludgeoning damage increases by 1d8 for each slot level "
+"above 4th. \n"
+msgstr ""

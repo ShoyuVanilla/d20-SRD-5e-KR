@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/conjure_fey.md:6
+#, no-wrap
+msgid ""
+"name: Conjure Fey\n"
+"level: 6\n"
+"school: conjuration\n"
+"classes: druid\n"
+"         warlock\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/conjure_fey.md:9
+msgid "# Conjure Fey _6th-level conjuration_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/conjure_fey.md:14
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 minute    \n"
+"**Range:** 90 feet    \n"
+"**Components:** V, S    \n"
+"**Duration:** Concentration, up to 1 hour \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/conjure_fey.md:19
+#, no-wrap
+msgid ""
+"You summon a fey creature of challenge rating 6 or lower, or a fey spirit "
+"that takes the form of a beast of challenge rating 6 or lower. It appears in "
+"an unoccupied space that you can see within range. The fey creature "
+"disappears when it drops to 0 hit points or when the spell ends.    \n"
+"The fey creature is friendly to you and your companions for the "
+"duration. Roll initiative for the creature, which has its own turns. It "
+"obeys any verbal commands that you issue to it (no action required by you), "
+"as long as they don't violate its alignment. If you don't issue any commands "
+"to the fey creature, it defends itself from hostile creatures but otherwise "
+"takes no actions.    \n"
+"If your concentration is broken, the fey creature doesn't "
+"disappear. Instead, you lose control of the fey creature, it becomes hostile "
+"toward you and your companions, and it might attack. An uncontrolled fey "
+"creature can't be dismissed by you, and it disappears 1 hour after you "
+"summoned it.    \n"
+"The GM has the fey creature's statistics. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/conjure_fey.md:20
+#, no-wrap
+msgid ""
+"**At Higher Levels.** When you cast this spell using a spell slot of 7th "
+"level or higher, the challenge rating increases by 1 for each slot level "
+"above 6th. \n"
+msgstr ""

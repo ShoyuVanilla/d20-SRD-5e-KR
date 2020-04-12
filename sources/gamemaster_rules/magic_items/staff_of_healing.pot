@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/staff_of_healing.md:3
+msgid "name: Staff of Healing type: staff"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/staff_of_healing.md:6
+msgid ""
+"# Staff of Healing _Staff, rare (requires attunement by a bard, cleric, or "
+"druid)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/staff_of_healing.md:8
+#, no-wrap
+msgid ""
+"This staff has 10 charges. While holding it, you can use an action to expend "
+"1 or more of its charges to cast one of the following spells from it, using "
+"your spell save DC and spellcasting ability modifier: **_cure wounds_** (1 "
+"charge per spell level, up to 4th), **_lesser restoration_** (2 charges), or "
+"**_mass cure wounds_** (5 charges).    \n"
+"The staff regains 1d6 + 4 expended charges daily at dawn. If you expend the "
+"last charge, roll a d20. On a 1, the staff vanishes in a flash of light, "
+"lost forever. \n"
+msgstr ""

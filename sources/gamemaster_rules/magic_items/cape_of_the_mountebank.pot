@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/cape_of_the_mountebank.md:3
+msgid "name: Cape of the Mountebank type: item"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/cape_of_the_mountebank.md:6
+msgid "# Cape of the Mountebank _Wondrous item, rare_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/cape_of_the_mountebank.md:8
+#, no-wrap
+msgid ""
+"This cape smells faintly of brimstone. While wearing it, you can use it to "
+"cast the **_dimension door_** spell as an action. This property of the cape "
+"can't be used again until the next dawn.    \n"
+"When you disappear, you leave behind a cloud of smoke, and you appear in a "
+"similar cloud of smoke at your destination. The smoke lightly obscures the "
+"space you left and the space you appear in, and it dissipates at the end of "
+"your next turn. A light or stronger wind disperses the smoke.\n"
+msgstr ""

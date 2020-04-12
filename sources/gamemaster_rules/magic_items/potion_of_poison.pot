@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/potion_of_poison.md:3
+msgid "name: Potion of Poison type: potion"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/potion_of_poison.md:6
+msgid "# Potion of Poison _Potion, uncommon_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/potion_of_poison.md:8
+#, no-wrap
+msgid ""
+"This concoction looks, smells, and tastes like a **potion of healing** or "
+"other beneficial potion. However, it is actually poison masked by illusion "
+"magic. An **_identify_** spell reveals its true nature.    \n"
+"If you drink it, you take 3d6 poison damage, and you must succeed on a DC 13 "
+"Constitution saving throw or be poisoned. At the start of each of your turns "
+"while you are poisoned in this way, you take 3d6 poison damage. At the end "
+"of each of your turns, you can repeat the saving throw. On a successful "
+"save, the poison damage you take on your subsequent turns decreases by "
+"1d6. The poison ends when the damage decreases to 0. \n"
+msgstr ""

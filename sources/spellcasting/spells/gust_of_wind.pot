@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/gust_of_wind.md:7
+#, no-wrap
+msgid ""
+"name: Gust of Wind\n"
+"level: 2\n"
+"school: evocation\n"
+"classes: druid\n"
+"         sorcerer\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/gust_of_wind.md:10
+msgid "# Gust of Wind _2nd-level evocation_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/gust_of_wind.md:15
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** Self (60-foot line)    \n"
+"**Components:** V, S, M (a legume seed)    \n"
+"**Duration:** Concentration, up to 1 minute \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/gust_of_wind.md:19
+#, no-wrap
+msgid ""
+"A line of strong wind 60 feet long and 10 feet wide blasts from you in a "
+"direction you choose for the spell's duration. Each creature that starts its "
+"turn in the line must succeed on a Strength saving throw or be pushed 15 "
+"feet away from you in a direction following the line.    \n"
+"Any creature in the line must spend 2 feet of movement for every 1 foot it "
+"moves when moving closer to you.    \n"
+"The gust disperses gas or vapor, and it extinguishes candles, torches, and "
+"similar unprotected flames in the area. It causes protected flames, such as "
+"those of lanterns, to dance wildly and has a 50 percent chance to extinguish "
+"them.    \n"
+"As a bonus action on each of your turns before the spell ends, you can "
+"change the direction in which the line blasts from you.\n"
+msgstr ""

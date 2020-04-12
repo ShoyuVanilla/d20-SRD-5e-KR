@@ -1,0 +1,88 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_vulture.md:4
+msgid "name: Giant Vulture type: beast cr: 1"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_vulture.md:7
+msgid "# Giant Vulture _Large beast, neutral evil_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_vulture.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 10    \n"
+"**Hit Points** 22 (3d10 + 6)    \n"
+"**Speed** 10 ft., fly 60 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_vulture.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 15 (+2) | 10 (+0) | 15 (+2) | 6 (−2)  | 12 (+1) | 7 (−2)  |  \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_vulture.md:20
+#, no-wrap
+msgid ""
+"**Skills** Perception +3    \n"
+"**Senses** passive Perception 13    \n"
+"**Languages** understands Common but can't speak    \n"
+"**Challenge** 1 (200 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_vulture.md:23
+#, no-wrap
+msgid ""
+"**Keen Sight and Smell.** The vulture has advantage on Wisdom (Perception) "
+"checks that rely on sight or smell.   \n"
+"**Pack Tactics.** The vulture has advantage on an attack roll against a "
+"creature if at least one of the vulture's allies is within 5 feet of the "
+"creature and the ally isn't incapacitated. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_vulture.md:28
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Multiattack.** The vulture makes two attacks: one with its beak and one "
+"with its talons.    \n"
+"**Beak.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ "
+"7 (2d4 + 2) piercing damage.    \n"
+"**Talons.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one "
+"target. _Hit:_ 9 (2d6 + 2) slashing damage. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_vulture.md:30
+msgid ""
+"### Description A giant vulture has advanced intelligence and a malevolent "
+"bent. Unlike its smaller kin, it will attack a wounded creature to hasten "
+"its end. Giant vultures have been known to haunt a thirsty, starving "
+"creature for days to enjoy its suffering."
+msgstr ""

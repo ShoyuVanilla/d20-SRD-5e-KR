@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/calm_emotions.md:6
+#, no-wrap
+msgid ""
+"name: Calm Emotions\n"
+"level: 2\n"
+"school: enchantment\n"
+"classes: bard\n"
+"         cleric\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/calm_emotions.md:9
+msgid "# Calm Emotions _2nd-level enchantment_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/calm_emotions.md:14
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** 60 feet   \n"
+"**Components:** V, S    \n"
+"**Duration:** Concentration, up to 1 minute \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/calm_emotions.md:17
+#, no-wrap
+msgid ""
+"You attempt to suppress strong emotions in a group of people. Each humanoid "
+"in a 20-foot-radius sphere centered on a point you choose within range must "
+"make a Charisma saving throw; a creature can choose to fail this saving "
+"throw if it wishes. If a creature fails its saving throw, choose one of the "
+"following two effects.    \n"
+"You can suppress any effect causing a target to be charmed or "
+"frightened. When this spell ends, any suppressed effect resumes, provided "
+"that its duration has not expired in the meantime.   \n"
+"Alternatively, you can make a target indifferent about creatures of your "
+"choice that it is hostile toward. This indifference ends if the target is "
+"attacked or harmed by a spell or if it witnesses any of its friends being "
+"harmed. When the spell ends, the creature becomes hostile again, unless the "
+"GM rules otherwise. \n"
+msgstr ""

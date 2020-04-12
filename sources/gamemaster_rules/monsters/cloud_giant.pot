@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/cloud_giant.md:4
+msgid "name: Cloud Giant type: giant cr: 9"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/cloud_giant.md:7
+msgid "# Cloud Giant _Huge giant, neutral good (50%) or neutral evil (50%)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/cloud_giant.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 14 (natural armor)    \n"
+"**Hit Points** 200 (16d12 + 96)    \n"
+"**Speed** 40 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/cloud_giant.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 27 (+8) | 10 (+0) | 22 (+6) | 12 (+1) | 16 (+3) | 16 (+3) |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/cloud_giant.md:21
+#, no-wrap
+msgid ""
+"**Saving Throws** Con +10, Wis +7, Cha +7    \n"
+"**Skills** Insight +7, Perception +7    \n"
+"**Senses** passive Perception 17    \n"
+"**Languages** Common, Giant    \n"
+"**Challenge** 9 (5,000 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/cloud_giant.md:27
+#, no-wrap
+msgid ""
+"**Keen Smell.** The giant has advantage on Wisdom (Perception) checks that "
+"rely on smell.    \n"
+"**Innate Spellcasting.** The giant's innate spellcasting ability is "
+"Charisma. It can innately cast the following spells, requiring no material "
+"components:    \n"
+"At will: **_detect magic_**, **_fog cloud_**, **_light_**    \n"
+"3/day each: **_feather fall_**, **_fly_**, **_misty step_**, "
+"**_telekinesis_**    \n"
+"1/day each: **_control weather_**, **_gaseous form_**  \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/cloud_giant.md:31
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Multiattack.** The giant makes two morningstar attacks.    \n"
+"**Morningstar.** _Melee Weapon Attack:_ +12 to hit, reach 10 ft., one "
+"target. _Hit:_ 21 (3d8 + 8) piercing damage.    \n"
+"**Rock.** _Ranged Weapon Attack:_ +12 to hit, range 60/240 ft., one "
+"target. _Hit:_ 30 (4d10 + 8) bludgeoning damage.\n"
+msgstr ""

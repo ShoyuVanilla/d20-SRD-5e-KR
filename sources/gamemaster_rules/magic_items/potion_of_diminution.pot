@@ -1,0 +1,37 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/potion_of_diminution.md:3
+msgid "name: Potion of Diminution type: potion"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/potion_of_diminution.md:6
+msgid "# Potion of Diminution _Potion, rare_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/potion_of_diminution.md:7
+msgid ""
+"When you drink this potion, you gain the \"reduce\" effect of the "
+"**_enlarge/reduce_** spell for 1d4 hours (no concentration required). The "
+"red in the potion's liquid continuously contracts to a tiny bead and then "
+"expands to color the clear liquid around it. Shaking the bottle fails to "
+"interrupt this process."
+msgstr ""

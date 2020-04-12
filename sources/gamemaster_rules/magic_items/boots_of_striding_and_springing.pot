@@ -1,0 +1,39 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/boots_of_striding_and_springing.md:3
+msgid "name: Boots of Striding and Springing type: item"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/boots_of_striding_and_springing.md:6
+msgid ""
+"# Boots of Striding and Springing _Wondrous item, uncommon (requires "
+"attunement)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/boots_of_striding_and_springing.md:7
+msgid ""
+"While you wear these boots, your walking speed becomes 30 feet, unless your "
+"walking speed is higher, and your speed isn't reduced if you are encumbered "
+"or wearing heavy armor. In addition, you can jump three times the normal "
+"distance, though you can't jump farther than your remaining movement would "
+"allow."
+msgstr ""

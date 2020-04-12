@@ -1,0 +1,79 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/dominate_beast.md:6
+#, no-wrap
+msgid ""
+"name: Dominate Beast\n"
+"level: 4\n"
+"school: enchantment\n"
+"classes: druid\n"
+"         sorcerer\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/dominate_beast.md:9
+msgid "# Dominate Beast _4th-level enchantment_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/dominate_beast.md:14
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** 60 feet    \n"
+"**Components:** V, S    \n"
+"**Duration:** Concentration, up to 1 minute \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/dominate_beast.md:19
+#, no-wrap
+msgid ""
+"You attempt to beguile a beast that you can see within range. It must "
+"succeed on a Wisdom saving throw or be charmed by you for the duration. If "
+"you or creatures that are friendly to you are fighting it, it has advantage "
+"on the saving throw.    \n"
+"While the beast is charmed, you have a telepathic link with it as long as "
+"the two of you are on the same plane of existence. You can use this "
+"telepathic link to issue commands to the creature while you are conscious "
+"(no action required), which it does its best to obey. You can specify a "
+"simple and general course of action, such as \"Attack that creature,\" \"Run "
+"over there,\" or \"Fetch that object.\" If the creature completes the order "
+"and doesn't receive further direction from you, it defends and preserves "
+"itself to the best of its ability.    \n"
+"You can use your action to take total and precise control of the "
+"target. Until the end of your next turn, the creature takes only the actions "
+"you choose, and doesn't do anything that you don't allow it to do. During "
+"this time, you can also cause the creature to use a reaction, but this "
+"requires you to use your own reaction as well.    \n"
+"Each time the target takes damage, it makes a new Wisdom saving throw "
+"against the spell. If the saving throw succeeds, the spell ends. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/dominate_beast.md:20
+#, no-wrap
+msgid ""
+"**At Higher Levels.** When you cast this spell with a 5th-level spell slot, "
+"the duration is concentration, up to 10 minutes. When you use a 6th-level "
+"spell slot, the duration is concentration, up to 1 hour. When you use a "
+"spell slot of 7th level or higher, the duration is concentration, up to 8 "
+"hours. \n"
+msgstr ""

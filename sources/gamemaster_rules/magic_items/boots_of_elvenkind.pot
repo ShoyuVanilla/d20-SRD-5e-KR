@@ -1,0 +1,35 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/boots_of_elvenkind.md:3
+msgid "name: Boots of Elvenkind type: item"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/boots_of_elvenkind.md:6
+msgid "# Boots of Elvenkind _Wondrous item, uncommon_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/boots_of_elvenkind.md:7
+msgid ""
+"While you wear these boots, your steps make no sound, regardless of the "
+"surface you are moving across. You also have advantage on Dexterity "
+"(Stealth) checks that rely on moving silently."
+msgstr ""

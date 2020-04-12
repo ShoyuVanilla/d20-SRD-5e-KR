@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/cloudkill.md:6
+#, no-wrap
+msgid ""
+"name: Cloudkill\n"
+"level: 5\n"
+"school: conjuration\n"
+"classes: sorcerer\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/cloudkill.md:9
+msgid "# Cloudkill _5th-level conjuration_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/cloudkill.md:14
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** 120 feet    \n"
+"**Components:** V, S   \n"
+"**Duration:** Concentration, up to 10 minutes \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/cloudkill.md:18
+#, no-wrap
+msgid ""
+"You create a 20-foot-radius sphere of poisonous, yellow-green fog centered "
+"on a point you choose within range. The fog spreads around corners. It lasts "
+"for the duration or until strong wind disperses the fog, ending the "
+"spell. Its area is heavily obscured.    \n"
+"When a creature enters the spell's area for the first time on a turn or "
+"starts its turn there, that creature must make a Constitution saving "
+"throw. The creature takes 5d8 poison damage on a failed save, or half as "
+"much damage on a successful one. Creatures are affected even if they hold "
+"their breath or don't need to breathe.    \n"
+"The fog moves 10 feet away from you at the start of each of your turns, "
+"rolling along the surface of the ground. The vapors, being heavier than air, "
+"sink to the lowest level of the land, even pouring down openings. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/cloudkill.md:19
+#, no-wrap
+msgid ""
+"**At Higher Levels.** When you cast this spell using a spell slot of 6th "
+"level or higher, the damage increases by 1d8 for each slot level above "
+"5th. \n"
+msgstr ""

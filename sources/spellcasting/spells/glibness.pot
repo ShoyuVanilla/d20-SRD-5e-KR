@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/glibness.md:6
+#, no-wrap
+msgid ""
+"name: Glibness\n"
+"level: 8\n"
+"school: transmutation\n"
+"classes: bard\n"
+"         warlock\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/glibness.md:9
+msgid "# Glibness _8th-level transmutation_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/glibness.md:14
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** Self    \n"
+"**Components:** V    \n"
+"**Duration:** 1 hour \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/glibness.md:15
+msgid ""
+"Until the spell ends, when you make a Charisma check, you can replace the "
+"number you roll with a 15. Additionally, no matter what you say, magic that "
+"would determine if you are telling the truth indicates that you are being "
+"truthful."
+msgstr ""

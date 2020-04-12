@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mule.md:4
+msgid "name: Mule type: beast cr: .125"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mule.md:7
+msgid "# Mule _Medium beast, unaligned_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mule.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 10    \n"
+"**Hit Points** 11 (2d8 + 2)    \n"
+"**Speed** 40 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mule.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 14 (+2) | 10 (+0) | 13 (+1) | 2 (−4)  | 10 (+0) | 5 (−3)  |  \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mule.md:19
+#, no-wrap
+msgid ""
+"**Senses** passive Perception 10    \n"
+"**Languages** --    \n"
+"**Challenge** 1/8 (25 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mule.md:22
+#, no-wrap
+msgid ""
+"**Beast of Burden.** The mule is considered to be a Large animal for the "
+"purpose of determining its carrying capacity.    \n"
+"**Sure-Footed.** The mule has advantage on Strength and Dexterity saving "
+"throws made against effects that would knock it prone. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mule.md:24
+msgid ""
+"### Actions **Hooves.** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one "
+"target. _Hit:_ 4 (1d4 + 2) bludgeoning damage."
+msgstr ""

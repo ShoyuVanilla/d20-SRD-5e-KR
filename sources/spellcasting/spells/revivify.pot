@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/revivify.md:6
+#, no-wrap
+msgid ""
+"name: Revivify\n"
+"level: 3\n"
+"school: necromancy\n"
+"classes: cleric\n"
+"         paladin\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/revivify.md:9
+msgid "# Revivify _3rd-level necromancy_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/revivify.md:14
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** Touch    \n"
+"**Components:** V, S, M (diamonds worth 300 gp, which the spell consumes)    "
+"\n"
+"**Duration:** Instantaneous \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/revivify.md:15
+msgid ""
+"You touch a creature that has died within the last minute. That creature "
+"returns to life with 1 hit point. This spell can't return to life a creature "
+"that has died of old age, nor can it restore any missing body parts."
+msgstr ""

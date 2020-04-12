@@ -1,0 +1,84 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/hydra.md:4
+msgid "name: Hydra type: monstrosity cr: 8"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/hydra.md:7
+msgid "# Hydra _Huge monstrosity, unaligned_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/hydra.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 15 (natural armor)    \n"
+"**Hit Points** 172 (15d12 + 75)    \n"
+"**Speed** 30 ft., swim 30 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/hydra.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 20 (+5) | 12 (+1) | 20 (+5) | 2 (−4)  | 10 (+0) | 7 (−2)  |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/hydra.md:20
+#, no-wrap
+msgid ""
+"**Skills** Perception +6    \n"
+"**Senses** darkvision 60 ft., passive Perception 16    \n"
+"**Languages** --    \n"
+"**Challenge** 8 (3,900 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/hydra.md:27
+#, no-wrap
+msgid ""
+"**Hold Breath.** The hydra can hold its breath for 1 hour.    \n"
+"**Multiple Heads.** The hydra has five heads. While it has more than one "
+"head, the hydra has advantage on saving throws against being blinded, "
+"charmed, deafened, frightened, stunned, and knocked unconscious.    \n"
+"Whenever the hydra takes 25 or more damage in a single turn, one of its "
+"heads dies. If all its heads die, the hydra dies.    \n"
+"At the end of its turn, it grows two heads for each of its heads that died "
+"since its last turn, unless it has taken fire damage since its last "
+"turn. The hydra regains 10 hit points for each head regrown in this way.    "
+"\n"
+"**Reactive Heads.** For each head the hydra has beyond one, it gets an extra "
+"reaction that can be used only for opportunity attacks.    \n"
+"**Wakeful.** While the hydra sleeps, at least one of its heads is awake. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/hydra.md:30
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Multiattack.** The hydra makes as many bite attacks as it has heads.    \n"
+"**Bite.** _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. _Hit:_ "
+"10 (1d10 + 5) piercing damage.\n"
+msgstr ""

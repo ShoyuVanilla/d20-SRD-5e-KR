@@ -1,0 +1,38 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/search.md:15
+#, no-wrap
+msgid ""
+"# Search the SRD\n"
+"<div>\n"
+"<script>\n"
+"  (function() {\n"
+"    var cx = '004158896357289266248:owc8nr9byws';\n"
+"    var gcse = document.createElement('script');\n"
+"    gcse.type = 'text/javascript';\n"
+"    gcse.async = true;\n"
+"    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;\n"
+"    var s = document.getElementsByTagName('script')[0];\n"
+"    s.parentNode.insertBefore(gcse, s);\n"
+"  })();\n"
+"</script>\n"
+"<gcse:search></gcse:search>\n"
+"</div>\n"
+msgstr ""

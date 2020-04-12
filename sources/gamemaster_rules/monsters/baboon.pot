@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/baboon.md:4
+msgid "name: Baboon type: beast cr: 0"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/baboon.md:7
+msgid "# Baboon _Small beast, unaligned_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/baboon.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 12    \n"
+"**Hit Points** 3 (1d6)    \n"
+"**Speed** 30 ft., climb 30 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/baboon.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 8 (−1)  | 14 (+2) | 11 (+0) | 4 (−3)  | 12 (+1) | 6 (−2)  |   \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/baboon.md:19
+#, no-wrap
+msgid ""
+"**Senses** passive Perception 11    \n"
+"**Languages** --    \n"
+"**Challenge** 0 (10 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/baboon.md:21
+#, no-wrap
+msgid ""
+"**Pack Tactics.** The baboon has advantage on an attack roll against a "
+"creature if at least one of the baboon's allies is within 5 feet of the "
+"creature and the ally isn't incapacitated. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/baboon.md:23
+#, no-wrap
+msgid ""
+"### Actions    \n"
+"**Bite.** _Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ "
+"1 (1d4 − 1) piercing damage. \n"
+msgstr ""

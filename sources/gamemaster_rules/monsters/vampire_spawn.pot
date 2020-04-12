@@ -1,0 +1,100 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/vampire_spawn.md:4
+msgid "name: Vampire Spawn type: undead cr: 5"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/vampire_spawn.md:7
+msgid "# Vampire Spawn _Medium undead, neutral evil_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/vampire_spawn.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 15 (natural armor)    \n"
+"**Hit Points** 82 (11d8 + 33)    \n"
+"**Speed** 30 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/vampire_spawn.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 16 (+3) | 16 (+3) | 16 (+3) | 11 (+0) | 10 (+0) | 12 (+1) |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/vampire_spawn.md:22
+#, no-wrap
+msgid ""
+"**Saving Throws** Dex +6, Wis +3    \n"
+"**Skills** Perception +3, Stealth +6    \n"
+"**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from "
+"nonmagical attacks    \n"
+"**Senses** darkvision 60 ft., passive Perception 13    \n"
+"**Languages** the languages it knew in life    \n"
+"**Challenge** 5 (1,800 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/vampire_spawn.md:30
+#, no-wrap
+msgid ""
+"**Regeneration.** The vampire regains 10 hit points at the start of its turn "
+"if it has at least 1 hit point and isn't in sunlight or running water. If "
+"the vampire takes radiant damage or damage from holy water, this trait "
+"doesn't function at the start of the vampire's next turn.    \n"
+"**Spider Climb.** The vampire can climb difficult surfaces, including upside "
+"down on ceilings, without needing to make an ability check.    \n"
+"**Vampire Weaknesses.** The vampire has the following flaws:    \n"
+"_Forbiddance._ The vampire can't enter a residence without an invitation "
+"from one of the occupants.    \n"
+"_Harmed by Running Water._ The vampire takes 20 acid damage when it ends its "
+"turn in running water.    \n"
+"_Stake to the Heart._ The vampire is destroyed if a piercing weapon made of "
+"wood is driven into its heart while it is incapacitated in its resting "
+"place.    \n"
+"_Sunlight Hypersensitivity._ The vampire takes 20 radiant damage when it "
+"starts its turn in sunlight. While in sunlight, it has disadvantage on "
+"attack rolls and ability checks. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/vampire_spawn.md:34
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Multiattack.** The vampire makes two attacks, only one of which can be a "
+"bite attack.    \n"
+"**Claws.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one "
+"creature. _Hit:_ 8 (2d4 + 3) slashing damage. Instead of dealing damage, the "
+"vampire can grapple the target (escape DC 13).    \n"
+"**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one willing "
+"creature, or a creature that is grappled by the vampire, incapacitated, or "
+"restrained. _Hit:_ 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic "
+"damage. The target's hit point maximum is reduced by an amount equal to the "
+"necrotic damage taken, and the vampire regains hit points equal to that "
+"amount. The reduction lasts until the target finishes a long rest. The "
+"target dies if this effect reduces its hit point maximum to 0.\n"
+msgstr ""

@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/nonplayer_characters.md:7
+#, no-wrap
+msgid ""
+"# Nonplayer Characters \n"
+"## Customizing NPCs \n"
+"There are many easy ways to customize the NPCs for your home campaign.    \n"
+"**Racial Traits.** You can add racial traits to an NPC. For example, a "
+"halfling druid might have a speed of 25 feet and the Lucky trait. Adding "
+"racial traits to an NPC doesn't alter its challenge rating. For more on "
+"racial traits, see the Player's Handbook.    \n"
+"**Spell Swaps.** One way to customize an NPC spellcaster is to replace one "
+"or more of its spells. You can substitute any spell on the NPC's spell list "
+"with a different spell of the same level from the same spell list. Swapping "
+"spells in this manner doesn't alter an NPC's challenge rating.    \n"
+"**Armor and Weapon Swaps.** You can upgrade or downgrade an NPC's armor, or "
+"add or switch weapons. Adjustments to Armor Class and damage can change an "
+"NPC's challenge rating.    \n"
+"**Magic Items.** The more powerful an NPC, the more likely it has one or "
+"more magic items in its possession. An archmage, for example, might have a "
+"magic staff or wand, as well as one or more potions and scrolls. Giving an "
+"NPC a potent damage-dealing magic item could alter its challenge rating.\n"
+msgstr ""

@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/detect_magic.md:11
+#, no-wrap
+msgid ""
+"name: Detect Magic\n"
+"level: 1\n"
+"school: divination\n"
+"classes: bard\n"
+"         cleric\n"
+"         druid\n"
+"         paladin\n"
+"         ranger\n"
+"         sorcerer\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/detect_magic.md:14
+msgid "# Detect Magic _1st-level divination (ritual)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/detect_magic.md:19
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** Self    \n"
+"**Components:** V, S    \n"
+"**Duration:** Concentration, up to 10 minutes \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/detect_magic.md:21
+#, no-wrap
+msgid ""
+"For the duration, you sense the presence of magic within 30 feet of you. If "
+"you sense magic in this way, you can use your action to see a faint aura "
+"around any visible creature or object in the area that bears magic, and you "
+"learn its school of magic, if any.    \n"
+"The spell can penetrate most barriers, but it is blocked by 1 foot of stone, "
+"1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt. \n"
+msgstr ""

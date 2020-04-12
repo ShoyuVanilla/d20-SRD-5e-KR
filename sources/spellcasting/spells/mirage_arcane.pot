@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/mirage_arcane.md:7
+#, no-wrap
+msgid ""
+"name: Mirage Arcane\n"
+"level: 7\n"
+"school: illusion\n"
+"classes: bard\n"
+"         druid\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/mirage_arcane.md:10
+msgid "# Mirage Arcane _7th-level illusion_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/mirage_arcane.md:15
+#, no-wrap
+msgid ""
+"**Casting Time:** 10 minutes    \n"
+"**Range:** Sight    \n"
+"**Components:** V, S    \n"
+"**Duration:** 10 days \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/mirage_arcane.md:19
+#, no-wrap
+msgid ""
+"You make terrain in an area up to 1 mile square look, sound, smell, and even "
+"feel like some other sort of terrain. The terrain's general shape remains "
+"the same, however. Open fields or a road could be made to resemble a swamp, "
+"hill, crevasse, or some other difficult or impassable terrain. A pond can be "
+"made to seem like a grassy meadow, a precipice like a gentle slope, or a "
+"rock-strewn gully like a wide and smooth road.    \n"
+"Similarly, you can alter the appearance of structures, or add them where "
+"none are present. The spell doesn't disguise, conceal, or add creatures.    "
+"\n"
+"The illusion includes audible, visual, tactile, and olfactory elements, so "
+"it can turn clear ground into difficult terrain (or vice versa) or otherwise "
+"impede movement through the area. Any piece of the illusory terrain (such as "
+"a rock or stick) that is removed from the spell's area disappears "
+"immediately.    \n"
+"Creatures with truesight can see through the illusion to the terrain's true "
+"form; however, all other elements of the illusion remain, so while the "
+"creature is aware of the illusion's presence, the creature can still "
+"physically interact with the illusion. \n"
+msgstr ""

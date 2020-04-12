@@ -1,0 +1,77 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/homunculus.md:4
+msgid "name: Homunculus type: construct cr: 0"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/homunculus.md:7
+msgid "# Homunculus _Tiny construct, neutral_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/homunculus.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 13 (natural armor)    \n"
+"**Hit Points** 5 (2d4)    \n"
+"**Speed** 20 ft., fly 40 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/homunculus.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 4 (−3)  | 15 (+2) | 11 (+0) | 10 (+0) | 10 (+0) | 7 (−2)  |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/homunculus.md:21
+#, no-wrap
+msgid ""
+"**Damage Immunities** poison    \n"
+"**Condition Immunities** charmed, poisoned    \n"
+"**Senses** darkvision 60 ft., passive Perception 10    \n"
+"**Languages** understands the languages of its creator but can't speak    \n"
+"**Challenge** 0 (10 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/homunculus.md:23
+#, no-wrap
+msgid ""
+"**Telepathic Bond.** While the homunculus is on the same plane of existence "
+"as its master, it can magically convey what it senses to its master, and the "
+"two can communicate telepathically. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/homunculus.md:25
+#, no-wrap
+msgid ""
+"### Actions    \n"
+"**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one "
+"creature. _Hit:_ 1 piercing damage, and the target must succeed on a DC 10 "
+"Constitution saving throw or be poisoned for 1 minute. If the saving throw "
+"fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and "
+"unconscious while poisoned in this way.\n"
+msgstr ""

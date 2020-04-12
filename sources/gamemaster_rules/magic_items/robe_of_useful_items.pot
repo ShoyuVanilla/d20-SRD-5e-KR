@@ -1,0 +1,113 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/robe_of_useful_items.md:3
+msgid "name: Robe of Useful Items type: item"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/robe_of_useful_items.md:6
+msgid "# Robe of Useful Items _Wondrous item, uncommon_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/robe_of_useful_items.md:9
+#, no-wrap
+msgid ""
+"This robe has cloth patches of various shapes and colors covering it. While "
+"wearing the robe, you can use an action to detach one of the patches, "
+"causing it to become the object or creature it represents. Once the last "
+"patch is removed, the robe becomes an ordinary garment.    \n"
+"The robe has two of each of the following patches:\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: sources/gamemaster_rules/magic_items/robe_of_useful_items.md:16
+msgid "Dagger"
+msgstr ""
+
+#. type: Bullet: '* '
+#: sources/gamemaster_rules/magic_items/robe_of_useful_items.md:16
+msgid "Bullseye lantern (filled and lit)"
+msgstr ""
+
+#. type: Bullet: '* '
+#: sources/gamemaster_rules/magic_items/robe_of_useful_items.md:16
+msgid "Steel mirror"
+msgstr ""
+
+#. type: Bullet: '* '
+#: sources/gamemaster_rules/magic_items/robe_of_useful_items.md:16
+msgid "10-foot pole"
+msgstr ""
+
+#. type: Bullet: '* '
+#: sources/gamemaster_rules/magic_items/robe_of_useful_items.md:16
+msgid "Hempen rope (50 feet, coiled)"
+msgstr ""
+
+#. type: Bullet: '* '
+#: sources/gamemaster_rules/magic_items/robe_of_useful_items.md:16
+msgid "Sack"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/robe_of_useful_items.md:18
+msgid ""
+"In addition, the robe has 4d4 other patches. The GM chooses the patches or "
+"determines them randomly."
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/robe_of_useful_items.md:33
+#, no-wrap
+msgid ""
+"| d100  | Patch                                                                                                                                                                                             "
+"|\n"
+"|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n"
+"| 01-08 | Bag of 100 gp                                                                                                                                                                                     "
+"|\n"
+"| 09-15 | Silver coffer (1 foot long, 6 inches wide and deep) worth 500 gp                                                                                                                                  "
+"|\n"
+"| 16-22 | Iron door (up to 10 feet wide and 10 feet high, barred on one side "
+"of your choice), which you can place in an opening you can reach; it "
+"conforms to fit the opening, attaching and hinging itself |\n"
+"| 23-30 | 10 gems worth 100 gp each                                                                                                                                                                         "
+"|\n"
+"| 31-44 | Wooden ladder (24 feet long)                                                                                                                                                                      "
+"|\n"
+"| 45-51 | A riding horse with saddle bags                                                                                                                                                                   "
+"|\n"
+"| 52-59 | Pit (a cube 10 feet on a side), which you can place on the ground "
+"within 10 feet of you                                                                                                           "
+"|\n"
+"| 60-68 | 4 potions of healing                                                                                                                                                                              "
+"|\n"
+"| 69-75 | Rowboat (12 feet long)                                                                                                                                                                            "
+"|\n"
+"| 76-83 | Spell scroll containing one spell of 1st to 3rd level                                                                                                                                             "
+"|\n"
+"| 84-90 | 2 mastiffs                                                                                                                                                                                        "
+"|\n"
+"| 91-96 | Window (2 feet by 4 feet, up to 2 feet deep), which you can place "
+"on a vertical surface you can reach                                                                                             "
+"|\n"
+"| 97-00 | Portable ram                                                                                                                                                                                      "
+"|\n"
+msgstr ""

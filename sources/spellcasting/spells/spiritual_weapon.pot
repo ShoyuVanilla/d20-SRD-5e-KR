@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/spiritual_weapon.md:5
+msgid "name: Spiritual Weapon level: 2 school: evocation classes: cleric"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/spiritual_weapon.md:8
+msgid "# Spiritual Weapon _2nd-level evocation_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/spiritual_weapon.md:13
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 bonus action    \n"
+"**Range:** 60 feet    \n"
+"**Components:** V, S    \n"
+"**Duration:** 1 minute \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/spiritual_weapon.md:17
+#, no-wrap
+msgid ""
+"You create a floating, spectral weapon within range that lasts for the "
+"duration or until you cast this spell again. When you cast the spell, you "
+"can make a melee spell attack against a creature within 5 feet of the "
+"weapon. On a hit, the target takes force damage equal to 1d8 + your "
+"spellcasting ability modifier.    \n"
+"As a bonus action on your turn, you can move the weapon up to 20 feet and "
+"repeat the attack against a creature within 5 feet of it.    \n"
+"The weapon can take whatever form you choose. Clerics of deities who are "
+"associated with a particular weapon (as St. Cuthbert is known for his mace "
+"and Thor for his hammer) make this spell's effect resemble that weapon. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/spiritual_weapon.md:18
+#, no-wrap
+msgid ""
+"**At Higher Levels.** When you cast this spell using a spell slot of 3rd "
+"level or higher, the damage increases by 1d8 for every two slot levels above "
+"2nd. \n"
+msgstr ""

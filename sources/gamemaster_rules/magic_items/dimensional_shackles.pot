@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/dimensional_shackles.md:3
+msgid "name: Dimensional Shackles type: item"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/dimensional_shackles.md:6
+msgid "# Dimensional Shackles _Wondrous item, rare_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/dimensional_shackles.md:8
+#, no-wrap
+msgid ""
+"You can use an action to place these shackles on an incapacitated "
+"creature. The shackles adjust to fit a creature of Small to Large size. In "
+"addition to serving as mundane manacles, the shackles prevent a creature "
+"bound by them from using any method of extradimensional movement, including "
+"teleportation or travel to a different plane of existence. They don't "
+"prevent the creature from passing through an interdimensional portal.    \n"
+"You and any creature you designate when you use the shackles can use an "
+"action to remove them. Once every 30 days, the bound creature can make a DC "
+"30 Strength (Athletics) check. On a success, the creature breaks free and "
+"destroys the shackles. \n"
+msgstr ""

@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/stone_shape.md:7
+#, no-wrap
+msgid ""
+"name: Stone Shape\n"
+"level: 4\n"
+"school: transmutation\n"
+"classes: cleric\n"
+"         druid\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/stone_shape.md:10
+msgid "# Stone Shape _4th-level transmutation_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/stone_shape.md:15
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** Touch    \n"
+"**Components:** V, S, M (soft clay, which must be worked into roughly the "
+"desired shape of the stone object)    \n"
+"**Duration:** Instantaneous \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/stone_shape.md:16
+msgid ""
+"You touch a stone object of Medium size or smaller or a section of stone no "
+"more than 5 feet in any dimension and form it into any shape that suits your "
+"purpose. So, for example, you could shape a large rock into a weapon, idol, "
+"or coffer, or make a small passage through a wall, as long as the wall is "
+"less than 5 feet thick. You could also shape a stone door or its frame to "
+"seal the door shut. The object you create can have up to two hinges and a "
+"latch, but finer mechanical detail isn't possible."
+msgstr ""

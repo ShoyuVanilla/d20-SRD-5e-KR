@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_frog.md:4
+msgid "name: Giant Frog type: beast cr: .25"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_frog.md:7
+msgid "# Giant Frog _Medium beast, unaligned_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_frog.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 11    \n"
+"**Hit Points** 18 (4d8)    \n"
+"**Speed** 30 ft., swim 30 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_frog.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 12 (+1) | 13 (+1) | 11 (+0) | 2 (−4)  | 10 (+0) | 3 (−4)  |  \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_frog.md:20
+#, no-wrap
+msgid ""
+"**Skills** Perception +2, Stealth +3    \n"
+"**Senses** darkvision 30 ft., passive Perception 12    \n"
+"**Languages** --    \n"
+"**Challenge** 1/4 (50 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_frog.md:23
+#, no-wrap
+msgid ""
+"**Amphibious.** The frog can breathe air and water.    \n"
+"**Standing Leap.** The frog's long jump is up to 20 feet and its high jump "
+"is up to 10 feet, with or without a running start. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_frog.md:26
+#, no-wrap
+msgid ""
+"### Actions    \n"
+"**Bite.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ "
+"4 (1d6 + 1) piercing damage, and the target is grappled (escape DC "
+"11). Until this grapple ends, the target is restrained, and the frog can't "
+"bite another target.    \n"
+"**Swallow.** The frog makes one bite attack against a Small or smaller "
+"target it is grappling. If the attack hits, the target is swallowed, and the "
+"grapple ends. The swallowed target is blinded and restrained, it has total "
+"cover against attacks and other effects outside the frog, and it takes 5 "
+"(2d4) acid damage at the start of each of the frog's turns. The frog can "
+"have only one target swallowed at a time. If the frog dies, a swallowed "
+"creature is no longer restrained by it and can escape from the corpse using "
+"5 feet of movement, exiting prone. \n"
+msgstr ""

@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/bead_of_force.md:3
+msgid "name: Bead of Force type: item"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/bead_of_force.md:6
+msgid "# Bead of Force _Wondrous item, rare_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/bead_of_force.md:9
+#, no-wrap
+msgid ""
+"This small black sphere measures 3/4 of an inch in diameter and weighs an "
+"ounce. Typically, 1d4 + 4 **beads of force** are found together.    \n"
+"You can use an action to throw the bead up to 60 feet. The bead explodes on "
+"impact and is destroyed. Each creature within a 10-foot radius of where the "
+"bead landed must succeed on a DC 15 Dexterity saving throw or take 5d4 force "
+"damage. A sphere of transparent force then encloses the area for 1 "
+"minute. Any creature that failed the save and is completely within the area "
+"is trapped inside this sphere. Creatures that succeeded on the save, or are "
+"partially within the area, are pushed away from the center of the sphere "
+"until they are no longer inside it. Only breathable air can pass through the "
+"sphere's wall. No attack or other effect can.    \n"
+"An enclosed creature can use its action to push against the sphere's wall, "
+"moving the sphere up to half the creature's walking speed. The sphere can be "
+"picked up, and its magic causes it to weigh only 1 pound, regardless of the "
+"weight of creatures inside. \n"
+msgstr ""

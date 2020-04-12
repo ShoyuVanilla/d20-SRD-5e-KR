@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/raven.md:4
+msgid "name: Raven type: beast cr: 0"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/raven.md:7
+msgid "# Raven _Tiny beast, unaligned_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/raven.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 12    \n"
+"**Hit Points** 1 (1d4 − 1)    \n"
+"**Speed** 10 ft., fly 50 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/raven.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 2 (−4)  | 14 (+2) | 8 (−1)  | 2 (−4)  | 12 (+1) | 6 (−2)  |  \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/raven.md:20
+#, no-wrap
+msgid ""
+"**Skills** Perception +3    \n"
+"**Senses** passive Perception 13    \n"
+"**Languages** --    \n"
+"**Challenge** 0 (10 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/raven.md:22
+#, no-wrap
+msgid ""
+"**Mimicry.** The raven can mimic simple sounds it has heard, such as a "
+"person whispering, a baby crying, or an animal chittering. A creature that "
+"hears the sounds can tell they are imitations with a successful DC 10 Wisdom "
+"(Insight) check. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/raven.md:24
+msgid ""
+"### Actions **Beak.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one "
+"target. _Hit:_ 1 piercing damage."
+msgstr ""

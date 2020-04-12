@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/prismatic_spray.md:6
+#, no-wrap
+msgid ""
+"name: Prismatic Spray\n"
+"level: 7\n"
+"school: evocation\n"
+"classes: sorcerer\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/prismatic_spray.md:9
+msgid "# Prismatic Spray _7th-level evocation_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/prismatic_spray.md:14
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** Self (60-foot cone)    \n"
+"**Components:** V, S    \n"
+"**Duration:** Instantaneous \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/prismatic_spray.md:23
+#, no-wrap
+msgid ""
+"Eight multicolored rays of light flash from your hand. Each ray is a "
+"different color and has a different power and purpose. Each creature in a "
+"60-foot cone must make a Dexterity saving throw. For each target, roll a d8 "
+"to determine which color ray affects it.    \n"
+"**1. Red.** The target takes 10d6 fire damage on a failed save, or half as "
+"much damage on a successful one.    \n"
+"**2. Orange.** The target takes 10d6 acid damage on a failed save, or half "
+"as much damage on a successful one.    \n"
+"**3. Yellow.** The target takes 10d6 lightning damage on a failed save, or "
+"half as much damage on a successful one.    \n"
+"**4. Green.** The target takes 10d6 poison damage on a failed save, or half "
+"as much damage on a successful one.    \n"
+"**5. Blue.** The target takes 10d6 cold damage on a failed save, or half as "
+"much damage on a successful one.    \n"
+"**6. Indigo.** On a failed save, the target is restrained. It must then make "
+"a Constitution saving throw at the end of each of its turns. If it "
+"successfully saves three times, the spell ends. If it fails its save three "
+"times, it permanently turns to stone and is subjected to the petrified "
+"condition. The successes and failures don't need to be consecutive; keep "
+"track of both until the target collects three of a kind.    \n"
+"**7. Violet.** On a failed save, the target is blinded. It must then make a "
+"Wisdom saving throw at the start of your next turn. A successful save ends "
+"the blindness. If it fails that save, the creature is transported to another "
+"plane of existence of the GM's choosing and is no longer "
+"blinded. (Typically, a creature that is on a plane that isn't its home plane "
+"is banished home, while other creatures are usually cast into the Astral or "
+"Ethereal planes.)    \n"
+"**8. Special.** The target is struck by two rays. Roll twice more, rerolling "
+"any 8. \n"
+msgstr ""

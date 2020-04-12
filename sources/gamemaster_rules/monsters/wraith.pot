@@ -1,0 +1,89 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/wraith.md:4
+msgid "name: Wraith type: undead cr: 5"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/wraith.md:7
+msgid "# Wraith _Medium undead, neutral evil_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/wraith.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 13    \n"
+"**Hit Points** 67 (9d8 + 27)    \n"
+"**Speed** 0 ft., fly 60 ft. (hover) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/wraith.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 6 (−2)  | 16 (+3) | 16 (+3) | 12 (+1) | 14 (+2) | 15 (+2) |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/wraith.md:22
+#, no-wrap
+msgid ""
+"**Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, "
+"piercing, and slashing from nonmagical attacks that aren't silvered    \n"
+"**Damage Immunities** necrotic, poison    \n"
+"**Condition Immunities** charmed, exhaustion, grappled, paralyzed, "
+"petrified, poisoned, prone, restrained    \n"
+"**Senses** darkvision 60 ft., passive Perception 12    \n"
+"**Languages** the languages it knew in life    \n"
+"**Challenge** 5 (1,800 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/wraith.md:25
+#, no-wrap
+msgid ""
+"**Incorporeal Movement.** The wraith can move through other creatures and "
+"objects as if they were difficult terrain. It takes 5 (1d10) force damage if "
+"it ends its turn inside an object.    \n"
+"**Sunlight Sensitivity.** While in sunlight, the wraith has disadvantage on "
+"attack rolls, as well as on Wisdom (Perception) checks that rely on "
+"sight. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/wraith.md:28
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Life Drain.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one "
+"creature. _Hit:_ 21 (4d8 + 3) necrotic damage. The target must succeed on a "
+"DC 14 Constitution saving throw or its hit point maximum is reduced by an "
+"amount equal to the damage taken. This reduction lasts until the target "
+"finishes a long rest. The target dies if this effect reduces its hit point "
+"maximum to 0.    \n"
+"**Create Specter.** The wraith targets a humanoid within 10 feet of it that "
+"has been dead for no longer than 1 minute and died violently. The target's "
+"spirit rises as a specter in the space of its corpse or in the nearest "
+"unoccupied space. The specter is under the wraith's control. The wraith can "
+"have no more than seven specters under its control at one time.\n"
+msgstr ""

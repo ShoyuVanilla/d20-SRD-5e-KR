@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/cloak_of_the_bat.md:3
+msgid "name: Cloak of the Bat type: item"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/cloak_of_the_bat.md:6
+msgid "# Cloak of the Bat _Wondrous item, rare (requires attunement)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/cloak_of_the_bat.md:8
+#, no-wrap
+msgid ""
+"While wearing this cloak, you have advantage on Dexterity (Stealth) "
+"checks. In an area of dim light or darkness, you can grip the edges of the "
+"cloak with both hands and use it to fly at a speed of 40 feet. If you ever "
+"fail to grip the cloak's edges while flying in this way, or if you are no "
+"longer in dim light or darkness, you lose this flying speed.    \n"
+"While wearing the cloak in an area of dim light or darkness, you can use "
+"your action to cast polymorph on yourself, transforming into a bat. While "
+"you are in the form of the bat, you retain your Intelligence, Wisdom, and "
+"Charisma scores. The cloak can't be used this way again until the next "
+"dawn. \n"
+msgstr ""

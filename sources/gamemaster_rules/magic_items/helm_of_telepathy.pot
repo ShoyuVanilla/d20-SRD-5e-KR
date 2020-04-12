@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/helm_of_telepathy.md:3
+msgid "name: Helm of Telepathy type: item"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/helm_of_telepathy.md:6
+msgid "# Helm of Telepathy _Wondrous item, uncommon (requires attunement)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/helm_of_telepathy.md:8
+#, no-wrap
+msgid ""
+"While wearing this helm, you can use an action to cast the **_detect "
+"thoughts_** spell (save DC 13) from it. As long as you maintain "
+"concentration on the spell, you can use a bonus action to send a telepathic "
+"message to a creature you are focused on. It can reply--using a bonus action "
+"to do so--while your focus on it continues.    \n"
+"While focusing on a creature with **_detect thoughts_**, you can use an "
+"action to cast the **_suggestion_** spell (save DC 13) from the helm on that "
+"creature. Once used, the **_suggestion_** property can't be used again until "
+"the next dawn. \n"
+msgstr ""

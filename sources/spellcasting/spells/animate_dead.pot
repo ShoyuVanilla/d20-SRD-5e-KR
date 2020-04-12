@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/animate_dead.md:6
+#, no-wrap
+msgid ""
+"name: Animate Dead\n"
+"level: 3\n"
+"school: necromancy\n"
+"classes: cleric\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/animate_dead.md:9
+msgid "# Animate Dead _3rd-level necromancy_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/animate_dead.md:14
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 minute   \n"
+"**Range:** 10 feet   \n"
+"**Components:** V, S, M (a drop of blood, a piece of flesh, and a pinch of "
+"bone dust)    \n"
+"**Duration:** Instantaneous \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/animate_dead.md:18
+#, no-wrap
+msgid ""
+"This spell creates an undead servant. Choose a pile of bones or a corpse of "
+"a Medium or Small humanoid within range. Your spell imbues the target with a "
+"foul mimicry of life, raising it as an undead creature. The target becomes a "
+"skeleton if you chose bones or a zombie if you chose a corpse (the GM has "
+"the creature's game statistics).    \n"
+"On each of your turns, you can use a bonus action to mentally command any "
+"creature you made with this spell if the creature is within 60 feet of you "
+"(if you control multiple creatures, you can command any or all of them at "
+"the same time, issuing the same command to each one). You decide what action "
+"the creature will take and where it will move during its next turn, or you "
+"can issue a general command, such as to guard a particular chamber or "
+"corridor. If you issue no commands, the creature only defends itself against "
+"hostile creatures. Once given an order, the creature continues to follow it "
+"until its task is complete.    \n"
+"The creature is under your control for 24 hours, after which it stops "
+"obeying any command you've given it. To maintain control of the creature for "
+"another 24 hours, you must cast this spell on the creature again before the "
+"current 24-hour period ends. This use of the spell reasserts your control "
+"over up to four creatures you have animated with this spell, rather than "
+"animating a new one. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/animate_dead.md:19
+#, no-wrap
+msgid ""
+"**At Higher Levels.** When you cast this spell using a spell slot of 4th "
+"level or higher, you animate or reassert control over two additional undead "
+"creatures for each slot level above 3rd. Each of the creatures must come "
+"from a different corpse or pile of bones. \n"
+msgstr ""

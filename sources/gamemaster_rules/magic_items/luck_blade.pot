@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/luck_blade.md:3
+msgid "name: Luck Blade type: weapon"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/luck_blade.md:6
+msgid "# Luck Blade _Weapon (any sword), legendary (requires attunement)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/luck_blade.md:9
+#, no-wrap
+msgid ""
+"You gain a +1 bonus to attack and damage rolls made with this magic "
+"weapon. While the sword is on your person, you also gain a +1 bonus to "
+"saving throws.    \n"
+"**Luck.** If the sword is on your person, you can call on its luck (no "
+"action required) to reroll one attack roll, ability check, or saving throw "
+"you dislike. You must use the second roll. This property can't be used again "
+"until the next dawn.    \n"
+"**Wish.** The sword has 1d4 – 1 charges. While holding it, you can use an "
+"action to expend 1 charge and cast the **_wish_** spell from it. This "
+"property can't be used again until the next dawn. The sword loses this "
+"property if it has no charges.\n"
+msgstr ""

@@ -1,0 +1,37 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/tome_of_leadership_and_influence.md:3
+msgid "name: Tome of Leadership and Influence type: item"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/tome_of_leadership_and_influence.md:6
+msgid "# Tome of Leadership and Influence _Wondrous item, very rare_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/tome_of_leadership_and_influence.md:7
+msgid ""
+"This book contains guidelines for influencing and charming others, and its "
+"words are charged with magic. If you spend 48 hours over a period of 6 days "
+"or fewer studying the book's contents and practicing its guidelines, your "
+"Charisma score increases by 2, as does your maximum for that score. The "
+"manual then loses its magic, but regains it in a century."
+msgstr ""

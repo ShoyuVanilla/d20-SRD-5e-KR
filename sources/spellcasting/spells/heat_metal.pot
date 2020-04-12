@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/heat_metal.md:6
+#, no-wrap
+msgid ""
+"name: Heat Metal\n"
+"level: 2\n"
+"school: transmutation\n"
+"classes: bard\n"
+"         druid\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/heat_metal.md:9
+msgid "# Heat Metal _2nd-level transmutation_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/heat_metal.md:14
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** 60 feet    \n"
+"**Components:** V, S, M (a piece of iron and a flame)    \n"
+"**Duration:** Concentration, up to 1 minute \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/heat_metal.md:17
+#, no-wrap
+msgid ""
+"Choose a manufactured metal object, such as a metal weapon or a suit of "
+"heavy or medium metal armor, that you can see within range. You cause the "
+"object to glow red-hot. Any creature in physical contact with the object "
+"takes 2d8 fire damage when you cast the spell. Until the spell ends, you can "
+"use a bonus action on each of your subsequent turns to cause this damage "
+"again.    \n"
+"If a creature is holding or wearing the object and takes the damage from it, "
+"the creature must succeed on a Constitution saving throw or drop the object "
+"if it can. If it doesn't drop the object, it has disadvantage on attack "
+"rolls and ability checks until the start of your next turn. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/heat_metal.md:18
+#, no-wrap
+msgid ""
+"**At Higher Levels.** When you cast this spell using a spell slot of 3rd "
+"level or higher, the damage increases by 1d8 for each slot level above "
+"2nd. \n"
+msgstr ""

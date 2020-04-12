@@ -1,0 +1,77 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/grimlock.md:4
+msgid "name: Grimlock type: humanoid (grimlock)  cr: .25"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/grimlock.md:7
+msgid "# Grimlock _Medium humanoid (grimlock), neutral evil_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/grimlock.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 11    \n"
+"**Hit Points** 11 (2d8 + 2)    \n"
+"**Speed** 30 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/grimlock.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 16 (+3) | 12 (+1) | 12 (+1) | 9 (−1)  | 8 (−1)  | 6 (−2)  |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/grimlock.md:21
+#, no-wrap
+msgid ""
+"**Skills** Athletics +5, Perception +3, Stealth +3    \n"
+"**Condition Immunities** blinded    \n"
+"**Senses** blindsight 30 ft. or 10 ft. while deafened (blind beyond this "
+"radius), passive Perception 13    \n"
+"**Languages** Undercommon    \n"
+"**Challenge** 1/4 (50 XP)    \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/grimlock.md:25
+#, no-wrap
+msgid ""
+"**Blind Senses**. The grimlock can't use its blindsight while deafened and "
+"unable to smell.    \n"
+"**Keen Hearing and Smell.** The grimlock has advantage on Wisdom "
+"(Perception) checks that rely on hearing or smell.    \n"
+"**Stone Camouflage.** The grimlock has advantage on Dexterity (Stealth) "
+"checks made to hide in rocky terrain. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/grimlock.md:27
+msgid ""
+"### Actions **Spiked Bone Club.** _Melee Weapon Attack:_ +5 to hit, reach 5 "
+"ft., one target. _Hit:_ 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing "
+"damage."
+msgstr ""

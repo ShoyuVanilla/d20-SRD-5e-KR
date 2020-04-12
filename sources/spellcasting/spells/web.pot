@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/web.md:6
+#, no-wrap
+msgid ""
+"name: Web\n"
+"level: 2\n"
+"school: conjuration\n"
+"classes: sorcerer\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/web.md:9
+msgid "# Web _2nd-level conjuration_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/web.md:14
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** 60 feet    \n"
+"**Components:** V, S, M (a bit of spiderweb)    \n"
+"**Duration:** Concentration, up to 1 hour \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/web.md:19
+#, no-wrap
+msgid ""
+"You conjure a mass of thick, sticky webbing at a point of your choice within "
+"range. The webs fill a 20- foot cube from that point for the duration. The "
+"webs are difficult terrain and lightly obscure their area.    \n"
+"If the webs aren't anchored between two solid masses (such as walls or "
+"trees) or layered across a floor, wall, or ceiling, the conjured web "
+"collapses on itself, and the spell ends at the start of your next turn. Webs "
+"layered over a flat surface have a depth of 5 feet.    \n"
+"Each creature that starts its turn in the webs or that enters them during "
+"its turn must make a Dexterity saving throw. On a failed save, the creature "
+"is restrained as long as it remains in the webs or until it breaks free.    "
+"\n"
+"A creature restrained by the webs can use its action to make a Strength "
+"check against your spell save DC. If it succeeds, it is no longer "
+"restrained.    \n"
+"The webs are flammable. Any 5-foot cube of webs exposed to fire burns away "
+"in 1 round, dealing 2d4 fire damage to any creature that starts its turn in "
+"the fire. \n"
+msgstr ""

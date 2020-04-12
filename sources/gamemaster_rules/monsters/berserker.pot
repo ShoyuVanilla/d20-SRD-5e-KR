@@ -1,0 +1,77 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/berserker.md:4
+msgid "name: Berserker type: humanoid (any race)  cr: 2"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/berserker.md:7
+msgid "# Berserker _Medium humanoid (any race), any chaotic alignment_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/berserker.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 13 (hide armor)    \n"
+"**Hit Points** 67 (9d8 + 27)    \n"
+"**Speed** 30 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/berserker.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 16 (+3) | 12 (+1) | 17 (+3) | 9 (−1)  | 11 (+0) | 9 (−1)  |  \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/berserker.md:19
+#, no-wrap
+msgid ""
+"**Senses** passive Perception 10    \n"
+"**Languages** any one language (usually Common)    \n"
+"**Challenge** 2 (450 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/berserker.md:21
+#, no-wrap
+msgid ""
+"**Reckless.** At the start of its turn, the berserker can gain advantage on "
+"all melee weapon attack rolls during that turn, but attack rolls against it "
+"have advantage until the start of its next turn. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/berserker.md:24
+msgid ""
+"### Actions **Greataxe.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one "
+"target. _Hit:_ 9 (1d12 + 3) slashing damage."
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/berserker.md:26
+msgid ""
+"### Description Hailing from uncivilized lands, unpredictable berserkers "
+"come together in war parties and seek conflict wherever they can find it."
+msgstr ""

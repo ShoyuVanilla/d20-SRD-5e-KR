@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/vorpal_sword.md:3
+msgid "name: Vorpal Sword type: weapon"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/vorpal_sword.md:6
+msgid ""
+"# Vorpal Sword _Weapon (any sword that deals slashing damage), legendary "
+"(requires attunement)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/vorpal_sword.md:8
+#, no-wrap
+msgid ""
+"You gain a +3 bonus to attack and damage rolls made with this magic "
+"weapon. In addition, the weapon ignores resistance to slashing damage.    \n"
+"When you attack a creature that has at least one head with this weapon and "
+"roll a 20 on the attack roll, you cut off one of the creature's heads. The "
+"creature dies if it can't survive without the lost head. A creature is "
+"immune to this effect if it is immune to slashing damage, doesn't have or "
+"need a head, has legendary actions, or the GM decides that the creature is "
+"too big for its head to be cut off with this weapon. Such a creature instead "
+"takes an extra 6d8 slashing damage from the hit.\n"
+msgstr ""

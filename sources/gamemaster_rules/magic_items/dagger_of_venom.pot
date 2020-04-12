@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/dagger_of_venom.md:3
+msgid "name: Dagger of Venom type: weapon"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/dagger_of_venom.md:6
+msgid "# Dagger of Venom _Weapon (dagger), rare_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/dagger_of_venom.md:8
+#, no-wrap
+msgid ""
+"You gain a +1 bonus to attack and damage rolls made with this magic weapon.    "
+"\n"
+"You can use an action to cause thick, black poison to coat the blade. The "
+"poison remains for 1 minute or until an attack using this weapon hits a "
+"creature. That creature must succeed on a DC 15 Constitution saving throw or "
+"take 2d10 poison damage and become poisoned for 1 minute. The dagger can't "
+"be used this way again until the next dawn. \n"
+msgstr ""

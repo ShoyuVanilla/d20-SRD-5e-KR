@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/lightning_bolt.md:6
+#, no-wrap
+msgid ""
+"name: Lightning Bolt\n"
+"level: 3\n"
+"school: evocation\n"
+"classes: sorcerer\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/lightning_bolt.md:9
+msgid "# Lightning Bolt _3rd-level evocation_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/lightning_bolt.md:14
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** Self (100-foot line)    \n"
+"**Components:** V, S, M (a bit of fur and a rod of amber, crystal, or glass)    "
+"\n"
+"**Duration:** Instantaneous \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/lightning_bolt.md:17
+#, no-wrap
+msgid ""
+"A stroke of lightning forming a line 100 feet long and 5 feet wide blasts "
+"out from you in a direction you choose. Each creature in the line must make "
+"a Dexterity saving throw. A creature takes 8d6 lightning damage on a failed "
+"save, or half as much damage on a successful one.    \n"
+"The lightning ignites flammable objects in the area that aren't being worn "
+"or carried. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/lightning_bolt.md:18
+#, no-wrap
+msgid ""
+"**At Higher Levels.** When you cast this spell using a spell slot of 4th "
+"level or higher, the damage increases by 1d6 for each slot level above "
+"3rd. \n"
+msgstr ""

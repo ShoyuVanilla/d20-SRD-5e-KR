@@ -1,0 +1,89 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mage.md:4
+msgid "name: Mage type: humanoid (any race)  cr: 6"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mage.md:7
+msgid "# Mage _Medium humanoid (any race), any alignment_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mage.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 12 (15 with mage armor)    \n"
+"**Hit Points** 40 (9d8)    \n"
+"**Speed** 30 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mage.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 9 (−1)  | 14 (+2) | 11 (+0) | 17 (+3) | 12 (+1) | 11 (+0) |   \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mage.md:21
+#, no-wrap
+msgid ""
+"**Saving Throws** Int +6, Wis +4    \n"
+"**Skills** Arcana +6, History +6    \n"
+"**Senses** passive Perception 11    \n"
+"**Languages** any four languages    \n"
+"**Challenge** 6 (2,300 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mage.md:29
+#, no-wrap
+msgid ""
+"**Spellcasting.** The mage is a 9th-level spellcaster. Its spellcasting "
+"ability is Intelligence (spell save DC 14, +6 to hit with spell "
+"attacks). The mage has the following wizard spells prepared:    \n"
+"Cantrips (at will): **_fire bolt, light, mage hand, prestidigitation_**    "
+"\n"
+"1st level (4 slots): **_detect magic, mage armor, magic missile, shield_**    "
+"\n"
+"2nd level (3 slots): **_misty step, suggestion_**    \n"
+"3rd level (3 slots): **_counterspell, fireball, fly_**    \n"
+"4th level (3 slots): **_greater invisibility, ice storm_**    \n"
+"5th level (1 slot): **_cone of cold_** \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mage.md:32
+msgid ""
+"### Actions **Dagger.** _Melee or _Ranged Weapon Attack:__ +5 to hit, reach "
+"5 ft. or range 20/60 ft., one target. _Hit:_ 4 (1d4 + 2) piercing damage."
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mage.md:34
+msgid ""
+"### Description Mages spend their lives in the study and practice of "
+"magic. Good-aligned mages offer counsel to nobles and others in power, while "
+"evil mages dwell in isolated sites to perform unspeakable experiments "
+"without interference."
+msgstr ""

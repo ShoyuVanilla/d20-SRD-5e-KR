@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/entangle.md:5
+msgid "name: Entangle level: 1 school: conjuration classes: druid"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/entangle.md:8
+msgid "# Entangle _1st-level conjuration_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/entangle.md:13
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** 90 feet    \n"
+"**Components:** V, S    \n"
+"**Duration:** Concentration, up to 1 minute \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/entangle.md:16
+#, no-wrap
+msgid ""
+"Grasping weeds and vines sprout from the ground in a 20-foot square starting "
+"from a point within range. For the duration, these plants turn the ground in "
+"the area into difficult terrain.    \n"
+"A creature in the area when you cast the spell must succeed on a Strength "
+"saving throw or be restrained by the entangling plants until the spell "
+"ends. A creature restrained by the plants can use its action to make a "
+"Strength check against your spell save DC. On a success, it frees itself.    "
+"\n"
+"When the spell ends, the conjured plants wilt away. \n"
+msgstr ""

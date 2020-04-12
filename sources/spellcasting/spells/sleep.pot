@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/sleep.md:7
+#, no-wrap
+msgid ""
+"name: Sleep\n"
+"level: 1\n"
+"school: enchantment\n"
+"classes: bard\n"
+"         sorcerer\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/sleep.md:10
+msgid "# Sleep _1st-level enchantment_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/sleep.md:15
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** 90 feet    \n"
+"**Components:** V, S, M (a pinch of fine sand, rose petals, or a cricket)    "
+"\n"
+"**Duration:** 1 minute \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/sleep.md:19
+#, no-wrap
+msgid ""
+"This spell sends creatures into a magical slumber. Roll 5d8; the total is "
+"how many hit points of creatures this spell can affect. Creatures within 20 "
+"feet of a point you choose within range are affected in ascending order of "
+"their current hit points (ignoring unconscious creatures).    \n"
+"Starting with the creature that has the lowest current hit points, each "
+"creature affected by this spell falls unconscious until the spell ends, the "
+"sleeper takes damage, or someone uses an action to shake or slap the sleeper "
+"awake. Subtract each creature's hit points from the total before moving on "
+"to the creature with the next lowest hit points. A creature's hit points "
+"must be equal to or less than the remaining total for that creature to be "
+"affected.    \n"
+"Undead and creatures immune to being charmed aren't affected by this "
+"spell. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/sleep.md:20
+#, no-wrap
+msgid ""
+"**At Higher Levels.** When you cast this spell using a spell slot of 2nd "
+"level or higher, roll an additional 2d8 for each slot level above 1st. \n"
+msgstr ""

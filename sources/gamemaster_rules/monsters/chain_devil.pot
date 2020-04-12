@@ -1,0 +1,103 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/chain_devil.md:4
+msgid "name: Chain Devil type: fiend (devil)  cr: 8"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/chain_devil.md:7
+msgid "# Chain Devil _Medium fiend (devil), lawful evil_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/chain_devil.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 16 (natural armor)    \n"
+"**Hit Points** 85 (10d8 + 40)    \n"
+"**Speed** 30 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/chain_devil.md:15
+#, no-wrap
+msgid ""
+"| STR      | DEX     | CON      | INT     | WIS     | CHA     |\n"
+"|----------|---------|----------|---------|---------|---------|\n"
+"| 18 (+4) | 15 (+2) | 18 (+4) | 11 (+0) | 12 (+1) | 14 (+2) |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/chain_devil.md:23
+#, no-wrap
+msgid ""
+"**Saving Throws** Con +7, Wis +4, Cha +5    \n"
+"**Damage Resistances** cold; bludgeoning, piercing, and slashing from "
+"nonmagical attacks that aren't silvered    \n"
+"**Damage Immunities** fire, poison    \n"
+"**Condition Immunities** poisoned    \n"
+"**Senses** darkvision 120 ft., passive Perception 11    \n"
+"**Languages** Infernal, telepathy 120 ft.    \n"
+"**Challenge** 8 (3,900 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/chain_devil.md:26
+#, no-wrap
+msgid ""
+"**Devil's Sight.** Magical darkness doesn't impede the devil's darkvision.    "
+"\n"
+"**Magic Resistance.** The devil has advantage on saving throws against "
+"spells and other magical effects. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/chain_devil.md:32
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Multiattack.** The devil makes two attacks with its chains.    \n"
+"**Chain.** _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one "
+"target. _Hit:_ 11 (2d6 + 4) slashing damage. The target is grappled (escape "
+"DC 14) if the devil isn't already grappling a creature. Until this grapple "
+"ends, the target is restrained and takes 7 (2d6) piercing damage at the "
+"start of each of its turns.    \n"
+"**Animate Chains (Recharges after a Short or Long Rest).** Up to four chains "
+"the devil can see within 60 feet of it magically sprout razor-­edged barbs "
+"and animate under the devil's control, provided that the chains aren't being "
+"worn or carried.    \n"
+"Each animated chain is an object with AC 20, 20 hit points, resistance to "
+"piercing damage, and immunity to psychic and thunder damage. When the devil "
+"uses multiattack on its turn, it can use each animated chain to make one "
+"additional chain attack. An animated chain can grapple one creature of its "
+"own but can't make attacks while grappling. An animated chain reverts to its "
+"inanimate state if reduced to 0 hit points or if the devil is incapacitated "
+"or dies. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/chain_devil.md:34
+msgid ""
+"### Reactions **Unnerving Mask.** When a creature the devil can see starts "
+"its turn within 30 feet of the devil, the devil can create the illusion that "
+"it looks like one of the creature's departed loved ones or bitter "
+"enemies. If the creature can see the devil, it must succeed on a DC 14 "
+"Wisdom saving throw or be frightened until the end of its turn."
+msgstr ""

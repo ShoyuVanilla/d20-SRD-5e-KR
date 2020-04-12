@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/dispel_evil_and_good.md:6
+#, no-wrap
+msgid ""
+"name: Dispel Evil and Good\n"
+"level: 5\n"
+"school: abjuration\n"
+"classes: cleric\n"
+"         paladin\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/dispel_evil_and_good.md:9
+msgid "# Dispel Evil and Good _5th-level abjuration_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/dispel_evil_and_good.md:14
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** Self    \n"
+"**Components:** V, S, M (holy water or powdered silver and iron)    \n"
+"**Duration:** Concentration, up to 1 minute \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/dispel_evil_and_good.md:18
+#, no-wrap
+msgid ""
+"Shimmering energy surrounds and protects you from fey, undead, and creatures "
+"originating from beyond the Material Plane. For the duration, celestials, "
+"elementals, fey, fiends, and undead have disadvantage on attack rolls "
+"against you.    \n"
+"You can end the spell early by using either of the following special "
+"functions.    \n"
+"**Break Enchantment.** As your action, you touch a creature you can reach "
+"that is charmed, frightened, or possessed by a celestial, an elemental, a "
+"fey, a fiend, or an undead. The creature you touch is no longer charmed, "
+"frightened, or possessed by such creatures.    \n"
+"**Dismissal.** As your action, make a melee spell attack against a "
+"celestial, an elemental, a fey, a fiend, or an undead you can reach. On a "
+"hit, you attempt to drive the creature back to its home plane. The creature "
+"must succeed on a Charisma saving throw or be sent back to its home plane "
+"(if it isn't there already). If they aren't on their home plane, undead are "
+"sent to the Shadowfell, and fey are sent to the Feywild. \n"
+msgstr ""

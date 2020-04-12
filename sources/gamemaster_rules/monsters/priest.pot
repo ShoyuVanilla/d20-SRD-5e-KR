@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/priest.md:4
+msgid "name: Priest type: humanoid (any race)  cr: 2"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/priest.md:7
+msgid "# Priest _Medium humanoid (any race), any alignment_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/priest.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 13 (chain shirt)    \n"
+"**Hit Points** 27 (5d8 + 5)    \n"
+"**Speed** 25 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/priest.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 10 (+0) | 10 (+0) | 12 (+1) | 13 (+1) | 16 (+3) | 13 (+1) |   \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/priest.md:20
+#, no-wrap
+msgid ""
+"**Skills** Medicine +7, Persuasion +3, Religion +4    \n"
+"**Senses** passive Perception 13    \n"
+"**Languages** any two languages    \n"
+"**Challenge** 2 (450 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/priest.md:27
+#, no-wrap
+msgid ""
+"**Divine Eminence.** As a bonus action, the priest can expend a spell slot "
+"to cause its melee weapon attacks to magically deal an extra 10 (3d6) "
+"radiant damage to a target on a hit. This benefit lasts until the end of the "
+"turn. If the priest expends a spell slot of 2nd level or higher, the extra "
+"damage increases by 1d6 for each level above 1st.    \n"
+"**Spellcasting.** The priest is a 5th-level spellcaster. Its spellcasting "
+"ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The "
+"priest has the following cleric spells prepared:    \n"
+"Cantrips (at will): **_light, sacred flame, thaumaturgy_**    \n"
+"1st level (4 slots): **_cure wounds, guiding bolt, sanctuary_**    \n"
+"2nd level (3 slots): **_lesser restoration, spiritual weapon_**    \n"
+"3rd level (2 slots): **_dispel magic, spirit guardians_** \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/priest.md:30
+msgid ""
+"### Actions **Mace.** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one "
+"target. _Hit:_ 3 (1d6) bludgeoning damage."
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/priest.md:32
+msgid ""
+"### Description Priests bring the teachings of their gods to the common "
+"folk. They are the spiritual leaders of temples and shrines and often hold "
+"positions of influence in their communities. Evil priests might work openly "
+"under a tyrant, or they might be the leaders of religious sects hidden in "
+"the shadows of good society, overseeing depraved rites. A priest typically "
+"has one or more acolytes to help with religious ceremonies and other sacred "
+"duties."
+msgstr ""

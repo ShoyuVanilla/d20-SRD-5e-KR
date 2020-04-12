@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/wand_of_binding.md:3
+msgid "name: Wand of Binding type: wand"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/wand_of_binding.md:6
+msgid "# Wand of Binding _Wand, rare (requires attunement by a spellcaster)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/wand_of_binding.md:9
+#, no-wrap
+msgid ""
+"This wand has 7 charges for the following properties. It regains 1d6 + 1 "
+"expended charges daily at dawn. If you expend the wand's last charge, roll a "
+"d20. On a 1, the wand crumbles into ashes and is destroyed.    \n"
+"**Spells.** While holding the wand, you can use an action to expend some of "
+"its charges to cast one of the following spells (save DC 17): **_hold "
+"monster_** (5 charges) or **_hold person_** (2 charges).    \n"
+"**Assisted Escape.** While holding the wand, you can use your reaction to "
+"expend 1 charge and gain advantage on a saving throw you make to avoid being "
+"paralyzed or restrained, or you can expend 1 charge and gain advantage on "
+"any check you make to escape a grapple. \n"
+msgstr ""

@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/staff_of_the_woodlands.md:3
+msgid "name: Staff of the Woodlands type: staff"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/staff_of_the_woodlands.md:6
+msgid "# Staff of the Woodlands _Staff, rare (requires attunement by a druid)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/staff_of_the_woodlands.md:11
+#, no-wrap
+msgid ""
+"This staff can be wielded as a magic quarterstaff that grants a +2 bonus to "
+"attack and damage rolls made with it. While holding it, you have a +2 bonus "
+"to spell attack rolls.    \n"
+"The staff has 10 charges for the following properties. It regains 1d6 + 4 "
+"expended charges daily at dawn. If you expend the last charge, roll a "
+"d20. On a 1, the staff loses its properties and becomes a nonmagical "
+"quarterstaff.    \n"
+"**Spells.** You can use an action to expend 1 or more of the staff's charges "
+"to cast one of the following spells from it, using your spell save DC: "
+"**_animal friendship_** (1 charge), **_awaken_** (5 charges), **_barkskin_** "
+"(2 charges), **_locate animals or plants_** (2 charges), **_speak with "
+"animals_** (1 charge), **_speak with plants_** (3 charges), or **_wall of "
+"thorns_** (6 charges).    \n"
+"You can also use an action to cast the **_pass without trace_** spell from "
+"the staff without using any charges.    \n"
+"**Tree Form.** You can use an action to plant one end of the staff in "
+"fertile earth and expend 1 charge to transform the staff into a healthy "
+"tree. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its "
+"branches at the top spread out in a 20-foot radius. The tree appears "
+"ordinary but radiates a faint aura of transmutation magic if targeted by "
+"**_detect magic_**. While touching the tree and using another action to "
+"speak its command word, you return the staff to its normal form. Any "
+"creature in the tree falls when it reverts to a staff. \n"
+msgstr ""

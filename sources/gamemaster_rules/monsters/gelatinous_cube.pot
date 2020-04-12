@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gelatinous_cube.md:4
+msgid "name: Gelatinous Cube type: ooze cr: 2"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gelatinous_cube.md:7
+msgid "# Gelatinous Cube _Large ooze, unaligned_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gelatinous_cube.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 6    \n"
+"**Hit Points** 84 (8d10 + 40)    \n"
+"**Speed** 15 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gelatinous_cube.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 14 (+2) | 3 (−4)  | 20 (+5) | 1 (−5) |  6 (−2)  | 1 (−5)  |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gelatinous_cube.md:20
+#, no-wrap
+msgid ""
+"**Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, "
+"prone    \n"
+"**Senses** blindsight 60 ft. (blind beyond this radius), passive Perception "
+"8    \n"
+"**Languages** --    \n"
+"**Challenge** 2 (450 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gelatinous_cube.md:26
+#, no-wrap
+msgid ""
+"**Ooze Cube.** The cube takes up its entire space. Other creatures can enter "
+"the space, but a creature that does so is subjected to the cube's Engulf and "
+"has disadvantage on the saving throw.    \n"
+"Creatures inside the cube can be seen but have total cover.    \n"
+"A creature within 5 feet of the cube can take an action to pull a creature "
+"or object out of the cube. Doing so requires a successful DC 12 Strength "
+"check, and the creature making the attempt takes 10 (3d6) acid damage.    \n"
+"The cube can hold only one Large creature or up to four Medium or smaller "
+"creatures inside it at a time.    \n"
+"**Transparent.** Even when the cube is in plain sight, it takes a successful "
+"DC 15 Wisdom (Perception) check to spot a cube that has neither moved nor "
+"attacked. A creature that tries to enter the cube's space while unaware of "
+"the cube is surprised by the cube. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gelatinous_cube.md:32
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Pseudopod.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one "
+"creature. _Hit:_ 10 (3d6) acid damage.    \n"
+"**Engulf.** The cube moves up to its speed. While doing so, it can enter "
+"Large or smaller creatures' spaces. Whenever the cube enters a creature's "
+"space, the creature must make a DC 12 Dexterity saving throw.    \n"
+"On a successful save, the creature can choose to be pushed 5 feet back or to "
+"the side of the cube. A creature that chooses not to be pushed suffers the "
+"consequences of a failed saving throw.    \n"
+"On a failed save, the cube enters the creature's space, and the creature "
+"takes 10 (3d6) acid damage and is engulfed. The engulfed creature can't "
+"breathe, is restrained, and takes 21 (6d6) acid damage at the start of each "
+"of the cube's turns. When the cube moves, the engulfed creature moves with "
+"it.    \n"
+"An engulfed creature can try to escape by taking an action to make a DC 12 "
+"Strength check. On a success, the creature escapes and enters a space of its "
+"choice within 5 feet of the cube.\n"
+msgstr ""

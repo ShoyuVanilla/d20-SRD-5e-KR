@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/arcane_sword.md:6
+#, no-wrap
+msgid ""
+"name: Arcane Sword\n"
+"level: 7\n"
+"school: evocation\n"
+"classes: bard\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/arcane_sword.md:9
+msgid "# Arcane Sword _7th-level evocation_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/arcane_sword.md:14
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action   \n"
+"**Range:** 60 feet   \n"
+"**Components:** V, S, M (a miniature platinum sword with a grip and pommel "
+"of copper and zinc, worth 250 gp)   \n"
+"**Duration:** Concentration, up to 1 minute \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/arcane_sword.md:16
+#, no-wrap
+msgid ""
+"You create a sword-shaped plane of force that hovers within range. It lasts "
+"for the duration.    \n"
+"When the sword appears, you make a melee spell attack against a target of "
+"your choice within 5 feet of the sword. On a hit, the target takes 3d10 "
+"force damage. Until the spell ends, you can use a bonus action on each of "
+"your turns to move the sword up to 20 feet to a spot you can see and repeat "
+"this attack against the same target or a different one. \n"
+msgstr ""

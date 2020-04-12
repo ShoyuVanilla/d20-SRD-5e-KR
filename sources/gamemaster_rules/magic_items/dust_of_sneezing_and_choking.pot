@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/dust_of_sneezing_and_choking.md:3
+msgid "name: Dust of Sneezing and Choking type: item"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/dust_of_sneezing_and_choking.md:6
+msgid "# Dust of Sneezing and Choking _Wondrous item, uncommon_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/dust_of_sneezing_and_choking.md:8
+#, no-wrap
+msgid ""
+"Found in a small container, this powder resembles very fine sand. It appears "
+"to be **dust of disappearance**, and an **_identify_** spell reveals it to "
+"be such. There is enough of it for one use.    \n"
+"When you use an action to throw a handful of the dust into the air, you and "
+"each creature that needs to breathe within 30 feet of you must succeed on a "
+"DC 15 Constitution saving throw or become unable to breathe, while sneezing "
+"uncontrollably. A creature affected in this way is incapacitated and "
+"suffocating. As long as it is conscious, a creature can repeat the saving "
+"throw at the end of each of its turns, ending the effect on it on a "
+"success. The **_lesser restoration_** spell can also end the effect on a "
+"creature. \n"
+msgstr ""

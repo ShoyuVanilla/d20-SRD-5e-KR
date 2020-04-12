@@ -1,0 +1,84 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mammoth.md:4
+msgid "name: Mammoth type: beast cr: 6"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mammoth.md:7
+msgid "# Mammoth _Huge beast, unaligned_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mammoth.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 13 (natural armor)    \n"
+"**Hit Points** 126 (11d12 + 55)    \n"
+"**Speed** 40 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mammoth.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 24 (+7) | 9 (−1)  | 21 (+5) | 3 (−4)  | 11 (+0) | 6 (−2)  |  \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mammoth.md:19
+#, no-wrap
+msgid ""
+"**Senses** passive Perception 10    \n"
+"**Languages** --    \n"
+"**Challenge** 6 (2,300 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mammoth.md:21
+#, no-wrap
+msgid ""
+"**Trampling Charge.** If the mammoth moves at least 20 feet straight toward "
+"a creature and then hits it with a gore attack on the same turn, that target "
+"must succeed on a DC 18 Strength saving throw or be knocked prone. If the "
+"target is prone, the mammoth can make one stomp attack against it as a bonus "
+"action. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mammoth.md:25
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Gore.** _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one "
+"target. _Hit:_ 25 (4d8 + 7) piercing damage.    \n"
+"**Stomp.** _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one prone "
+"creature. _Hit:_ 29 (4d10 + 7) bludgeoning damage. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mammoth.md:27
+msgid ""
+"### Description A mammoth is an elephantine creature with thick fur and long "
+"tusks. Stockier and fiercer than normal elephants, mammoths inhabit a wide "
+"range of climes, from subarctic to subtropical."
+msgstr ""

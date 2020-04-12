@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/rules/abilities/constitution.md:3
+msgid "# Constitution Constitution measures health, stamina, and vital force."
+msgstr ""
+
+#. type: Plain text
+#: sources/rules/abilities/constitution.md:7
+#, no-wrap
+msgid ""
+"## Constitution Checks \n"
+"Constitution checks are uncommon, and no skills apply to Constitution "
+"checks, because the endurance this ability represents is largely passive "
+"rather than involving a specific effort on the part of a character or "
+"monster. A Constitution check can model your attempt to push beyond normal "
+"limits, however.    \n"
+"The GM might call for a Constitution check when you try to accomplish tasks "
+"like the following: \n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: sources/rules/abilities/constitution.md:13
+msgid "Hold your breath"
+msgstr ""
+
+#. type: Bullet: '* '
+#: sources/rules/abilities/constitution.md:13
+msgid "March or labor for hours without rest"
+msgstr ""
+
+#. type: Bullet: '* '
+#: sources/rules/abilities/constitution.md:13
+msgid "Go without sleep"
+msgstr ""
+
+#. type: Bullet: '* '
+#: sources/rules/abilities/constitution.md:13
+msgid "Survive without food or water"
+msgstr ""
+
+#. type: Bullet: '* '
+#: sources/rules/abilities/constitution.md:13
+msgid "Quaff an entire stein of ale in one go"
+msgstr ""
+
+#. type: Plain text
+#: sources/rules/abilities/constitution.md:16
+#, no-wrap
+msgid ""
+"## Hit Points \n"
+"Your Constitution modifier contributes to your hit points. Typically, you "
+"add your Constitution modifier to each Hit Die you roll for your hit "
+"points.    \n"
+"If your Constitution modifier changes, your hit point maximum changes as "
+"well, as though you had the new modifier from 1st level. For example, if you "
+"raise your Constitution score when you reach 4th level and your Constitution "
+"modifier increases from +1 to +2, you adjust your hit point maximum as "
+"though the modifier had always been +2. So you add 3 hit points for your "
+"first three levels, and then roll your hit points for 4th level using your "
+"new modifier. Or if you're 7th level and some effect lowers your "
+"Constitution score so as to reduce your Constitution modifier by 1, your hit "
+"point maximum is reduced by 7.\n"
+msgstr ""

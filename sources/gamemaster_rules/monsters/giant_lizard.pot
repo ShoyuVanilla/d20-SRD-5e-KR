@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_lizard.md:4
+msgid "name: Giant Lizard type: beast cr: .25"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_lizard.md:7
+msgid "# Giant Lizard _Large beast, unaligned_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_lizard.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 12 (natural armor)    \n"
+"**Hit Points** 19 (3d10 + 3)    \n"
+"**Speed** 30 ft., climb 30 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_lizard.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 15 (+2) | 12 (+1) | 13 (+1) | 2 (−4)  | 10 (+0) | 5 (−3)  |  \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_lizard.md:19
+#, no-wrap
+msgid ""
+"**Senses** darkvision 30 ft., passive Perception 10    \n"
+"**Languages** --    \n"
+"**Challenge** 1/4 (50 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_lizard.md:22
+#, no-wrap
+msgid ""
+"### Actions    \n"
+"**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ "
+"6 (1d8 + 2) piercing damage. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_lizard.md:24
+msgid ""
+"### Description A giant lizard can be ridden or used as a draft "
+"animal. Lizardfolk also keep them as pets, and subterranean giant lizards "
+"are used as mounts and pack animals by drow, duergar, and others."
+msgstr ""

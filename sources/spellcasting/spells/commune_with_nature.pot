@@ -1,0 +1,89 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/commune_with_nature.md:6
+#, no-wrap
+msgid ""
+"name: Commune with Nature\n"
+"level: 5\n"
+"school: divination\n"
+"classes: druid\n"
+"         ranger\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/commune_with_nature.md:9
+msgid "# Commune with Nature _5th-level divination (ritual)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/commune_with_nature.md:14
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 minute    \n"
+"**Range:** Self    \n"
+"**Components:** V, S    \n"
+"**Duration:** Instantaneous \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/commune_with_nature.md:17
+#, no-wrap
+msgid ""
+"You briefly become one with nature and gain knowledge of the surrounding "
+"territory. In the outdoors, the spell gives you knowledge of the land within "
+"3 miles of you. In caves and other natural underground settings, the radius "
+"is limited to 300 feet. The spell doesn't function where nature has been "
+"replaced by construction, such as in dungeons and towns.    \n"
+"You instantly gain knowledge of up to three facts of your choice about any "
+"of the following subjects as they relate to the area:\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: sources/spellcasting/spells/commune_with_nature.md:23
+msgid "terrain and bodies of water"
+msgstr ""
+
+#. type: Bullet: '* '
+#: sources/spellcasting/spells/commune_with_nature.md:23
+msgid "prevalent plants, minerals, animals, or peoples"
+msgstr ""
+
+#. type: Bullet: '* '
+#: sources/spellcasting/spells/commune_with_nature.md:23
+msgid "powerful celestials, fey, fiends, elementals, or undead"
+msgstr ""
+
+#. type: Bullet: '* '
+#: sources/spellcasting/spells/commune_with_nature.md:23
+msgid "influence from other planes of existence"
+msgstr ""
+
+#. type: Bullet: '* '
+#: sources/spellcasting/spells/commune_with_nature.md:23
+msgid "buildings"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/commune_with_nature.md:24
+msgid ""
+"For example, you could determine the location of powerful undead in the "
+"area, the location of major sources of safe drinking water, and the location "
+"of any nearby towns."
+msgstr ""

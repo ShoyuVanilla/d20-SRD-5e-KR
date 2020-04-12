@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gladiator.md:4
+msgid "name: Gladiator type: humanoid (any race)  cr: 5"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gladiator.md:7
+msgid "# Gladiator _Medium humanoid (any race), any alignment_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gladiator.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 16 (studded leather, shield)    \n"
+"**Hit Points** 112 (15d8 + 45)    \n"
+"**Speed** 30 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gladiator.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 18 (+4) | 15 (+2) | 16 (+3) | 10 (+0) | 12 (+1) | 15 (+2) |   \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gladiator.md:21
+#, no-wrap
+msgid ""
+"**Saving Throws** Str +7, Dex +5, Con +6    \n"
+"**Skills** Athletics +10, Intimidation +5    \n"
+"**Senses** passive Perception 11    \n"
+"**Languages** any one language (usually Common)    \n"
+"**Challenge** 5 (1,800 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gladiator.md:24
+#, no-wrap
+msgid ""
+"**Brave.** The gladiator has advantage on saving throws against being "
+"frightened.    \n"
+"**Brute.** A melee weapon deals one extra die of its damage when the "
+"gladiator hits with it (included in the attack). \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gladiator.md:29
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Multiattack.** The gladiator makes three melee attacks or two ranged "
+"attacks.    \n"
+"**Spear.** _Melee or _Ranged Weapon Attack:__ +7 to hit, reach 5 ft. and "
+"range 20/60 ft., one target. _Hit:_ 11 (2d6 + 4) piercing damage, or 13 (2d8 "
+"+ 4) piercing damage if used with two hands to make a melee attack.    \n"
+"**Shield Bash.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one "
+"creature. _Hit:_ 9 (2d4 + 4) bludgeoning damage. If the target is a Medium "
+"or smaller creature, it must succeed on a DC 15 Strength saving throw or be "
+"knocked prone. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gladiator.md:32
+msgid ""
+"### Reactions **Parry.** The gladiator adds 3 to its AC against one melee "
+"attack that would hit it. To do so, the gladiator must see the attacker and "
+"be wielding a melee weapon."
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gladiator.md:34
+msgid ""
+"### Description Gladiators battle for the entertainment of raucous "
+"crowds. Some gladiators are brutal pit fighters who treat each match as a "
+"life-or-death struggle, while others are professional duelists who command "
+"huge fees but rarely fight to the death."
+msgstr ""

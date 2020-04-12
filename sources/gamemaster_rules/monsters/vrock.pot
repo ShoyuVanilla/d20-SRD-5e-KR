@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/vrock.md:4
+msgid "name: Vrock type: fiend (demon)  cr: 6"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/vrock.md:7
+msgid "# Vrock _Large fiend (demon), chaotic evil_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/vrock.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 15 (natural armor)    \n"
+"**Hit Points** 104 (11d10 + 44)    \n"
+"**Speed** 40 ft., fly 60 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/vrock.md:15
+#, no-wrap
+msgid ""
+"| STR      | DEX     | CON      | INT     | WIS     | CHA     |\n"
+"|----------|---------|----------|---------|---------|---------|\n"
+"| 17 (+3) | 15 (+2) | 18 (+4) | 8 (−1) | 13 (+1) | 8 (−1) |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/vrock.md:23
+#, no-wrap
+msgid ""
+"**Saving Throws** Dex +5, Wis +4, Cha +2    \n"
+"**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and "
+"slashing from nonmagical attacks    \n"
+"**Damage Immunities** poison    \n"
+"**Condition Immunities** poisoned    \n"
+"**Senses** darkvision 120 ft., passive Perception 11    \n"
+"**Languages** Abyssal, telepathy 120 ft.    \n"
+"**Challenge** 6 (2,300 XP)  \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/vrock.md:25
+#, no-wrap
+msgid ""
+"**Magic Resistance.** The vrock has advantage on saving throws against "
+"spells and other magical effects. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/vrock.md:31
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Multiattack.** The vrock makes two attacks: one with its beak and one with "
+"its talons.    \n"
+"**Beak.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ "
+"10 (2d6 + 3) piercing damage.    \n"
+"**Talons.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one "
+"target. _Hit:_ 14 (2d10 + 3) slashing damage.    \n"
+"**Spores (Recharge 6).** A 15­‐foot­‐radius cloud of toxic spores extends "
+"out from the vrock. The spores spread around corners. Each creature in that "
+"area must succeed on a DC 14 Constitution saving throw or become "
+"poisoned. While poisoned in this way, a target takes 5 (1d10) poison damage "
+"at the start of each of its turns. A target can repeat the saving throw at "
+"the end of each of its turns, ending the effect on itself on a "
+"success. Emptying a vial of holy water on the target also ends the effect on "
+"it.    \n"
+"**Stunning Screech (1/Day).** The vrock emits a horrific screech. Each "
+"creature within 20 feet of it that can hear it and that isn't a demon must "
+"succeed on a DC 14 Constitution saving throw or be stunned until the end of "
+"the vrock's next turn.\n"
+msgstr ""

@@ -1,0 +1,81 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_fire_beetle.md:4
+msgid "name: Giant Fire Beetle type: beast cr: 0"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_fire_beetle.md:7
+msgid "# Giant Fire Beetle _Small beast, unaligned_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_fire_beetle.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 13 (natural armor)    \n"
+"**Hit Points** 4 (1d6 + 1)    \n"
+"**Speed** 30 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_fire_beetle.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 8 (−1)  | 10 (+0) | 12 (+1) | 1 (−5)  | 7 (−2)  | 3 (−4)  |  \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_fire_beetle.md:19
+#, no-wrap
+msgid ""
+"**Senses** blindsight 30 ft., passive Perception 8    \n"
+"**Languages** --    \n"
+"**Challenge** 0 (10 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_fire_beetle.md:21
+#, no-wrap
+msgid ""
+"**Illumination.** The beetle sheds bright light in a 10-foot radius and dim "
+"light for an additional 10 feet. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_fire_beetle.md:24
+#, no-wrap
+msgid ""
+"### Actions    \n"
+"**Bite.** _Melee Weapon Attack:_ +1 to hit, reach 5 ft., one target. _Hit:_ "
+"2 (1d6 − 1) slashing damage. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_fire_beetle.md:26
+msgid ""
+"### Description A giant fire beetle is a nocturnal creature that takes its "
+"name from a pair of glowing glands that give off light. Miners and "
+"adventurers prize these creatures, for a giant fire beetle's glands continue "
+"to shed light for 1d6 days after the beetle dies. Giant fire beetles are "
+"most commonly found underground and in dark forests."
+msgstr ""

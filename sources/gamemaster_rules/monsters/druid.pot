@@ -1,0 +1,86 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/druid.md:4
+msgid "name: Druid type: humanoid (any race)  cr: 2"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/druid.md:7
+msgid "# Druid _Medium humanoid (any race), any alignment_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/druid.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 11 (16 with barkskin)    \n"
+"**Hit Points** 27 (5d8 + 5)    \n"
+"**Speed** 30 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/druid.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 10 (+0) | 12 (+1) | 13 (+1) | 12 (+1) | 15 (+2) | 11 (+0) |   \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/druid.md:20
+#, no-wrap
+msgid ""
+"**Skills** Medicine +4, Nature +3, Perception +4    \n"
+"**Senses** passive Perception 14    \n"
+"**Languages** Druidic plus any two languages    \n"
+"**Challenge** 2 (450 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/druid.md:25
+#, no-wrap
+msgid ""
+"***Spellcasting.*** The druid is a 4th-level spellcaster. Its spellcasting "
+"ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has "
+"the following druid spells prepared:    \n"
+"Cantrips (at will): **_druidcraft, produce flame, shillelagh_**    \n"
+"1st level (4 slots): **_entangle, longstrider, speak with animals, "
+"thunderwave_**    \n"
+"2nd level (3 slots): **_animal messenger, barkskin_** \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/druid.md:28
+msgid ""
+"### Actions **Quarterstaff.** _Melee Weapon Attack:_ +2 to hit (+4 to hit "
+"with shillelagh), reach 5 ft., one target. _Hit:_ 3 (1d6) bludgeoning "
+"damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) "
+"bludgeoning damage with shillelagh."
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/druid.md:30
+msgid ""
+"### Description Druids dwell in forests and other secluded wilderness "
+"locations, where they protect the natural world from monsters and the "
+"encroachment of civilization. Some are tribal shamans who heal the sick, "
+"pray to animal spirits, and provide spiritual guidance."
+msgstr ""

@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/earthquake.md:7
+#, no-wrap
+msgid ""
+"name: Earthquake\n"
+"level: 8\n"
+"school: evocation\n"
+"classes: cleric\n"
+"         druid\n"
+"         sorcerer\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/earthquake.md:10
+msgid "# Earthquake _8th-level evocation_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/earthquake.md:15
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** 500 feet    \n"
+"**Components:** V, S, M (a pinch of dirt, a piece of rock, and a lump of "
+"clay)    \n"
+"**Duration:** Concentration, up to 1 minute \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/earthquake.md:22
+#, no-wrap
+msgid ""
+"You create a seismic disturbance at a point on the ground that you can see "
+"within range. For the duration, an intense tremor rips through the ground in "
+"a 100-foot-radius circle centered on that point and shakes creatures and "
+"structures in contact with the ground in that area.    \n"
+"The ground in the area becomes difficult terrain. Each creature on the "
+"ground that is concentrating must make a Constitution saving throw. On a "
+"failed save, the creature's concentration is broken.    \n"
+"When you cast this spell and at the end of each turn you spend concentrating "
+"on it, each creature on the ground in the area must make a Dexterity saving "
+"throw. On a failed save, the creature is knocked prone.    \n"
+"This spell can have additional effects depending on the terrain in the area, "
+"as determined by the GM.    \n"
+"**Fissures.** Fissures open throughout the spell's area at the start of your "
+"next turn after you cast the spell. A total of 1d6 such fissures open in "
+"locations chosen by the GM. Each is 1d10 × 10 feet deep, 10 feet wide, and "
+"extends from one edge of the spell's area to the opposite side. A creature "
+"standing on a spot where a fissure opens must succeed on a Dexterity saving "
+"throw or fall in. A creature that successfully saves moves with the "
+"fissure's edge as it opens.    \n"
+"A fissure that opens beneath a structure causes it to automatically collapse "
+"(see below).    \n"
+"**Structures.** The tremor deals 50 bludgeoning damage to any structure in "
+"contact with the ground in the area when you cast the spell and at the start "
+"of each of your turns until the spell ends. If a structure drops to 0 hit "
+"points, it collapses and potentially damages nearby creatures. A creature "
+"within half the distance of a structure's height must make a Dexterity "
+"saving throw. On a failed save, the creature takes 5d6 bludgeoning damage, "
+"is knocked prone, and is buried in the rubble, requiring a DC 20 Strength "
+"(Athletics) check as an action to escape. The GM can adjust the DC higher or "
+"lower, depending on the nature of the rubble. On a successful save, the "
+"creature takes half as much damage and doesn't fall prone or become "
+"buried. \n"
+msgstr ""

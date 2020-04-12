@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/boar.md:4
+msgid "name: Boar type: beast cr: .25"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/boar.md:7
+msgid "# Boar _Medium beast, unaligned_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/boar.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 11 (natural armor)    \n"
+"**Hit Points** 11 (2d8 + 2)    \n"
+"**Speed** 40 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/boar.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 13 (+1) | 11 (+0) | 12 (+1) | 2 (−4)  | 9 (−1)  | 5 (−3)  | \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/boar.md:19
+#, no-wrap
+msgid ""
+"**Senses** passive Perception 9    \n"
+"**Languages** --    \n"
+"**Challenge** 1/4 (50 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/boar.md:22
+#, no-wrap
+msgid ""
+"**Charge.** If the boar moves at least 20 feet straight toward a target and "
+"then hits it with a tusk attack on the same turn, the target takes an extra "
+"3 (1d6) slashing damage. If the target is a creature, it must succeed on a "
+"DC 11 Strength saving throw or be knocked prone.   \n"
+"**Relentless (Recharges after a Short or Long Rest).** If the boar takes 7 "
+"damage or less that would reduce it to 0 hit points, it is reduced to 1 hit "
+"point instead. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/boar.md:24
+msgid ""
+"### Actions **Tusk.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one "
+"target. _Hit:_ 4 (1d6 + 1) slashing damage."
+msgstr ""

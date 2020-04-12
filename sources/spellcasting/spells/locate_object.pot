@@ -1,0 +1,63 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/locate_object.md:10
+#, no-wrap
+msgid ""
+"name: Locate Object\n"
+"level: 2\n"
+"school: divination\n"
+"classes: bard\n"
+"         cleric\n"
+"         druid\n"
+"         paladin\n"
+"         ranger\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/locate_object.md:13
+msgid "# Locate Object _2nd-level divination_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/locate_object.md:18
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** Self    \n"
+"**Components:** V, S, M (a forked twig)    \n"
+"**Duration:** Concentration, up to 10 minutes \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/locate_object.md:21
+#, no-wrap
+msgid ""
+"Describe or name an object that is familiar to you. You sense the direction "
+"to the object's location, as long as that object is within 1,000 feet of "
+"you. If the object is in motion, you know the direction of its movement.    "
+"\n"
+"The spell can locate a specific object known to you, as long as you have "
+"seen it up close--within 30 feet--at least once. Alternatively, the spell "
+"can locate the nearest object of a particular kind, such as a certain kind "
+"of apparel, jewelry, furniture, tool, or weapon.    \n"
+"This spell can't locate an object if any thickness of lead, even a thin "
+"sheet, blocks a direct path between you and the object. \n"
+msgstr ""

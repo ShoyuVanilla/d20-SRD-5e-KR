@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/geas.md:9
+#, no-wrap
+msgid ""
+"name: Geas\n"
+"level: 5\n"
+"school: enchantment\n"
+"classes: bard\n"
+"         cleric\n"
+"         druid\n"
+"         paladin\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/geas.md:12
+msgid "# Geas _5th-level enchantment_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/geas.md:17
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 minute    \n"
+"**Range:** 60 feet    \n"
+"**Components:** V    \n"
+"**Duration:** 30 days \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/geas.md:20
+#, no-wrap
+msgid ""
+"You place a magical command on a creature that you can see within range, "
+"forcing it to carry out some service or refrain from some action or course "
+"of activity as you decide. If the creature can understand you, it must "
+"succeed on a Wisdom saving throw or become charmed by you for the "
+"duration. While the creature is charmed by you, it takes 5d10 psychic damage "
+"each time it acts in a manner directly counter to your instructions, but no "
+"more than once each day. A creature that can't understand you is unaffected "
+"by the spell.    \n"
+"You can issue any command you choose, short of an activity that would result "
+"in certain death. Should you issue a suicidal command, the spell ends. You "
+"can end the spell early by using an action to dismiss it. A **_remove "
+"curse_**, **_greater restoration_**, or **_wish_** spell also ends it. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/geas.md:21
+#, no-wrap
+msgid ""
+"**At Higher Levels.** When you cast this spell using a spell slot of 7th or "
+"8th level, the duration is 1 year. When you cast this spell using a spell "
+"slot of 9th level, the spell lasts until it is ended by one of the spells "
+"mentioned above. \n"
+msgstr ""

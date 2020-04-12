@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/mage_hand.md:8
+#, no-wrap
+msgid ""
+"name: Mage Hand\n"
+"level: 0\n"
+"school: conjuration\n"
+"classes: bard\n"
+"         sorcerer\n"
+"         warlock\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/mage_hand.md:11
+msgid "# Mage Hand _Conjuration cantrip_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/mage_hand.md:16
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** 30 feet    \n"
+"**Components:** V, S    \n"
+"**Duration:** 1 minute \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/mage_hand.md:19
+#, no-wrap
+msgid ""
+"A spectral, floating hand appears at a point you choose within range. The "
+"hand lasts for the duration or until you dismiss it as an action. The hand "
+"vanishes if it is ever more than 30 feet away from you or if you cast this "
+"spell again.    \n"
+"You can use your action to control the hand. You can use the hand to "
+"manipulate an object, open an unlocked door or container, stow or retrieve "
+"an item from an open container, or pour the contents out of a vial. You can "
+"move the hand up to 30 feet each time you use it.    \n"
+"The hand can't attack, activate magic items, or carry more than 10 "
+"pounds. \n"
+msgstr ""

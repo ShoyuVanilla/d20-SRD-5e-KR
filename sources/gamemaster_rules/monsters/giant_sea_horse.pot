@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_sea_horse.md:4
+msgid "name: Giant Sea Horse type: beast cr: .5"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_sea_horse.md:7
+msgid "# Giant Sea Horse _Large beast, unaligned_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_sea_horse.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 13 (natural armor)    \n"
+"**Hit Points** 16 (3d10)    \n"
+"**Speed** 0 ft., swim 40 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_sea_horse.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 12 (+1) | 15 (+2) | 11 (+0) | 2 (−4)  | 12 (+1) | 5 (−3)  |  \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_sea_horse.md:19
+#, no-wrap
+msgid ""
+"**Senses** passive Perception 11    \n"
+"**Languages** --    \n"
+"**Challenge** 1/2 (100 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_sea_horse.md:22
+#, no-wrap
+msgid ""
+"**Charge.** If the sea horse moves at least 20 feet straight toward a target "
+"and then hits it with a ram attack on the same turn, the target takes an "
+"extra 7 (2d6) bludgeoning damage. It the target is a creature, it must "
+"succeed on a DC 11 Strength saving throw or be knocked prone.    \n"
+"**Water Breathing.** The sea horse can breathe only underwater. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_sea_horse.md:25
+msgid ""
+"### Actions **Ram.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one "
+"target. _Hit:_ 4 (1d6 + 1) bludgeoning damage."
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_sea_horse.md:27
+msgid ""
+"### Description Like their smaller kin, giant sea horses are shy, colorful "
+"fish with elongated bodies and curled tails. Aquatic elves train them as "
+"mounts."
+msgstr ""

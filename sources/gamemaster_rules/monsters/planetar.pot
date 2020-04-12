@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/planetar.md:4
+msgid "name: Planetar cr: 16 type: celestial"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/planetar.md:7
+msgid "# Planetar _Large celestial, lawful good_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/planetar.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 19 (natural armor)    \n"
+"**Hit Points** 200 (16d10 + 112)    \n"
+"**Speed** 40 ft., fly 120 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/planetar.md:15
+#, no-wrap
+msgid ""
+"| STR      | DEX     | CON      | INT     | WIS     | CHA     |\n"
+"|----------|---------|----------|---------|---------|---------|\n"
+"| 24 (+7)  | 20 (+5) | 24 (+7)  | 19 (+4) | 22 (+6) | 25 (+7) |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/planetar.md:23
+#, no-wrap
+msgid ""
+"**Saving Throws** Con +12, Wis +11, Cha +12    \n"
+"**Skills** Perception +11    \n"
+"**Damage Resistances** radiant; bludgeoning, piercing, and slashing from "
+"nonmagical attacks    \n"
+"**Condition Immunities** charmed, exhaustion, frightened    \n"
+"**Senses** truesight 120 ft., passive Perception 21    \n"
+"**Languages** all, telepathy 120 ft.    \n"
+"**Challenge** 16 (15,000 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/planetar.md:31
+#, no-wrap
+msgid ""
+"**Angelic Weapons.** The planetar's weapon attacks are magical. When the "
+"planetar hits with any weapon, the weapon deals an extra 5d8 radiant damage "
+"(included in the attack).    \n"
+"**Divine Awareness.** The planetar knows if it hears a lie.    \n"
+"**Innate Spellcasting.** The planetar's spellcasting ability is Charisma "
+"(spell save DC 20). The planetar can innately cast the following spells, "
+"requiring no material components:    \n"
+"At will: **_detect evil and good_**, **_invisibility_** (self only)    \n"
+"3/day each: **_blade barrier_**, **_dispel evil and good_**, **_flame "
+"strike_**, **_raise dead_**    \n"
+"1/day each: **_commune_**, **_control weather_**, **_insect plague_**    \n"
+"**Magic Resistance.** The planetar has advantage on saving throws against "
+"spells and other magical effects. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/planetar.md:35
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Multiattack.** The planetar makes two melee attacks.    \n"
+"**Greatsword.** _Melee Weapon Attack:_ +12 to hit, reach 5 ft., one "
+"target. _Hit:_ 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage.   "
+"\n"
+"**Healing Touch** (4/Day). The planetar touches another creature. The target "
+"magically regains 30 (6d8 + 3) hit points and is freed from any curse, "
+"disease, poison, blindness, or deafness.\n"
+msgstr ""

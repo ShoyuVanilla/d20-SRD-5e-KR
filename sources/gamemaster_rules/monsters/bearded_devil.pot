@@ -1,0 +1,95 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/bearded_devil.md:4
+msgid "name: Bearded Devil type: fiend (devil)  cr: 3"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/bearded_devil.md:7
+msgid "# Bearded Devil _Medium fiend (devil), lawful evil_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/bearded_devil.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 13 (natural armor)    \n"
+"**Hit Points** 52 (8d8 + 16)    \n"
+"**Speed** 30 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/bearded_devil.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 16 (+3) | 15 (+2) | 15 (+2) | 9 (−1) | 11 (+0) | 11 (+0) |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/bearded_devil.md:23
+#, no-wrap
+msgid ""
+"**Saving Throws** Str +5, Con +4, Wis +2    \n"
+"**Damage Resistances** cold; bludgeoning, piercing, and slashing from "
+"nonmagical attacks that aren't silvered    \n"
+"**Damage Immunities** fire, poison    \n"
+"**Condition Immunities** poisoned    \n"
+"**Senses** darkvision 120 ft., passive Perception 10    \n"
+"**Languages** Infernal, telepathy 120 ft.    \n"
+"**Challenge** 3 (700 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/bearded_devil.md:27
+#, no-wrap
+msgid ""
+"**Devil's Sight.** Magical darkness doesn't impede the devil's darkvision.    "
+"\n"
+"**Magic Resistance.** The devil has advantage on saving throws against "
+"spells and other magical effects.    \n"
+"**Steadfast.** The devil can't be frightened while it can see an allied "
+"creature within 30 feet of it. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/bearded_devil.md:31
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Multiattack.** The devil makes two attacks: one with its beard and one "
+"with its glaive.    \n"
+"**Beard.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one "
+"creature. _Hit:_ 6 (1d8 + 2) piercing damage, and the target must succeed on "
+"a DC 12 Constitution saving throw or be poisoned for 1 minute. While "
+"poisoned in this way, the target can't regain hit points. The target can "
+"repeat the saving throw at the end of each of its turns, ending the effect "
+"on itself on a success.    \n"
+"**Glaive.** _Melee Weapon Attack:_ +5 to hit, reach 10 ft., one "
+"target. _Hit:_ 8 (1d10 + 3) slashing damage. If the target is a creature "
+"other than an undead or a construct, it must succeed on a DC 12 Constitution "
+"saving throw or lose 5 (1d10) hit points at the start of each of its turns "
+"due to an infernal wound. Each time the devil hits the wounded target with "
+"this attack, the damage dealt by the wound increases by 5 (1d10). Any "
+"creature can take an action to stanch the wound with a successful DC 12 "
+"Wisdom (Medicine) check. The wound also closes if the target receives "
+"magical healing.\n"
+msgstr ""

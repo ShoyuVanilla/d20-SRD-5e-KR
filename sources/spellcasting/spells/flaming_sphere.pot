@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/flaming_sphere.md:6
+#, no-wrap
+msgid ""
+"name: Flaming Sphere\n"
+"level: 2\n"
+"school: conjuration\n"
+"classes: druid\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/flaming_sphere.md:9
+msgid "# Flaming Sphere _2nd-level conjuration_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/flaming_sphere.md:14
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** 60 feet    \n"
+"**Components:** V, S, M (a bit of tallow, a pinch of brimstone, and a "
+"dusting of powdered iron)    \n"
+"**Duration:** Concentration, up to 1 minute \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/flaming_sphere.md:18
+#, no-wrap
+msgid ""
+"A 5-foot-diameter sphere of fire appears in an unoccupied space of your "
+"choice within range and lasts for the duration. Any creature that ends its "
+"turn within 5 feet of the sphere must make a Dexterity saving throw. The "
+"creature takes 2d6 fire damage on a failed save, or half as much damage on a "
+"successful one.    \n"
+"As a bonus action, you can move the sphere up to 30 feet. If you ram the "
+"sphere into a creature, that creature must make the saving throw against the "
+"sphere's damage, and the sphere stops moving this turn.    \n"
+"When you move the sphere, you can direct it over barriers up to 5 feet tall "
+"and jump it across pits up to 10 feet wide. The sphere ignites flammable "
+"objects not being worn or carried, and it sheds bright light in a 20-foot "
+"radius and dim light for an additional 20 feet. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/flaming_sphere.md:19
+#, no-wrap
+msgid ""
+"**At Higher Levels.** When you cast this spell using a spell slot of 3rd "
+"level or higher, the damage increases by 1d6 for each slot level above "
+"2nd. \n"
+msgstr ""

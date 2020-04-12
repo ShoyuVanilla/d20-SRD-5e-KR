@@ -1,0 +1,125 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/adult_bronze_dragon.md:4
+msgid "name: Adult Bronze Dragon type: dragon cr: 15"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/adult_bronze_dragon.md:7
+msgid "# Adult Bronze Dragon _Huge dragon, lawful good_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/adult_bronze_dragon.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 19 (natural armor)    \n"
+"**Hit Points** 212 (17d12 + 102)    \n"
+"**Speed** 40 ft., fly 80 ft., swim 40 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/adult_bronze_dragon.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 25 (+7) | 10 (+0) | 23 (+6) | 16 (+3) | 15 (+2) | 19 (+4) |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/adult_bronze_dragon.md:22
+#, no-wrap
+msgid ""
+"**Saving Throws** Dex +5, Con +11, Wis +7, Cha +9    \n"
+"**Skills** Insight +7, Perception +12, Stealth +5    \n"
+"**Damage Immunities** lightning    \n"
+"**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22    "
+"\n"
+"**Languages** Common, Draconic    \n"
+"**Challenge** 15 (13,000 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/adult_bronze_dragon.md:25
+#, no-wrap
+msgid ""
+"**Amphibious.** The dragon can breathe air and water.    \n"
+"**Legendary Resistance (3/Day).** If the dragon fails a saving throw, it can "
+"choose to succeed instead. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/adult_bronze_dragon.md:37
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Multiattack.** The dragon can use its Frightful Presence. It then makes "
+"three attacks: one with its bite and two with its claws.    \n"
+"**Bite.** _Melee Weapon Attack:_ +12 to hit, reach 10 ft., one "
+"target. _Hit:_ 18 (2d10 + 7) piercing damage.    \n"
+"**Claw.** _Melee Weapon Attack:_ +12 to hit, reach 5 ft., one target. _Hit:_ "
+"14 (2d6 + 7) slashing damage.    \n"
+"**Tail.** _Melee Weapon Attack:_ +12 to hit, reach 15 ft., one "
+"target. _Hit:_ 16 (2d8 + 7) bludgeoning damage.    \n"
+"**Frightful Presence.** Each creature of the dragon's choice that is within "
+"120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving "
+"throw or become frightened for 1 minute. A creature can repeat the saving "
+"throw at the end of each of its turns, ending the effect on itself on a "
+"success. If a creature's saving throw is successful or the effect ends for "
+"it, the creature is immune to the dragon's Frightful Presence for the next "
+"24 hours.    \n"
+"**Breath Weapons (Recharge 5–6).** The dragon uses one of the following "
+"breath weapons.    \n"
+"**Lightning Breath.** The dragon exhales lightning in a 90- foot line that "
+"is 5 feet wide. Each creature in that line must make a DC 19 Dexterity "
+"saving throw, taking 66 (12d10) lightning damage on a failed save, or half "
+"as much damage on a successful one.    \n"
+"**Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot "
+"cone. Each creature in that area must succeed on a DC 19 Strength saving "
+"throw. On a failed save, the creature is pushed 60 feet away from the "
+"dragon.    \n"
+"**Change Shape.** The dragon magically polymorphs into a humanoid or beast "
+"that has a challenge rating no higher than its own, or back into its true "
+"form. It reverts to its true form if it dies. Any equipment it is wearing or "
+"carrying is absorbed or borne by the new form (the dragon's choice).    \n"
+"In a new form, the dragon retains its alignment, hit points, Hit Dice, "
+"ability to speak, proficiencies, Legendary Resistance, lair actions, and "
+"Intelligence, Wisdom, and Charisma scores, as well as this action. Its "
+"statistics and capabilities are otherwise replaced by those of the new form, "
+"except any class features or legendary actions of that form. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/adult_bronze_dragon.md:42
+#, no-wrap
+msgid ""
+"### Legendary Actions \n"
+"The dragon can take 3 legendary actions, choosing from the options "
+"below. Only one legendary action option can be used at a time and only at "
+"the end of another creature's turn. The dragon regains spent legendary "
+"actions at the start of its turn.    \n"
+"**Detect.** The dragon makes a Wisdom (Perception) check.    \n"
+"**Tail Attack.** The dragon makes a tail attack.    \n"
+"**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature "
+"within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw "
+"or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can "
+"then fly up to half its flying speed.\n"
+msgstr ""

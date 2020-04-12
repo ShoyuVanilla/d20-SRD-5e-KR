@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ghast.md:4
+msgid "name: Ghast type: undead cr: 2"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ghast.md:7
+msgid "# Ghast _Medium undead, chaotic evil_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ghast.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 13    \n"
+"**Hit Points** 36 (8d8)    \n"
+"**Speed** 30 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ghast.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 16 (+3) | 17 (+3) | 10 (+0) | 11 (+0) | 10 (+0) | 8 (−1)  |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ghast.md:22
+#, no-wrap
+msgid ""
+"**Damage Resistances** necrotic    \n"
+"**Damage Immunities** poison    \n"
+"**Condition Immunities** charmed, exhaustion, poisoned    \n"
+"**Senses** darkvision 60 ft., passive Perception 10    \n"
+"**Languages** Common    \n"
+"**Challenge** 2 (450 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ghast.md:25
+#, no-wrap
+msgid ""
+"**Stench.** Any creature that starts its turn within 5 feet of the ghast "
+"must succeed on a DC 10 Constitution saving throw or be poisoned until the "
+"start of its next turn. On a successful saving throw, the creature is immune "
+"to the ghast's Stench for 24 hours.    \n"
+"**Turning Defiance.** The ghast and any ghouls within 30 feet of it have "
+"advantage on saving throws against effects that turn undead. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ghast.md:28
+#, no-wrap
+msgid ""
+"### Actions    \n"
+"**Bite.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one "
+"creature. _Hit:_ 12 (2d8 + 3) piercing damage.    \n"
+"**Claws.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ "
+"10 (2d6 + 3) slashing damage. If the target is a creature other than an "
+"undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed "
+"for 1 minute. The target can repeat the saving throw at the end of each of "
+"its turns, ending the effect on itself on a success. \n"
+msgstr ""

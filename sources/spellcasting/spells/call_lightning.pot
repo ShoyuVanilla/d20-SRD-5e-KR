@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/call_lightning.md:5
+msgid "name: Call Lightning level: 3 school: conjuration classes: druid"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/call_lightning.md:8
+msgid "# Call Lightning _3rd-level conjuration_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/call_lightning.md:13
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** 120 feet   \n"
+"**Components:** V, S    \n"
+"**Duration:** Concentration, up to 10 minutes \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/call_lightning.md:17
+#, no-wrap
+msgid ""
+"A storm cloud appears in the shape of a cylinder that is 10 feet tall with a "
+"60-foot radius, centered on a point you can see 100 feet directly above "
+"you. The spell fails if you can't see a point in the air where the storm "
+"cloud could appear (for example, if you are in a room that can't accommodate "
+"the cloud).    \n"
+"When you cast the spell, choose a point you can see within range. A bolt of "
+"lightning flashes down from the cloud to that point. Each creature within 5 "
+"feet of that point must make a Dexterity saving throw. A creature takes 3d10 "
+"lightning damage on a failed save, or half as much damage on a successful "
+"one. On each of your turns until the spell ends, you can use your action to "
+"call down lightning in this way again, targeting the same point or a "
+"different one.    \n"
+"If you are outdoors in stormy conditions when you cast this spell, the spell "
+"gives you control over the existing storm instead of creating a new "
+"one. Under such conditions, the spell's damage increases by 1d10. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/call_lightning.md:18
+#, no-wrap
+msgid ""
+"**At Higher Levels.** When you cast this spell using a spell slot of 4th or "
+"higher level, the damage increases by 1d10 for each slot level above 3rd. \n"
+msgstr ""

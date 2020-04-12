@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/harpy.md:4
+msgid "name: Harpy type: monstrosity cr: 1"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/harpy.md:7
+msgid "# Harpy _Medium monstrosity, chaotic evil_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/harpy.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 11    \n"
+"**Hit Points** 38 (7d8 + 7)    \n"
+"**Speed** 20 ft., fly 40 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/harpy.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 12 (+1) | 13 (+1) | 12 (+1) | 7 (−2)  | 10 (+0) | 13 (+1) |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/harpy.md:19
+#, no-wrap
+msgid ""
+"**Senses** passive Perception 10    \n"
+"**Languages** Common    \n"
+"**Challenge** 1 (200 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/harpy.md:26
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Multiattack.** The harpy makes two attacks: one with its claws and one "
+"with its club.    \n"
+"**Claws.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ "
+"6 (2d4 + 1) slashing damage.    \n"
+"**Club.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ "
+"3 (1d4 + 1) bludgeoning damage.    \n"
+"**Luring Song.** The harpy sings a magical melody. Every humanoid and giant "
+"within 300 feet of the harpy that can hear the song must succeed on a DC 11 "
+"Wisdom saving throw or be charmed until the song ends. The harpy must take a "
+"bonus action on its subsequent turns to continue singing. It can stop "
+"singing at any time. The song ends if the harpy is incapacitated.    \n"
+"While charmed by the harpy, a target is incapacitated and ignores the songs "
+"of other harpies. If the charmed target is more than 5 feet away from the "
+"harpy, the target must move on its turn toward the harpy by the most direct "
+"route, trying to get within 5 feet. It doesn't avoid opportunity attacks, "
+"but before moving into damaging terrain, such as lava or a pit, and whenever "
+"it takes damage from a source other than the harpy, the target can repeat "
+"the saving throw. A charmed target can also repeat the saving throw at the "
+"end of each of its turns. If the saving throw is successful, the effect ends "
+"on it.    \n"
+"A target that successfully saves is immune to this harpy's song for the next "
+"24 hours.\n"
+msgstr ""

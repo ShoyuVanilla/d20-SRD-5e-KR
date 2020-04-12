@@ -1,0 +1,85 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gray_ooze.md:4
+msgid "name: Gray Ooze type: ooze cr: .5"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gray_ooze.md:7
+msgid "# Gray Ooze _Medium ooze, unaligned_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gray_ooze.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 8    \n"
+"**Hit Points** 22 (3d8 + 9)    \n"
+"**Speed** 10 ft., climb 10 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gray_ooze.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 12 (+1) | 6 (−2)  | 16 (+3) | 1 (−5)  | 6 (−2) |  2 (−4)  |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gray_ooze.md:22
+#, no-wrap
+msgid ""
+"**Skills** Stealth +2    \n"
+"**Damage Resistances** acid, cold, fire    \n"
+"**Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, "
+"prone    \n"
+"**Senses** blindsight 60 ft. (blind beyond this radius), passive Perception "
+"8    \n"
+"**Languages** --    \n"
+"**Challenge** 1/2 (100 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gray_ooze.md:27
+#, no-wrap
+msgid ""
+"**Amorphous.** The ooze can move through a space as narrow as 1 inch wide "
+"without squeezing.    \n"
+"**Corrode Metal.** Any nonmagical weapon made of metal that hits the ooze "
+"corrodes. After dealing damage, the weapon takes a permanent and cumulative "
+"−1 penalty to damage rolls. If its penalty drops to −5, the weapon is "
+"destroyed. Nonmagical ammunition made of metal that hits the ooze is "
+"destroyed after dealing damage.    \n"
+"The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.    \n"
+"**False Appearance.** While the ooze remains motionless, it is "
+"indistinguishable from an oily pool or wet rock. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gray_ooze.md:29
+msgid ""
+"### Actions **Pseudopod.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., "
+"one target. _Hit:_ 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, "
+"and if the target is wearing nonmagical metal armor, its armor is partly "
+"corroded and takes a permanent and cumulative −1 penalty to the AC it "
+"offers. The armor is destroyed if the penalty reduces its AC to 10."
+msgstr ""

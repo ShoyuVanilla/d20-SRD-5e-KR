@@ -1,0 +1,44 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/cubic_gate.md:3
+msgid "name: Cubic Gate type: item"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/cubic_gate.md:6
+msgid "# Cubic Gate _Wondrous item, legendary_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/cubic_gate.md:9
+#, no-wrap
+msgid ""
+"This cube is 3 inches across and radiates palpable magical energy. The six "
+"sides of the cube are each keyed to a different plane of existence, one of "
+"which is the Material Plane. The other sides are linked to planes determined "
+"by the GM.    \n"
+"You can use an action to press one side of the cube to cast the **_gate_** "
+"spell with it, opening a portal to the plane keyed to that "
+"side. Alternatively, if you use an action to press one side twice, you can "
+"cast the **_plane shift_** spell (save DC 17) with the cube and transport "
+"the targets to the plane keyed to that side.    \n"
+"The cube has 3 charges. Each use of the cube expends 1 charge. The cube "
+"regains 1d3 expended charges daily at dawn.\t\n"
+msgstr ""

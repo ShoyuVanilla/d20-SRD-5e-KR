@@ -1,0 +1,94 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/green_hag.md:4
+msgid "name: Green Hag type: fey cr: 3"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/green_hag.md:7
+msgid "# Green Hag _Medium fey, neutral evil_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/green_hag.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 17 (natural armor)    \n"
+"**Hit Points** 82 (11d8 + 33)    \n"
+"**Speed** 30 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/green_hag.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 18 (+4) | 12 (+1) | 16 (+3) | 13 (+1) | 14 (+2) | 14 (+2) |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/green_hag.md:20
+#, no-wrap
+msgid ""
+"**Skills** Arcana +3, Deception +4, Perception +4, Stealth +3    \n"
+"**Senses** darkvision 60 ft., passive Perception 14    \n"
+"**Languages** Common, Draconic, Sylvan    \n"
+"**Challenge** 3 (700 XP)  \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/green_hag.md:25
+#, no-wrap
+msgid ""
+"**Amphibious.** The hag can breathe air and water.    \n"
+"**Innate Spellcasting.** The hag's innate spellcasting ability is Charisma "
+"(spell save DC 12). She can innately cast the following spells, requiring no "
+"material components:    \n"
+"At will: **_dancing lights_**, **_minor illusion_**, **_vicious mockery_**    "
+"\n"
+"**Mimicry.** The hag can mimic animal sounds and humanoid voices. A creature "
+"that hears the sounds can tell they are imitations with a successful DC 14 "
+"Wisdom (Insight) check. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/green_hag.md:30
+#, no-wrap
+msgid ""
+"### Actions    \n"
+"**Claws.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ "
+"13 (2d8 + 4) slashing damage.    \n"
+"**Illusory Appearance.** The hag covers herself and anything she is wearing "
+"or carrying with a magical illusion that makes her look like another "
+"creature of her general size and humanoid shape. The illusion ends if the "
+"hag takes a bonus action to end it or if she dies.    \n"
+"The changes wrought by this effect fail to hold up to physical "
+"inspection. For example, the hag could appear to have smooth skin, but "
+"someone touching her would feel her rough flesh. Otherwise, a creature must "
+"take an action to visually inspect the illusion and succeed on a DC 20 "
+"Intelligence (Investigation) check to discern that the hag is disguised.    "
+"\n"
+"**Invisible Passage.** The hag magically turns invisible until she attacks "
+"or casts a spell, or until her concentration ends (as if concentrating on a "
+"spell). While invisible, she leaves no physical evidence of her passage, so "
+"she can be tracked only by magic. Any equipment she wears or carries is "
+"invisible with her.\n"
+msgstr ""

@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_crocodile.md:4
+msgid "name: Giant Crocodile type: beast cr: 5"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_crocodile.md:7
+msgid "# Giant Crocodile _Huge beast, unaligned_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_crocodile.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 14 (natural armor)    \n"
+"**Hit Points** 85 (9d12 + 27)    \n"
+"**Speed** 30 ft., swim 50 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_crocodile.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 21 (+5) | 9 (−1)  | 17 (+3) | 2 (−4)  | 10 (+0) | 7 (−2)  |  \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_crocodile.md:20
+#, no-wrap
+msgid ""
+"**Skills** Stealth +5    \n"
+"**Senses** passive Perception 10    \n"
+"**Languages** --    \n"
+"**Challenge** 5 (1,800 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_crocodile.md:22
+#, no-wrap
+msgid "**Hold Breath.** The crocodile can hold its breath for 30 minutes. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_crocodile.md:26
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Multiattack.** The crocodile makes two attacks: one with its bite and one "
+"with its tail.    \n"
+"**Bite.** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. _Hit:_ "
+"21 (3d10 + 5) piercing damage, and the target is grappled (escape DC "
+"16). Until this grapple ends, the target is restrained, and the crocodile "
+"can't bite another target.    \n"
+"**Tail.** _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target not "
+"grappled by the crocodile. _Hit:_ 14 (2d8 + 5) bludgeoning damage. If the "
+"target is a creature, it must succeed on a DC 16 Strength saving throw or be "
+"knocked prone.\n"
+msgstr ""

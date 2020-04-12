@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/command.md:6
+#, no-wrap
+msgid ""
+"name: Command\n"
+"level: 1\n"
+"school: enchantment\n"
+"classes: cleric\n"
+"         paladin\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/command.md:9
+msgid "# Command _1st-level enchantment_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/command.md:14
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action   \n"
+"**Range:** 60 feet    \n"
+"**Components:** V   \n"
+"**Duration:** 1 round   \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/command.md:22
+#, no-wrap
+msgid ""
+"You speak a one-word command to a creature you can see within range. The "
+"target must succeed on a Wisdom saving throw or follow the command on its "
+"next turn. The spell has no effect if the target is undead, if it doesn't "
+"understand your language, or if your command is directly harmful to it.    "
+"\n"
+"Some typical commands and their effects follow. You might issue a command "
+"other than one described here. If you do so, the GM determines how the "
+"target behaves. If the target can't follow your command, the spell ends.    "
+"\n"
+"**Approach.** The target moves toward you by the shortest and most direct "
+"route, ending its turn if it moves within 5 feet of you.    \n"
+"**Drop.** The target drops whatever it is holding and then ends its turn.    "
+"\n"
+"**Flee.** The target spends its turn moving away from you by the fastest "
+"available means.   \n"
+"**Grovel.** The target falls prone and then ends its turn.   \n"
+"**Halt.** The target doesn't move and takes no actions. A flying creature "
+"stays aloft, provided that it is able to do so. If it must move to stay "
+"aloft, it flies the minimum distance needed to remain in the air. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/command.md:23
+#, no-wrap
+msgid ""
+"**At Higher Levels.** When you cast this spell using a spell slot of 2nd "
+"level or higher, you can affect one additional creature for each slot level "
+"above 1st. The creatures must be within 30 feet of each other when you "
+"target them.\n"
+msgstr ""

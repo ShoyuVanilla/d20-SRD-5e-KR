@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/mace_of_disruption.md:3
+msgid "name: Mace of Disruption type: weapon"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/mace_of_disruption.md:6
+msgid "# Mace of Disruption _Weapon (mace), rare (requires attunement)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/mace_of_disruption.md:8
+#, no-wrap
+msgid ""
+"When you hit a fiend or an undead with this magic weapon, that creature "
+"takes an extra 2d6 radiant damage. If the target has 25 hit points or fewer "
+"after taking this damage, it must succeed on a DC 15 Wisdom saving throw or "
+"be destroyed. On a successful save, the creature becomes frightened of you "
+"until the end of your next turn.    \n"
+"While you hold this weapon, it sheds bright light in a 20-foot radius and "
+"dim light for an additional 20 feet. \n"
+msgstr ""

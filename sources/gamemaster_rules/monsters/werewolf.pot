@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/werewolf.md:4
+msgid "name: Werewolf type: humanoid (human, shapechanger)  cr: 3"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/werewolf.md:7
+msgid "# Werewolf _Medium humanoid (human, shapechanger), chaotic evil_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/werewolf.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 11 in humanoid form, 12 (natural armor) in wolf or hybrid "
+"form    \n"
+"**Hit Points** 58 (9d8 + 18)    \n"
+"**Speed** 30 ft. (40 ft. in wolf form) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/werewolf.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 15 (+2) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/werewolf.md:21
+#, no-wrap
+msgid ""
+"**Skills** Perception +4, Stealth +3    \n"
+"**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical "
+"attacks not made with silvered weapons    \n"
+"**Senses** passive Perception 14    \n"
+"**Languages** Common (can't speak in wolf form)    \n"
+"**Challenge** 3 (700 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/werewolf.md:24
+#, no-wrap
+msgid ""
+"**Shapechanger.** The werewolf can use its action to polymorph into a "
+"wolf-humanoid hybrid or into a wolf, or back into its true form, which is "
+"humanoid. Its statistics, other than its AC, are the same in each form. Any "
+"equipment it is wearing or carrying isn't transformed. It reverts to its "
+"true form if it dies.    \n"
+"**Keen Hearing and Smell.** The werewolf has advantage on Wisdom "
+"(Perception) checks that rely on hearing or smell. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/werewolf.md:29
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Multiattack. (Humanoid or Hybrid Form Only).** The werewolf makes two "
+"attacks: one with its bite and one with its claws or spear.    \n"
+"**Bite (Wolf or Hybrid Form Only).** _Melee Weapon Attack:_ +4 to hit, reach "
+"5 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage. If the target is a "
+"humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed "
+"with werewolf lycanthropy.    \n"
+"**Claws. (Hybrid Form Only).** _Melee Weapon Attack:_ +4 to hit, reach 5 "
+"ft., one creature. _Hit:_ 7 (2d4 + 2) slashing damage.    \n"
+"**Spear (Humanoid Form Only).** _Melee or _Ranged Weapon Attack:__ +4 to "
+"hit, reach 5 ft. or range 20/60 ft., one creature. _Hit:_ 5 (1d6 + 2) "
+"piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to "
+"make a melee attack.\n"
+msgstr ""

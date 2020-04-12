@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/tongues.md:9
+#, no-wrap
+msgid ""
+"name: Tongues\n"
+"level: 3\n"
+"school: divination\n"
+"classes: bard\n"
+"         cleric\n"
+"         sorcerer\n"
+"         warlock\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/tongues.md:12
+msgid "# Tongues _3rd-level divination_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/tongues.md:17
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** Touch    \n"
+"**Components:** V, M (a small clay model of a ziggurat)    \n"
+"**Duration:** 1 hour \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/tongues.md:18
+msgid ""
+"This spell grants the creature you touch the ability to understand any "
+"spoken language it hears. Moreover, when the target speaks, any creature "
+"that knows at least one language and can hear the target understands what it "
+"says."
+msgstr ""

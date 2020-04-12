@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ape.md:4
+msgid "name: Ape type: beast cr: .5"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ape.md:7
+msgid "# Ape _Medium beast, unaligned_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ape.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 12    \n"
+"**Hit Points** 19 (3d8 + 6)    \n"
+"**Speed** 30 ft., climb 30 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ape.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 16 (+3) | 14 (+2) | 14 (+2) | 6 (−2)  | 12 (+1) | 7 (−2)  |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ape.md:20
+#, no-wrap
+msgid ""
+"**Skills** Athletics +5, Perception +3    \n"
+"**Senses** passive Perception 13    \n"
+"**Languages** --    \n"
+"**Challenge** 1/2 (100 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ape.md:24
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Multiattack.** The ape makes two fist attacks.   \n"
+"**Fist.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ "
+"6 (1d6 + 3) bludgeoning damage.    \n"
+"**Rock.** _Ranged Weapon Attack:_ +5 to hit, range 25/50 ft., one "
+"target. _Hit:_ 6 (1d6 + 3) bludgeoning damage.  \n"
+msgstr ""

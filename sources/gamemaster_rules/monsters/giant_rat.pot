@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_rat.md:4
+msgid "name: Giant Rat type: beast cr: .125"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_rat.md:7
+msgid "# Giant Rat _Small beast, unaligned_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_rat.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 12    \n"
+"**Hit Points** 7 (2d6)    \n"
+"**Speed** 30 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_rat.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 7 (−2)  | 15 (+2) | 11 (+0) | 2 (−4)  | 10 (+0) | 4 (−3)  |  \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_rat.md:19
+#, no-wrap
+msgid ""
+"**Senses** darkvision 60 ft., passive Perception 10    \n"
+"**Languages** --    \n"
+"**Challenge** 1/8 (25 XP)    \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_rat.md:22
+#, no-wrap
+msgid ""
+"**Keen Smell.** The rat has advantage on Wisdom (Perception) checks that "
+"rely on smell.    \n"
+"**Pack Tactics.** The rat has advantage on an attack roll against a creature "
+"if at least one of the rat's allies is within 5 feet of the creature and the "
+"ally isn't incapacitated. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_rat.md:25
+#, no-wrap
+msgid ""
+"### Actions    \n"
+"**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ "
+"4 (1d4 + 2) piercing damage. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_rat.md:28
+#, no-wrap
+msgid ""
+"### Variant: Diseased Giant Rats \n"
+"Some giant rats carry vile diseases that they spread with their bites. A "
+"diseased giant rat has a challenge rating of 1/8 (25 XP) and the following "
+"action instead of its normal bite attack.     \n"
+"**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ "
+"4 (1d4 + 2) piercing damage. If the target is a creature, it must succeed on "
+"a DC 10 Constitution saving throw or contract a disease. Until the disease "
+"is cured, the target can't regain hit points except by magical means, and "
+"the target's hit point maximum decreases by 3 (1d6) every 24 hours. If the "
+"target's hit point maximum drops to 0 as a result of this disease, the "
+"target dies. \n"
+msgstr ""

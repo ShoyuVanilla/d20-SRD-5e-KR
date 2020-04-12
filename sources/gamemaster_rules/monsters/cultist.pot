@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/cultist.md:4
+msgid "name: Cultist type: humanoid (any race)  cr: .125"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/cultist.md:7
+msgid "# Cultist _Medium humanoid (any race), any non-good alignment_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/cultist.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 12 (leather armor)    \n"
+"**Hit Points** 9 (2d8)    \n"
+"**Speed** 30 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/cultist.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 11 (+0) | 12 (+1) | 10 (+0) | 10 (+0) | 11 (+0) | 10 (+0) |   \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/cultist.md:20
+#, no-wrap
+msgid ""
+"**Skills** Deception +2, Religion +2    \n"
+"**Senses** passive Perception 10    \n"
+"**Languages** any one language (usually Common)    \n"
+"**Challenge** 1/8 (25 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/cultist.md:22
+#, no-wrap
+msgid ""
+"**Dark Devotion.** The cultist has advantage on saving throws against being "
+"charmed or frightened. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/cultist.md:25
+msgid ""
+"### Actions **Scimitar.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one "
+"creature. _Hit:_ 4 (1d6 + 1) slashing damage."
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/cultist.md:27
+msgid ""
+"### Description Cultists swear allegiance to dark powers such as elemental "
+"princes, demon lords, or archdevils. Most conceal their loyalties to avoid "
+"being ostracized, imprisoned, or executed for their beliefs. Unlike evil "
+"acolytes, cultists often show signs of insanity in their beliefs and "
+"practices."
+msgstr ""

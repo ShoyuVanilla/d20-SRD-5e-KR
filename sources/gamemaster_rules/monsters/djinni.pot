@@ -1,0 +1,98 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/djinni.md:4
+msgid "name: Djinni type: elemental cr: 11"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/djinni.md:7
+msgid "# Djinni _Large elemental, chaotic good_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/djinni.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 17 (natural armor)    \n"
+"**Hit Points** 161 (14d10 + 84)    \n"
+"**Speed** 30 ft., fly 90 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/djinni.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 21 (+5) | 15 (+2) | 22 (+6) | 15 (+2) | 16 (+3) | 20 (+5) |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/djinni.md:21
+#, no-wrap
+msgid ""
+"**Saving Throws** Dex +6, Wis +7, Cha +9    \n"
+"**Damage Immunities** lightning, thunder    \n"
+"**Senses** darkvision 120 ft., passive Perception 13    \n"
+"**Languages** Auran    \n"
+"**Challenge** 11 (7,200 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/djinni.md:27
+#, no-wrap
+msgid ""
+"**Elemental Demise.** If the djinni dies, its body disintegrates into a warm "
+"breeze, leaving behind only equipment the djinni was wearing or carrying.    "
+"\n"
+"**Innate Spellcasting.** The djinni's innate spellcasting ability is "
+"Charisma (spell save DC 17, +9 to hit with spell attacks). It can innately "
+"cast the following spells, requiring no material components:    \n"
+"At will: **_detect evil and good_**, **_detect magic_**, **_thunderwave_**    "
+"\n"
+"3/day each: **_create food and water_** (can create wine instead of water), "
+"**_tongues_**, **_wind walk_**    \n"
+"1/day each: **_conjure elemental_** (air elemental only), **_creation_**, "
+"**_gaseous form_**, **_invisibility_**, **_major image_**, **_plane shift_** "
+"\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/djinni.md:32
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Multiattack.** The djinni makes three scimitar attacks.    \n"
+"**Scimitar.** _Melee Weapon Attack:_ +9 to hit, reach 5 ft., one "
+"target. _Hit:_ 12 (2d6 + 5) slashing damage plus 3 (1d6) lightning or "
+"thunder damage (djinni's choice).    \n"
+"**Create Whirlwind.** A 5-foot-radius, 30-foot-tall cylinder of swirling air "
+"magically forms on a point the djinni can see within 120 feet of it. The "
+"whirlwind lasts as long as the djinni maintains concentration (as if "
+"concentrating on a spell). Any creature but the djinni that enters the "
+"whirlwind must succeed on a DC 18 Strength saving throw or be restrained by "
+"it. The djinni can move the whirlwind up to 60 feet as an action, and "
+"creatures restrained by the whirlwind move with it. The whirlwind ends if "
+"the djinni loses sight of it.    \n"
+"A creature can use its action to free a creature restrained by the "
+"whirlwind, including itself, by succeeding on a DC 18 Strength check. If the "
+"check succeeds, the creature is no longer restrained and moves to the "
+"nearest space outside the whirlwind.\n"
+msgstr ""

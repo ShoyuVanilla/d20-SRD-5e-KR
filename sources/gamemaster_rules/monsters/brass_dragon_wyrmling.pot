@@ -1,0 +1,76 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/brass_dragon_wyrmling.md:4
+msgid "name: Brass Dragon Wyrmling type: dragon cr: 1"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/brass_dragon_wyrmling.md:7
+msgid "# Brass Dragon Wyrmling _Medium dragon, chaotic good_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/brass_dragon_wyrmling.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 16 (natural armor)    \n"
+"**Hit Points** 16 (3d8 + 3)    \n"
+"**Speed** 30 ft., burrow 15 ft., fly 60 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/brass_dragon_wyrmling.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 15 (+2) | 10 (+0) | 13 (+1) | 10 (+0) | 11 (+0) | 13 (+1) |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/brass_dragon_wyrmling.md:22
+#, no-wrap
+msgid ""
+"**Saving Throws** Dex +2, Con +3, Wis +2, Cha +3    \n"
+"**Skills** Perception +4, Stealth +2    \n"
+"**Damage Immunities** fire    \n"
+"**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 14    \n"
+"**Languages** Draconic    \n"
+"**Challenge** 1 (200 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/brass_dragon_wyrmling.md:27
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ "
+"7 (1d10 + 2) piercing damage.    \n"
+"**Breath Weapons (Recharge 5–6).** The dragon uses one of the following "
+"breath weapons.    \n"
+"**Fire Breath.** The dragon exhales fire in an 20-foot line that is 5 feet "
+"wide. Each creature in that line must make a DC 11 Dexterity saving throw, "
+"taking 14 (4d6) fire damage on a failed save, or half as much damage on a "
+"successful one.    \n"
+"**Sleep Breath.** The dragon exhales sleep gas in a 15-foot cone. Each "
+"creature in that area must succeed on a DC 11 Constitution saving throw or "
+"fall unconscious for 1 minute. This effect ends for a creature if the "
+"creature takes damage or someone uses an action to wake it.\n"
+msgstr ""

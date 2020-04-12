@@ -1,0 +1,77 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/basilisk.md:4
+msgid "name: Basilisk type: monstrosity cr: 3"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/basilisk.md:10
+#, no-wrap
+msgid ""
+"# Basilisk \n"
+"_Medium monstrosity, unaligned_    \n"
+"**Armor Class** 15 (natural armor)    \n"
+"**Hit Points** 52 (8d8 + 16)    \n"
+"**Speed** 20 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/basilisk.md:14
+#, no-wrap
+msgid ""
+"| STR      | DEX     | CON      | INT     | WIS     | CHA     |\n"
+"|----------|---------|----------|---------|---------|---------|\n"
+"| 16 (+3)  | 8 (-1)  | 15 (+2)  | 2 (-4)  | 8 (-1)  | 7 (-2)  |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/basilisk.md:19
+#, no-wrap
+msgid ""
+"**Senses** darkvision 60 ft., passive Perception 9    \n"
+"**Languages** --    \n"
+"**Challenge** 3 (700 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/basilisk.md:23
+#, no-wrap
+msgid ""
+"**Petrifying Gaze.** If a creature starts its turn within 30 feet of the "
+"basilisk and the two of them can see each other, the basilisk can force the "
+"creature to make a DC 12 Constitution saving throw if the basilisk isn't "
+"incapacitated. On a failed save, the creature magically begins to turn to "
+"stone and is restrained. It must repeat the saving throw at the end of its "
+"next turn. On a success, the effect ends. On a failure, the creature is "
+"petrified until freed by the greater restoration spell or other magic.    \n"
+"A creature that isn't surprised can avert its eyes to avoid the saving throw "
+"at the start of its turn. If it does so, it can't see the basilisk until the "
+"start of its next turn, when it can avert its eyes again.    \n"
+"If it looks at the basilisk in the meantime, it must immediately make the "
+"save. If the basilisk sees its reflection within 30 feet of it in bright "
+"light, it mistakes itself for a rival and targets itself with its gaze. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/basilisk.md:25
+msgid ""
+"### Actions **Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one "
+"target. _Hit:_ 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage."
+msgstr ""

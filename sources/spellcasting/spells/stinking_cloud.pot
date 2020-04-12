@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/stinking_cloud.md:7
+#, no-wrap
+msgid ""
+"name: Stinking Cloud\n"
+"level: 3\n"
+"school: conjuration\n"
+"classes: bard\n"
+"         sorcerer\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/stinking_cloud.md:10
+msgid "# Stinking Cloud _3rd-level conjuration_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/stinking_cloud.md:15
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** 90 feet    \n"
+"**Components:** V, S, M (a rotten egg or several skunk cabbage leaves)    \n"
+"**Duration:** Concentration, up to 1 minute \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/stinking_cloud.md:18
+#, no-wrap
+msgid ""
+"You create a 20-foot-radius sphere of yellow, nauseating gas centered on a "
+"point within range. The cloud spreads around corners, and its area is "
+"heavily obscured. The cloud lingers in the air for the duration.    \n"
+"Each creature that is completely within the cloud at the start of its turn "
+"must make a Constitution saving throw against poison. On a failed save, the "
+"creature spends its action that turn retching and reeling. Creatures that "
+"don't need to breathe or are immune to poison automatically succeed on this "
+"saving throw.    \n"
+"A moderate wind (at least 10 miles per hour) disperses the cloud after 4 "
+"rounds. A strong wind (at least 20 miles per hour) disperses it after 1 "
+"round. \n"
+msgstr ""

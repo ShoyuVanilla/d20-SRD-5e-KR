@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/combat/cover.md:6
+#, no-wrap
+msgid ""
+"# Cover \n"
+"Walls, trees, creatures, and other obstacles can provide cover during "
+"combat, making a target more difficult to harm. A target can benefit from "
+"cover only when an attack or other effect originates on the opposite side of "
+"the cover.       \n"
+"There are three degrees of cover. If a target is behind multiple sources of "
+"cover, only the most protective degree of cover applies; the degrees aren't "
+"added together. For example, if a target is behind a creature that gives "
+"half cover and a tree trunk that gives three-quarters cover, the target has "
+"three-quarters cover.    \n"
+"A target with **half cover** has a +2 bonus to AC and Dexterity saving "
+"throws. A target has half cover if an obstacle blocks at least half of its "
+"body. The obstacle might be a low wall, a large piece of furniture, a narrow "
+"tree trunk, or a creature, whether that creature is an enemy or a friend.    "
+"\n"
+"A target with **three-quarters** cover has a +5 bonus to AC and Dexterity "
+"saving throws. A target has three-quarters cover if about three-quarters of "
+"it is covered by an obstacle. The obstacle might be a portcullis, an arrow "
+"slit, or a thick tree trunk.    \n"
+"A target with **total cover** can't be targeted directly by an attack or a "
+"spell, although some spells can reach such a target by including it in an "
+"area of effect. A target has total cover if it is completely concealed by an "
+"obstacle.\n"
+msgstr ""

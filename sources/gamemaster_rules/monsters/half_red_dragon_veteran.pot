@@ -1,0 +1,76 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/half_red_dragon_veteran.md:4
+msgid "name: Half-Red Dragon Veteran type: humanoid (human)  cr: 5"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/half_red_dragon_veteran.md:7
+msgid "# Half-Red Dragon Veteran _Medium humanoid (human), any alignment_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/half_red_dragon_veteran.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 18 (plate)    \n"
+"**Hit Points** 65 (10d8 + 20)    \n"
+"**Speed** 30 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/half_red_dragon_veteran.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/half_red_dragon_veteran.md:21
+#, no-wrap
+msgid ""
+"**Skills** Athletics +5, Perception +2    \n"
+"**Damage Resistances** fire    \n"
+"**Senses** blindsight 10 ft., darkvision 60 ft., passive Perception 12    \n"
+"**Languages** Common, Draconic    \n"
+"**Challenge** 5 (1,800 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/half_red_dragon_veteran.md:27
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Multiattack.** The veteran makes two longsword attacks. If it has a "
+"shortsword drawn, it can also make a shortsword attack.    \n"
+"**Longsword.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one "
+"target. _Hit:_ 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage "
+"if used with two hands.    \n"
+"**Shortsword.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one "
+"target. _Hit:_ 6 (1d6 + 3) piercing damage.    \n"
+"**Heavy Crossbow.** _Ranged Weapon Attack:_ +3 to hit, range 100/400 ft., "
+"one target. _Hit:_ 6 (1d10 + 1) piercing damage.    \n"
+"**Fire Breath (Recharge 5–6).** The veteran exhales fire in a 15-foot "
+"cone. Each creature in that area must make a DC 15 Dexterity saving throw, "
+"taking 24 (7d6) fire damage on a failed save, or half as much damage on a "
+"successful one.\n"
+msgstr ""

@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/conjure_celestial.md:5
+msgid "name: Conjure Celestial level: 7 school: conjuration classes: cleric"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/conjure_celestial.md:8
+msgid "# Conjure Celestial _7th-level conjuration_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/conjure_celestial.md:13
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 minute    \n"
+"**Range:** 90 feet    \n"
+"**Components:** V, S    \n"
+"**Duration:** Concentration, up to 1 hour \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/conjure_celestial.md:17
+#, no-wrap
+msgid ""
+"You summon a celestial of challenge rating 4 or lower, which appears in an "
+"unoccupied space that you can see within range. The celestial disappears "
+"when it drops to 0 hit points or when the spell ends.    \n"
+"The celestial is friendly to you and your companions for the duration. Roll "
+"initiative for the celestial, which has its own turns. It obeys any verbal "
+"commands that you issue to it (no action required by you), as long as they "
+"don't violate its alignment. If you don't issue any commands to the "
+"celestial, it defends itself from hostile creatures but otherwise takes no "
+"actions.    \n"
+"The GM has the celestial's statistics. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/conjure_celestial.md:18
+#, no-wrap
+msgid ""
+"**At Higher Levels.** When you cast this spell using a 9th-level spell slot, "
+"you summon a celestial of challenge rating 5 or lower. \n"
+msgstr ""

@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/harm.md:5
+msgid "name: Harm level: 6 school: necromancy classes: cleric"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/harm.md:8
+msgid "# Harm _6th-level necromancy_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/harm.md:13
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** 60 feet    \n"
+"**Components:** V, S    \n"
+"**Duration:** Instantaneous    \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/harm.md:14
+msgid ""
+"You unleash a virulent disease on a creature that you can see within "
+"range. The target must make a Constitution saving throw. On a failed save, "
+"it takes 14d6 necrotic damage, or half as much damage on a successful "
+"save. The damage can't reduce the target's hit points below 1. If the target "
+"fails the saving throw, its hit point maximum is reduced for 1 hour by an "
+"amount equal to the necrotic damage it took. Any effect that removes a "
+"disease allows a creature's hit point maximum to return to normal before "
+"that time passes."
+msgstr ""

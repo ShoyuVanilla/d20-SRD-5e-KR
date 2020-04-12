@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/wind_walk.md:5
+msgid "name: Wind Walk level: 6 school: transmutation classes: druid"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/wind_walk.md:8
+msgid "# Wind Walk _6th-level transmutation_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/wind_walk.md:13
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 minute    \n"
+"**Range:** 30 feet    \n"
+"**Components:** V, S, M (fire and holy water)    \n"
+"**Duration:** 8 hours \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/wind_walk.md:15
+#, no-wrap
+msgid ""
+"You and up to ten willing creatures you can see within range assume a "
+"gaseous form for the duration, appearing as wisps of cloud. While in this "
+"cloud form, a creature has a flying speed of 300 feet and has resistance to "
+"damage from nonmagical weapons. The only actions a creature can take in this "
+"form are the Dash action or to revert to its normal form. Reverting takes 1 "
+"minute, during which time a creature is incapacitated and can't move. Until "
+"the spell ends, a creature can revert to cloud form, which also requires the "
+"1-minute transformation.    \n"
+"If a creature is in cloud form and flying when the effect ends, the creature "
+"descends 60 feet per round for 1 minute until it lands, which it does "
+"safely. If it can't land after 1 minute, the creature falls the remaining "
+"distance. \n"
+msgstr ""

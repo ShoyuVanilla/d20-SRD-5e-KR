@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/daylight.md:9
+#, no-wrap
+msgid ""
+"name: Daylight\n"
+"level: 3\n"
+"school: evocation\n"
+"classes: cleric\n"
+"         druid\n"
+"         paladin\n"
+"         ranger\n"
+"         sorcerer\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/daylight.md:12
+msgid "# Daylight _3rd-level evocation_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/daylight.md:17
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** 60 feet    \n"
+"**Components:** V, S    \n"
+"**Duration:** 1 hour \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/daylight.md:20
+#, no-wrap
+msgid ""
+"A 60-foot-radius sphere of light spreads out from a point you choose within "
+"range. The sphere is bright light and sheds dim light for an additional 60 "
+"feet.    \n"
+"If you chose a point on an object you are holding or one that isn't being "
+"worn or carried, the light shines from the object and moves with "
+"it. Completely covering the affected object with an opaque object, such as a "
+"bowl or a helm, blocks the light.    \n"
+"If any of this spell's area overlaps with an area of darkness created by a "
+"spell of 3rd level or lower, the spell that created the darkness is "
+"dispelled. \n"
+msgstr ""

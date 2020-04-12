@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/bag_of_holding.md:3
+msgid "name: Bag of Holding type: item"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/bag_of_holding.md:6
+msgid "# Bag of Holding _Wondrous item, uncommon_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/bag_of_holding.md:9
+#, no-wrap
+msgid ""
+"This bag has an interior space considerably larger than its outside "
+"dimensions, roughly 2 feet in diameter at the mouth and 4 feet deep. The bag "
+"can hold up to 500 pounds, not exceeding a volume of 64 cubic feet. The bag "
+"weighs 15 pounds, regardless of its contents. Retrieving an item from the "
+"bag requires an action.    \n"
+"If the bag is overloaded, pierced, or torn, it ruptures and is destroyed, "
+"and its contents are scattered in the Astral Plane. If the bag is turned "
+"inside out, its contents spill forth, unharmed, but the bag must be put "
+"right before it can be used again. Breathing creatures inside the bag can "
+"survive up to a number of minutes equal to 10 divided by the number of "
+"creatures (minimum 1 minute), after which time they begin to suffocate.    "
+"\n"
+"Placing a **bag of holding** inside an extradimensional space created by a "
+"**handy haversack**, **portable hole**, or similar item instantly destroys "
+"both items and opens a gate to the Astral Plane. The gate originates where "
+"the one item was placed inside the other. Any creature within 10 feet of the "
+"gate is sucked through it to a random location on the Astral Plane. The gate "
+"then closes. The gate is one-way only and can't be reopened. \n"
+msgstr ""

@@ -1,0 +1,63 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/dragon_scale_mail.md:3
+msgid "name: Dragon Scale Mail type: armor"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/dragon_scale_mail.md:6
+msgid "# Dragon Scale Mail _Armor (scale mail), very rare (requires attunement)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/dragon_scale_mail.md:10
+#, no-wrap
+msgid ""
+"Dragon scale mail is made of the scales of one kind of dragon. Sometimes "
+"dragons collect their cast-off scales and gift them to humanoids. Other "
+"times, hunters carefully skin and preserve the hide of a dead dragon. In "
+"either case, dragon scale mail is highly valued.    \n"
+"While wearing this armor, you gain a +1 bonus to AC, you have advantage on "
+"saving throws against the Frightful Presence and breath weapons of dragons, "
+"and you have resistance to one damage type that is determined by the kind of "
+"dragon that provided the scales (see the table).    \n"
+"Additionally, you can focus your senses as an action to magically discern "
+"the distance and direction to the closest dragon within 30 miles of you that "
+"is of the same type as the armor. This special action can't be used again "
+"until the next dawn. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/dragon_scale_mail.md:22
+#, no-wrap
+msgid ""
+"| Dragon | Resistance  |\n"
+"|--------|-------------|\n"
+"| Black  | Acid        |\n"
+"| Blue   | Lightning  |\n"
+"| Brass  | Fire        |\n"
+"| Bronze | Lightning  |\n"
+"| Copper | Acid        |\n"
+"| Gold   | Fire        |\n"
+"| Green  | Poison      |\n"
+"| Red    | Fire        |\n"
+"| Silver | Cold        |\n"
+"| White  | Cold        |\n"
+msgstr ""

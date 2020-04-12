@@ -1,0 +1,128 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/character/races/dragonborn.md:5
+msgid ""
+"# Dragonborn ## Dragonborn Traits - - - Your draconic heritage manifests in "
+"a variety of traits you share with other dragonborn."
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/dragonborn.md:7
+#, no-wrap
+msgid ""
+"**Ability Score Increase.** Your Strength score increases by 2, and your "
+"Charisma score increases by 1.  \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/dragonborn.md:9
+#, no-wrap
+msgid ""
+"**Age.** Young dragonborn grow quickly. They walk hours after hatching, "
+"attain the size and development of a 10-year-old human child by the age of "
+"3, and reach adulthood by 15. They live to be around 80.  \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/dragonborn.md:11
+#, no-wrap
+msgid ""
+"**Alignment.** Dragonborn tend to extremes, making a conscious choice for "
+"one side or the other in the cosmic war between good and evil. Most "
+"dragonborn are good, but those who side with evil can be terrible villains.  "
+"\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/dragonborn.md:13
+#, no-wrap
+msgid ""
+"**Size.** Dragonborn are taller and heavier than humans, standing well over "
+"6 feet tall and averaging almost 250 pounds. Your size is Medium.  \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/dragonborn.md:15
+#, no-wrap
+msgid "**Speed.** Your base walking speed is 30 feet.  \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/dragonborn.md:29
+#, no-wrap
+msgid ""
+"#### Draconic Ancestry\n"
+"| Dragon | Damage Type | Breath Weapon               |\n"
+"|--------|-------------|-----------------------------|\n"
+"| Black  | Acid        | 5 by 30 ft. line (Dex. save)|\n"
+"| Blue   | Lightning   | 5 by 30 ft. line (Dex. save)|\n"
+"| Brass  | Fire        | 5 by 30 ft. line (Dex. save)|\n"
+"| Bronze | Lightning   | 5 by 30 ft. line (Dex. save)|\n"
+"| Copper | Acid        | 5 by 30 ft. line (Dex. save)|\n"
+"| Gold   | Fire        | 15 ft. cone (Dex. save)     |\n"
+"| Green  | Poison      | 15 ft. cone (Con. save)     |\n"
+"| Red    | Fire        | 15 ft. cone (Dex. save)     |\n"
+"| Silver | Cold        | 15 ft. cone (Con. save)     |\n"
+"| White  | Cold        | 15 ft. cone (Con. save)     |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/dragonborn.md:31
+#, no-wrap
+msgid ""
+"**Draconic Ancestry.** You have draconic ancestry. Choose one type of dragon "
+"from the Draconic Ancestry table. Your breath weapon and damage resistance "
+"are determined by the dragon type, as shown in the table.  \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/dragonborn.md:35
+#, no-wrap
+msgid ""
+"**Breath Weapon.** You can use your action to exhale destructive "
+"energy. Your draconic ancestry determines the size, shape, and damage type "
+"of the exhalation. \n"
+"When you use your breath weapon, each creature in the area of the exhalation "
+"must make a saving throw, the type of which is determined by your draconic "
+"ancestry. The DC for this saving throw equals **_8 + your Constitution "
+"modifier + your proficiency bonus._** A creature takes 2d6 damage on a "
+"failed save, and half as much damage on a successful one. The damage "
+"increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level. \n"
+"After you use your breath weapon, you can’t use it again until you complete "
+"a short or long rest.  \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/dragonborn.md:37
+#, no-wrap
+msgid ""
+"**Damage Resistance.** You have resistance to the damage type associated "
+"with your draconic ancestry.  \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/dragonborn.md:38
+#, no-wrap
+msgid ""
+"**Languages.** You can speak, read, and write Common and Draconic. Draconic "
+"is thought to be one of the oldest languages and is often used in the study "
+"of magic. The language sounds harsh to most other creatures and includes "
+"numerous hard consonants and sibilants.  \n"
+msgstr ""

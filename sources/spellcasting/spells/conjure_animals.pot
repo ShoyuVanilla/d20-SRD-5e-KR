@@ -1,0 +1,95 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/conjure_animals.md:6
+#, no-wrap
+msgid ""
+"name: Conjure Animals\n"
+"level: 3\n"
+"school: conjuration\n"
+"classes: druid\n"
+"         ranger\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/conjure_animals.md:9
+msgid "# Conjure Animals _3rd-level conjuration_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/conjure_animals.md:14
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** 60 feet    \n"
+"**Components:** V, S    \n"
+"**Duration:** Concentration, up to 1 hour \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/conjure_animals.md:16
+msgid ""
+"You summon fey spirits that take the form of beasts and appear in unoccupied "
+"spaces that you can see within range. Choose one of the following options "
+"for what appears:"
+msgstr ""
+
+#. type: Bullet: '* '
+#: sources/spellcasting/spells/conjure_animals.md:21
+msgid "One beast of challenge rating 2 or lower"
+msgstr ""
+
+#. type: Bullet: '* '
+#: sources/spellcasting/spells/conjure_animals.md:21
+msgid "Two beasts of challenge rating 1 or lower"
+msgstr ""
+
+#. type: Bullet: '* '
+#: sources/spellcasting/spells/conjure_animals.md:21
+msgid "Four beasts of challenge rating 1/2 or lower"
+msgstr ""
+
+#. type: Bullet: '* '
+#: sources/spellcasting/spells/conjure_animals.md:21
+msgid "Eight beasts of challenge rating 1/4 or lower"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/conjure_animals.md:25
+#, no-wrap
+msgid ""
+"Each beast is also considered fey, and it disappears when it drops to 0 hit "
+"points or when the spell ends.    \n"
+"The summoned creatures are friendly to you and your companions. Roll "
+"initiative for the summoned creatures as a group, which has its own "
+"turns. They obey any verbal commands that you issue to them (no action "
+"required by you). If you don't issue any commands to them, they defend "
+"themselves from hostile creatures, but otherwise take no actions.    \n"
+"The GM has the creatures' statistics. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/conjure_animals.md:26
+#, no-wrap
+msgid ""
+"**At Higher Levels.** When you cast this spell using certain higher-level "
+"spell slots, you choose one of the summoning options above, and more "
+"creatures appear: twice as many with a 5th-level slot, three times as many "
+"with a 7th-level slot, and four times as many with a 9th-level slot. \n"
+msgstr ""

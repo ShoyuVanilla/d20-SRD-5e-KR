@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/bag_of_devouring.md:3
+msgid "name: Bag of Devouring type: item"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/bag_of_devouring.md:6
+msgid "# Bag of Devouring _Wondrous item, very rare_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/bag_of_devouring.md:10
+#, no-wrap
+msgid ""
+"This bag superficially resembles a bag of holding but is a feeding orifice "
+"for a gigantic extradimensional creature. Turning the bag inside out closes "
+"the orifice.    \n"
+"The extradimensional creature attached to the bag can sense whatever is "
+"placed inside the bag. Animal or vegetable matter placed wholly in the bag "
+"is devoured and lost forever. When part of a living creature is placed in "
+"the bag, as happens when someone reaches inside it, there is a 50 percent "
+"chance that the creature is pulled inside the bag. A creature inside the bag "
+"can use its action to try to escape with a successful DC 15 Strength "
+"check. Another creature can use its action to reach into the bag to pull a "
+"creature out, doing so with a successful DC 20 Strength check (provided it "
+"isn't pulled inside the bag first). Any creature that starts its turn inside "
+"the bag is devoured, its body destroyed.    \n"
+"Inanimate objects can be stored in the bag, which can hold a cubic foot of "
+"such material. However, once each day, the bag swallows any objects inside "
+"it and spits them out into another plane of existence. The GM determines the "
+"time and plane.    \n"
+"If the bag is pierced or torn, it is destroyed, and anything contained "
+"within it is transported to a random location on the Astral Plane. \n"
+msgstr ""

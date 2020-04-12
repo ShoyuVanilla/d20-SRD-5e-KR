@@ -1,0 +1,86 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/stone_giant.md:4
+msgid "name: Stone Giant type: giant cr: 7"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/stone_giant.md:7
+msgid "# Stone Giant _Huge giant, neutral_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/stone_giant.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 17 (natural armor)    \n"
+"**Hit Points** 126 (11d12 + 55)    \n"
+"**Speed** 40 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/stone_giant.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 23 (+6) | 15 (+2) | 20 (+5) | 10 (+0) | 12 (+1) | 9 (−1)  |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/stone_giant.md:21
+#, no-wrap
+msgid ""
+"**Saving Throws** Dex +5, Con +8, Wis +4    \n"
+"**Skills** Athletics +12, Perception +4    \n"
+"**Senses** darkvision 60 ft., passive Perception 14    \n"
+"**Languages** Giant    \n"
+"**Challenge** 7 (2,900 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/stone_giant.md:23
+#, no-wrap
+msgid ""
+"**Stone Camouflage.** The giant has advantage on Dexterity (Stealth) checks "
+"made to hide in rocky terrain.    \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/stone_giant.md:27
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Multiattack.** The giant makes two greatclub attacks. Greatclub. _Melee "
+"Weapon Attack:_ +9 to hit, reach 15 ft., one target. _Hit:_ 19 (3d8 + 6) "
+"bludgeoning damage.    \n"
+"**Rock.** _Ranged Weapon Attack:_ +9 to hit, range 60/240 ft., one "
+"target. _Hit:_ 28 (4d10 + 6) bludgeoning damage. If the target is a "
+"creature, it must succeed on a DC 17 Strength saving throw or be knocked "
+"prone. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/stone_giant.md:29
+msgid ""
+"### Reactions **Rock Catching.** If a rock or similar object is hurled at "
+"the giant, the giant can, with a successful DC 10 Dexterity saving throw, "
+"catch the missile and take no bludgeoning damage from it."
+msgstr ""

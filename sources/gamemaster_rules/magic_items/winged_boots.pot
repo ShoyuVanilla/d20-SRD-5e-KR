@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/winged_boots.md:3
+msgid "name: Winged Boots type: item"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/winged_boots.md:6
+msgid "# Winged Boots _Wondrous item, uncommon (requires attunement)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/winged_boots.md:8
+#, no-wrap
+msgid ""
+"While you wear these boots, you have a flying speed equal to your walking "
+"speed. You can use the boots to fly for up to 4 hours, all at once or in "
+"several shorter flights, each one using a minimum of 1 minute from the "
+"duration. If you are flying when the duration expires, you descend at a rate "
+"of 30 feet per round until you land.    \n"
+"The boots regain 2 hours of flying capability for every 12 hours they aren't "
+"in use. \n"
+msgstr ""

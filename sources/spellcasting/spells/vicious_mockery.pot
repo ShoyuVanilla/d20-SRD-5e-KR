@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/vicious_mockery.md:5
+msgid "name: Vicious Mockery level: 0 school: enchantment classes: bard"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/vicious_mockery.md:8
+msgid "# Vicious Mockery _Enchantment cantrip_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/vicious_mockery.md:13
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** 60 feet    \n"
+"**Components:** V    \n"
+"**Duration:** Instantaneous \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/vicious_mockery.md:15
+#, no-wrap
+msgid ""
+"You unleash a string of insults laced with subtle enchantments at a creature "
+"you can see within range. If the target can hear you (though it need not "
+"understand you), it must succeed on a Wisdom saving throw or take 1d4 "
+"psychic damage and have disadvantage on the next attack roll it makes before "
+"the end of its next turn.    \n"
+"This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th "
+"level (3d4), and 17th level (4d4).\n"
+msgstr ""

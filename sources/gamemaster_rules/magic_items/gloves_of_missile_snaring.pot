@@ -1,0 +1,37 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/gloves_of_missile_snaring.md:3
+msgid "name: Gloves of Missile Snaring type: item"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/gloves_of_missile_snaring.md:6
+msgid "# Gloves of Missile Snaring _Wondrous item, uncommon (requires attunement)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/gloves_of_missile_snaring.md:7
+msgid ""
+"These gloves seem to almost meld into your hands when you don them. When a "
+"ranged weapon attack hits you while you're wearing them, you can use your "
+"reaction to reduce the damage by 1d10 + your Dexterity modifier, provided "
+"that you have a free hand. If you reduce the damage to 0, you can catch the "
+"missile if it is small enough for you to hold in that hand."
+msgstr ""

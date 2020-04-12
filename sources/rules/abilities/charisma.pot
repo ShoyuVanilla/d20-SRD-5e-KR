@@ -1,0 +1,80 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/rules/abilities/charisma.md:3
+msgid ""
+"# Charisma Charisma measures your ability to interact effectively with "
+"others. It includes such factors as confidence and eloquence, and it can "
+"represent a charming or commanding personality."
+msgstr ""
+
+#. type: Plain text
+#: sources/rules/abilities/charisma.md:11
+#, no-wrap
+msgid ""
+"## Charisma Checks \n"
+"A Charisma check might arise when you try to influence or entertain others, "
+"when you try to make an impression or tell a convincing lie, or when you are "
+"navigating a tricky social situation. The Deception, Intimidation, "
+"Performance, and Persuasion skills reflect aptitude in certain kinds of "
+"Charisma checks.   \n"
+"**Deception.** Your Charisma (Deception) check determines whether you can "
+"convincingly hide the truth, either verbally or through your actions. This "
+"deception can encompass everything from misleading others through ambiguity "
+"to telling outright lies. Typical situations include trying to fast-talk a "
+"guard, con a merchant, earn money through gambling, pass yourself off in a "
+"disguise, dull someone's suspicions with false assurances, or maintain a "
+"straight face while telling a blatant lie.    \n"
+"**Intimidation.** When you attempt to influence someone through overt "
+"threats, hostile actions, and physical violence, the GM might ask you to "
+"make a Charisma (Intimidation) check. Examples include trying to pry "
+"information out of a prisoner, convincing street thugs to back down from a "
+"confrontation, or using the edge of a broken bottle to convince a sneering "
+"vizier to reconsider a decision.   \n"
+"**Performance.** Your Charisma (Performance) check determines how well you "
+"can delight an audience with music, dance, acting, storytelling, or some "
+"other form of entertainment.   \n"
+"**Persuasion.** When you attempt to influence someone or a group of people "
+"with tact, social graces, or good nature, the GM might ask you to make a "
+"Charisma (Persuasion) check. Typically, you use persuasion when acting in "
+"good faith, to foster friendships, make cordial requests, or exhibit proper "
+"etiquette. Examples of persuading others include convincing a chamberlain to "
+"let your party see the king, negotiating peace between warring tribes, or "
+"inspiring a crowd of townsfolk.    \n"
+"**Other Charisma Checks.** The GM might call for a Charisma check when you "
+"try to accomplish tasks like the following: \n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: sources/rules/abilities/charisma.md:14
+msgid "Find the best person to talk to for news, rumors, and gossip"
+msgstr ""
+
+#. type: Bullet: '* '
+#: sources/rules/abilities/charisma.md:14
+msgid "Blend into a crowd to get the sense of key topics of conversation"
+msgstr ""
+
+#. type: Plain text
+#: sources/rules/abilities/charisma.md:16
+msgid ""
+"## Spellcasting Ability Bards, paladins, sorcerers, and warlocks use "
+"Charisma as their spellcasting ability, which helps determine the saving "
+"throw DCs of spells they cast."
+msgstr ""

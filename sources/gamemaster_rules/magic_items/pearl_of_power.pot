@@ -1,0 +1,38 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/pearl_of_power.md:3
+msgid "name: Pearl of Power type: item"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/pearl_of_power.md:6
+msgid ""
+"# Pearl of Power _Wondrous item, uncommon (requires attunement by a "
+"spellcaster)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/pearl_of_power.md:7
+msgid ""
+"While this pearl is on your person, you can use an action to speak its "
+"command word and regain one expended spell slot. If the expended slot was of "
+"4th level or higher, the new slot is 3rd level. Once you use the pearl, it "
+"can􀁠t be used again until the next dawn."
+msgstr ""

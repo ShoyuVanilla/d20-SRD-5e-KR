@@ -1,0 +1,84 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/worg.md:4
+msgid "name: Worg type: monstrosity cr: .5"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/worg.md:7
+msgid "# Worg _Large monstrosity, neutral evil_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/worg.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 13 (natural armor)    \n"
+"**Hit Points** 26 (4d10 + 4)    \n"
+"**Speed** 50 ft.\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/worg.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 16 (+3) | 13 (+1) | 13 (+1) | 7 (−2)  | 11 (+0) | 8 (−1)  |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/worg.md:20
+#, no-wrap
+msgid ""
+"**Skills** Perception +4    \n"
+"**Senses** darkvision 60 ft., passive Perception 14    \n"
+"**Languages** Goblin, Worg    \n"
+"**Challenge** 1/2 (100 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/worg.md:22
+#, no-wrap
+msgid ""
+"**Keen Hearing and Smell.** The worg has advantage on Wisdom (Perception) "
+"checks that rely on hearing or smell. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/worg.md:25
+#, no-wrap
+msgid ""
+"### Actions    \n"
+"**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ "
+"10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed "
+"on a DC 13 Strength saving throw or be knocked prone. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/worg.md:27
+msgid ""
+"### Description A worg is an evil predator that delights in hunting and "
+"devouring creatures weaker than itself. Cunning and malevolent, worgs roam "
+"across the remote wilderness or are raised by goblins and hobgoblins. Those "
+"creatures use worgs as mounts, but a worg will turn on its rider if it feels "
+"mistreated or malnourished. Worgs speak in their own language and Goblin, "
+"and a few learn to speak Common as well."
+msgstr ""

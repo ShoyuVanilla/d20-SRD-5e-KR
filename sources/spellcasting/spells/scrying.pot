@@ -1,0 +1,95 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/scrying.md:9
+#, no-wrap
+msgid ""
+"name: Scrying\n"
+"level: 5\n"
+"school: divination\n"
+"classes: bard\n"
+"         cleric\n"
+"         druid\n"
+"         warlock\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/scrying.md:12
+msgid "# Scrying _5th-level divination_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/scrying.md:17
+#, no-wrap
+msgid ""
+"**Casting Time:** 10 minutes    \n"
+"**Range:** Self    \n"
+"**Components:** V, S, M (a focus worth at least 1,000 gp, such as a crystal "
+"ball, a silver mirror, or a font filled with holy water)    \n"
+"**Duration:** Concentration, up to 10 minutes \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/scrying.md:19
+msgid ""
+"You can see and hear a particular creature you choose that is on the same "
+"plane of existence as you. The target must make a Wisdom saving throw, which "
+"is modified by how well you know the target and the sort of physical "
+"connection you have to it. If a target knows you're casting this spell, it "
+"can fail the saving throw voluntarily if it wants to be observed."
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/scrying.md:25
+#, no-wrap
+msgid ""
+"| Knowledge                                 | Save Modifier |\n"
+"|-------------------------------------------|---------------|\n"
+"| Secondhand (you have heard of the target) | +5            |\n"
+"| Firsthand (you have met the target)       | 0             |\n"
+"| Familiar (you know the target well)       | -5            |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/scrying.md:31
+#, no-wrap
+msgid ""
+"| Connection                                        | Save Modifier |\n"
+"|---------------------------------------------------|---------------|\n"
+"| Likeness or picture                               | -2            |\n"
+"| Possession or garment                             | -4            |\n"
+"| Body part, lock of hair, bit of nail, or the like | -10           |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/scrying.md:34
+#, no-wrap
+msgid ""
+"On a successful save, the target isn't affected, and you can't use this "
+"spell against it again for 24 hours.    \n"
+"On a failed save, the spell creates an invisible sensor within 10 feet of "
+"the target. You can see and hear through the sensor as if you were "
+"there. The sensor moves with the target, remaining within 10 feet of it for "
+"the duration. A creature that can see invisible objects sees the sensor as a "
+"luminous orb about the size of your fist.    \n"
+"Instead of targeting a creature, you can choose a location you have seen "
+"before as the target of this spell. When you do, the sensor appears at that "
+"location and doesn't move. \n"
+msgstr ""

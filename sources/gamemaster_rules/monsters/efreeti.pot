@@ -1,0 +1,86 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/efreeti.md:4
+msgid "name: Efreeti type: elemental cr: 11"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/efreeti.md:7
+msgid "# Efreeti _Large elemental, lawful evil_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/efreeti.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 17 (natural armor)    \n"
+"**Hit Points** 200 (16d10 + 112)    \n"
+"**Speed** 40 ft., fly 60 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/efreeti.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 22 (+6) | 12 (+1) | 24 (+7) | 16 (+3) | 15 (+2) | 16 (+3) |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/efreeti.md:21
+#, no-wrap
+msgid ""
+"**Saving Throws** Int +7, Wis +6, Cha +7    \n"
+"**Damage Immunities** fire    \n"
+"**Senses** darkvision 120 ft., passive Perception 12    \n"
+"**Languages** Ignan    \n"
+"**Challenge** 11 (7,200 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/efreeti.md:27
+#, no-wrap
+msgid ""
+"**Elemental Demise.** If the efreeti dies, its body disintegrates in a flash "
+"of fire and puff of smoke, leaving behind only equipment the efreeti was "
+"wearing or carrying.    \n"
+"**Innate Spellcasting.** The efreeti's innate spellcasting ability is "
+"Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately "
+"cast the following spells, requiring no material components:    \n"
+"At will: **_detect magic_**    \n"
+"3/day: **_enlarge/reduce_**, **_tongues_**    \n"
+"1/day each: **_conjure elemental_** (fire elemental only), **_gaseous "
+"form_**, **_invisibility_**, **_major image_**, **_plane shift_**, **_wall "
+"of fire_** \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/efreeti.md:31
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Multiattack.** The efreeti makes two scimitar attacks or uses its Hurl "
+"Flame twice.    \n"
+"**Scimitar.** _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one "
+"target. _Hit:_ 13 (2d6 + 6) slashing damage plus 7 (2d6) fire damage.    \n"
+"**Hurl Flame.** Ranged Spell Attack: +7 to hit, range 120 ft., one "
+"target. _Hit:_ 17 (5d6) fire damage.\n"
+msgstr ""

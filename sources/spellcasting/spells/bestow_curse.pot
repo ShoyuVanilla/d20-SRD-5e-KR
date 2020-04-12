@@ -1,0 +1,100 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/bestow_curse.md:7
+#, no-wrap
+msgid ""
+"name: Bestow Curse\n"
+"level: 3\n"
+"school: necromancy\n"
+"classes: bard\n"
+"         cleric\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/bestow_curse.md:10
+msgid "# Bestow Curse _3rd-level necromancy_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/bestow_curse.md:15
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action   \n"
+"**Range:** Touch   \n"
+"**Components:** V, S   \n"
+"**Duration:** Concentration, up to 1 minute \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/bestow_curse.md:17
+msgid ""
+"You touch a creature, and that creature must succeed on a Wisdom saving "
+"throw or become cursed for the duration of the spell. When you cast this "
+"spell, choose the nature of the curse from the following options:"
+msgstr ""
+
+#. type: Bullet: '* '
+#: sources/spellcasting/spells/bestow_curse.md:22
+msgid ""
+"Choose one ability score. While cursed, the target has disadvantage on "
+"ability checks and saving throws made with that ability score."
+msgstr ""
+
+#. type: Bullet: '* '
+#: sources/spellcasting/spells/bestow_curse.md:22
+msgid "While cursed, the target has disadvantage on attack rolls against you."
+msgstr ""
+
+#. type: Bullet: '* '
+#: sources/spellcasting/spells/bestow_curse.md:22
+msgid ""
+"While cursed, the target must make a Wisdom saving throw at the start of "
+"each of its turns. If it fails, it wastes its action that turn doing "
+"nothing."
+msgstr ""
+
+#. type: Bullet: '* '
+#: sources/spellcasting/spells/bestow_curse.md:22
+msgid ""
+"While the target is cursed, your attacks and spells deal an extra 1d8 "
+"necrotic damage to the target."
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/bestow_curse.md:24
+msgid ""
+"A **_remove curse_** spell ends this effect. At the GM's option, you may "
+"choose an alternative curse effect, but it should be no more powerful than "
+"those described above. The GM has final say on such a curse's effect."
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/bestow_curse.md:25
+#, no-wrap
+msgid ""
+"**At Higher Levels.** If you cast this spell using a spell slot of 4th level "
+"or higher, the duration is concentration, up to 10 minutes. If you use a "
+"spell slot of 5th level or higher, the duration is 8 hours. If you use a "
+"spell slot of 7th level or higher, the duration is 24 hours. If you use a "
+"9th level spell slot, the spell lasts until it is dispelled. Using a spell "
+"slot of 5th level or higher grants a duration that doesn't require "
+"concentration. \n"
+msgstr ""

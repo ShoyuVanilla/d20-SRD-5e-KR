@@ -1,0 +1,76 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/swarm_of_insects.md:4
+msgid "name: Swarm of Insects type: swarm of Tiny beasts cr: .5"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/swarm_of_insects.md:7
+msgid "# Swarm of Insects _Medium swarm of Tiny beasts, unaligned_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/swarm_of_insects.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 12 (natural armor)    \n"
+"**Hit Points** 22 (5d8)    \n"
+"**Speed** 20 ft., climb 20 ft.\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/swarm_of_insects.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 3 (−4)  | 13 (+1) | 10 (+0) | 1 (−5)  | 7 (−2)  | 1 (−5)  |  \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/swarm_of_insects.md:21
+#, no-wrap
+msgid ""
+"**Damage Resistances** bludgeoning, piercing, slashing    \n"
+"**Condition Immunities** charmed, frightened, grappled, paralyzed, "
+"petrified, prone, restrained, stunned    \n"
+"**Senses** blindsight 10 ft., passive Perception 8    \n"
+"**Languages** --    \n"
+"**Challenge** 1/2 (100 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/swarm_of_insects.md:23
+#, no-wrap
+msgid ""
+"**Swarm.** The swarm can occupy another creature's space and vice versa, and "
+"the swarm can move through any opening large enough for a Tiny insect. The "
+"swarm can't regain hit points or gain temporary hit points. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/swarm_of_insects.md:25
+#, no-wrap
+msgid ""
+"### Actions    \n"
+"**Bite.** _Melee Weapon Attack:_ +3 to hit, reach 0 ft., one target in the "
+"swarm's space. _Hit:_ 10 (4d4) piercing damage, or 5 (2d4) piercing damage "
+"if the swarm has half of its hit points or fewer. \n"
+msgstr ""

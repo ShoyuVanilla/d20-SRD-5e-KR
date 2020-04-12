@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_constrictor_snake.md:4
+msgid "name: Giant Constrictor Snake type: beast cr: 2"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_constrictor_snake.md:7
+msgid "# Giant Constrictor Snake _Huge beast, unaligned_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_constrictor_snake.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 12    \n"
+"**Hit Points** 60 (8d12 + 8)    \n"
+"**Speed** 30 ft., swim 30 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_constrictor_snake.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 19 (+4) | 14 (+2) | 12 (+1) | 1 (−5)  | 10 (+0) | 3 (−4)  |  \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_constrictor_snake.md:20
+#, no-wrap
+msgid ""
+"**Skills** Perception +2    \n"
+"**Senses** blindsight 10 ft., passive Perception 12    \n"
+"**Languages** --    \n"
+"**Challenge** 2 (450 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/giant_constrictor_snake.md:23
+#, no-wrap
+msgid ""
+"### Actions    \n"
+"**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 10 ft., one "
+"creature. _Hit:_ 11 (2d6 + 4) piercing damage.    \n"
+"**Constrict.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one "
+"creature. _Hit:_ 13 (2d8 + 4) bludgeoning damage, and the target is grappled "
+"(escape DC 16). Until this grapple ends, the creature is restrained, and the "
+"snake can't constrict another target. \n"
+msgstr ""

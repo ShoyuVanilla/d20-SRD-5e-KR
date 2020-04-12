@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/violet_fungus.md:4
+msgid "name: Violet Fungus type: plant cr: .25"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/violet_fungus.md:7
+msgid "# Violet Fungus _Medium plant, unaligned_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/violet_fungus.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 5    \n"
+"**Hit Points** 18 (4d8)    \n"
+"**Speed** 5 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/violet_fungus.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 3 (−4) | 1 (−5) | 10 (+0) | 1 (−5) | 3 (−4) | 1 (−5) |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/violet_fungus.md:20
+#, no-wrap
+msgid ""
+"**Condition Immunities** blinded, deafened, frightened    \n"
+"**Senses** blindsight 30 ft. (blind beyond this radius), passive Perception "
+"6    \n"
+"**Languages** --    \n"
+"**Challenge** 1/4 (50 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/violet_fungus.md:22
+#, no-wrap
+msgid ""
+"**False Appearance.** While the violet fungus remains motionless, it is "
+"indistinguishable from an ordinary fungus. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/violet_fungus.md:25
+msgid ""
+"### Actions **Multiattack.** The fungus makes 1d4 Rotting Touch attacks.  "
+"**Rotting Touch.** _Melee Weapon Attack:_ +2 to hit, reach 10 ft., one "
+"creature. _Hit:_ 4 (1d8) necrotic damage."
+msgstr ""

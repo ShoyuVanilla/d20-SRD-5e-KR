@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/iron_bands_of_binding.md:3
+msgid "name: Iron Bands of Binding type: item"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/iron_bands_of_binding.md:6
+msgid "# Iron Bands of Binding _Wondrous item, rare_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/iron_bands_of_binding.md:10
+#, no-wrap
+msgid ""
+"This rusty iron sphere measures 3 inches in diameter and weighs 1 pound. You "
+"can use an action to speak the command word and throw the sphere at a Huge "
+"or smaller creature you can see within 60 feet of you. As the sphere moves "
+"through the air, it opens into a tangle of metal bands.    \n"
+"Make a ranged attack roll with an attack bonus equal to your Dexterity "
+"modifier plus your proficiency bonus. On a hit, the target is restrained "
+"until you take a bonus action to speak the command word again to release "
+"it. Doing so, or missing with the attack, causes the bands to contract and "
+"become a sphere once more.    \n"
+"A creature, including the one restrained, can use an action to make a DC 20 "
+"Strength check to break the iron bands. On a success, the item is destroyed, "
+"and the restrained creature is freed. If the check fails, any further "
+"attempts made by that creature automatically fail until 24 hours have "
+"elapsed.    \n"
+"Once the bands are used, they can't be used again until the next dawn. \n"
+msgstr ""

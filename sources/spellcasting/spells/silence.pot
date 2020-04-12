@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/silence.md:7
+#, no-wrap
+msgid ""
+"name: Silence\n"
+"level: 2\n"
+"school: illusion\n"
+"classes: bard\n"
+"         cleric\n"
+"         ranger\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/silence.md:10
+msgid "# Silence _2nd-level illusion (ritual)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/silence.md:15
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** 120 feet    \n"
+"**Components:** V, S    \n"
+"**Duration:** Concentration, up to 10 minutes \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/silence.md:16
+msgid ""
+"For the duration, no sound can be created within or pass through a "
+"20-foot-radius sphere centered on a point you choose within range. Any "
+"creature or object entirely inside the sphere is immune to thunder damage, "
+"and creatures are deafened while entirely inside it. Casting a spell that "
+"includes a verbal component is impossible there."
+msgstr ""

@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/ring_of_x_ray_vision.md:3
+msgid "name: Ring of X-ray Vision type: ring"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/ring_of_x_ray_vision.md:6
+msgid "# Ring of X-ray Vision _Ring, rare (requires attunement)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/ring_of_x_ray_vision.md:8
+#, no-wrap
+msgid ""
+"While wearing this ring, you can use an action to speak its command "
+"word. When you do so, you can see into and through solid matter for 1 "
+"minute. This vision has a radius of 30 feet. To you, solid objects within "
+"that radius appear transparent and don't prevent light from passing through "
+"them. The vision can penetrate 1 foot of stone, 1 inch of common metal, or "
+"up to 3 feet of wood or dirt. Thicker substances block the vision, as does a "
+"thin sheet of lead.    \n"
+"Whenever you use the ring again before taking a long rest, you must succeed "
+"on a DC 15 Constitution saving throw or gain one level of exhaustion. \n"
+msgstr ""

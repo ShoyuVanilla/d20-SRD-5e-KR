@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/speak_with_plants.md:7
+#, no-wrap
+msgid ""
+"name: Speak with Plants\n"
+"level: 3\n"
+"school: transmutation\n"
+"classes: bard\n"
+"         druid\n"
+"         ranger\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/speak_with_plants.md:10
+msgid "# Speak with Plants _3rd-level transmutation_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/speak_with_plants.md:15
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** Self (30-foot radius)    \n"
+"**Components:** V, S    \n"
+"**Duration:** 10 minutes \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/speak_with_plants.md:20
+#, no-wrap
+msgid ""
+"You imbue plants within 30 feet of you with limited sentience and animation, "
+"giving them the ability to communicate with you and follow your simple "
+"commands. You can question plants about events in the spell's area within "
+"the past day, gaining information about creatures that have passed, weather, "
+"and other circumstances.    \n"
+"You can also turn difficult terrain caused by plant growth (such as thickets "
+"and undergrowth) into ordinary terrain that lasts for the duration. Or you "
+"can turn ordinary terrain where plants are present into difficult terrain "
+"that lasts for the duration, causing vines and branches to hinder pursuers, "
+"for example.    \n"
+"Plants might be able to perform other tasks on your behalf, at the GM's "
+"discretion. The spell doesn't enable plants to uproot themselves and move "
+"about, but they can freely move branches, tendrils, and stalks.    \n"
+"If a plant creature is in the area, you can communicate with it as if you "
+"shared a common language, but you gain no magical ability to influence it.    "
+"\n"
+"This spell can cause the plants created by the **_entangle_** spell to "
+"release a restrained creature. \n"
+msgstr ""

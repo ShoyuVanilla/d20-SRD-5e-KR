@@ -1,0 +1,106 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/bag_of_tricks.md:3
+msgid "name: Bag of Tricks type: item"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/bag_of_tricks.md:6
+msgid "# Bag of Tricks _Wondrous item, uncommon_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/bag_of_tricks.md:11
+#, no-wrap
+msgid ""
+"This ordinary bag, made from gray, rust, or tan cloth, appears "
+"empty. Reaching inside the bag, however, reveals the presence of a small, "
+"fuzzy object. The bag weighs 1/2 pound.    \n"
+"You can use an action to pull the fuzzy object from the bag and throw it up "
+"to 20 feet. When the object lands, it transforms into a creature you "
+"determine by rolling a d8 and consulting the table that corresponds to the "
+"bag's color.    \n"
+"The creature is friendly to you and your companions, and it acts on your "
+"turn. You can use a bonus action to command how the creature moves and what "
+"action it takes on its next turn, or to give it general orders, such as to "
+"attack your enemies. In the absence of such orders, the creature acts in a "
+"fashion appropriate to its nature.    \n"
+"Once three fuzzy objects have been pulled from the bag, the bag can't be "
+"used again until the next dawn. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/bag_of_tricks.md:13
+msgid "### Grey Bag of Tricks"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/bag_of_tricks.md:24
+#, no-wrap
+msgid ""
+"| d8 | Creature     |\n"
+"|----|--------------|\n"
+"| 1  | Weasel       |\n"
+"| 2  | Giant rat    |\n"
+"| 3  | Badger       |\n"
+"| 4  | Boar         |\n"
+"| 5  | Panther      |\n"
+"| 6  | Giant badger |\n"
+"| 7  | Dire wolf    |\n"
+"| 8  | Giant elk    |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/bag_of_tricks.md:26
+msgid "### Rust Bag of Tricks"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/bag_of_tricks.md:37
+#, no-wrap
+msgid ""
+"| d8 | Creature   |\n"
+"|----|------------|\n"
+"| 1  | Rat        |\n"
+"| 2  | Owl        |\n"
+"| 3  | Mastiff    |\n"
+"| 4  | Goat       |\n"
+"| 5  | Giant goat |\n"
+"| 6  | Giant boar |\n"
+"| 7  | Lion       |\n"
+"| 8  | Brown bear |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/bag_of_tricks.md:48
+#, no-wrap
+msgid ""
+"### Tan bag of Tricks\n"
+"| d8 | Creature     |\n"
+"|----|--------------|\n"
+"| 1  | Jackal       |\n"
+"| 2  | Ape          |\n"
+"| 3  | Baboon       |\n"
+"| 4  | Axe beak     |\n"
+"| 5  | Black bear   |\n"
+"| 6  | Giant weasel |\n"
+"| 7  | Giant hyena  |\n"
+"| 8  | Tiger        |\n"
+msgstr ""

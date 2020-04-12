@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/commune.md:5
+msgid "name: Commune level: 5 school: divination classes: cleric"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/commune.md:8
+msgid "# Commune _5th-level divination (ritual)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/commune.md:13
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 minute    \n"
+"**Range:** Self    \n"
+"**Components:** V, S, M (incense and a vial of holy or unholy water)    \n"
+"**Duration:** 1 minute \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/commune.md:16
+#, no-wrap
+msgid ""
+"You contact your deity or a divine proxy and ask up to three questions that "
+"can be answered with a yes or no. You must ask your questions before the "
+"spell ends. You receive a correct answer for each question.    \n"
+"Divine beings aren't necessarily omniscient, so you might receive "
+"\"unclear\" as an answer if a question pertains to information that lies "
+"beyond the deity's knowledge. In a case where a one-word answer could be "
+"misleading or contrary to the deity's interests, the GM might offer a short "
+"phrase as an answer instead.    \n"
+"If you cast the spell two or more times before finishing your next long "
+"rest, there is a cumulative 25 percent chance for each casting after the "
+"first that you get no answer. The GM makes this roll in secret. \n"
+msgstr ""

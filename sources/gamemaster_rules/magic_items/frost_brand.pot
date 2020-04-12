@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/frost_brand.md:3
+msgid "name: Frost Brand type: weapon"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/frost_brand.md:6
+msgid "# Frost Brand _Weapon (any sword), very rare (requires attunement)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/frost_brand.md:9
+#, no-wrap
+msgid ""
+"When you hit with an attack using this magic sword, the target takes an "
+"extra 1d6 cold damage. In addition, while you hold the sword, you have "
+"resistance to fire damage.    \n"
+"In freezing temperatures, the blade sheds bright light in a 10-foot radius "
+"and dim light for an additional 10 feet.    \n"
+"When you draw this weapon, you can extinguish all nonmagical flames within "
+"30 feet of you. This property can be used no more than once per hour. \n"
+msgstr ""

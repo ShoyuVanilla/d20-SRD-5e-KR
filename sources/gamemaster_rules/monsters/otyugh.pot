@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/otyugh.md:4
+msgid "name: Otyugh type: abberation cr: 5"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/otyugh.md:7
+msgid "# Otyugh _Large aberration, neutral_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/otyugh.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 14 (natural armor)    \n"
+"**Hit Points** 114 (12d10 + 48)    \n"
+"**Speed** 30 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/otyugh.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 16 (+3) | 11 (+0) | 19 (+4) | 6 (−2)  | 13 (+1) | 6 (−2)  |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/otyugh.md:20
+#, no-wrap
+msgid ""
+"**Saving Throws** Con +7    \n"
+"**Senses** darkvision 120 ft., passive Perception 11    \n"
+"**Languages** Otyugh    \n"
+"**Challenge** 5 (1,800 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/otyugh.md:22
+#, no-wrap
+msgid ""
+"**Limited Telepathy.** The otyugh can magically transmit simple messages and "
+"images to any creature within 120 feet of it that can understand a "
+"language. This form of telepathy doesn't allow the receiving creature to "
+"telepathically respond. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/otyugh.md:27
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Multiattack.** The otyugh makes three attacks: one with its bite and two "
+"with its tentacles.    \n"
+"**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ "
+"12 (2d8 + 3) piercing damage. If the target is a creature, it must succeed "
+"on a DC 15 Constitution saving throw against disease or become poisoned "
+"until the disease is cured. Every 24 hours that elapse, the target must "
+"repeat the saving throw, reducing its hit point maximum by 5 (1d10) on a "
+"failure. The disease is cured on a success. The target dies if the disease "
+"reduces its hit point maximum to 0. This reduction to the target's hit point "
+"maximum lasts until the disease is cured.    \n"
+"**Tentacle.** _Melee Weapon Attack:_ +6 to hit, reach 10 ft., one "
+"target. _Hit:_ 7 (1d8 + 3) bludgeoning damage plus 4 (1d8) piercing "
+"damage. If the target is Medium or smaller, it is grappled (escape DC 13) "
+"and restrained until the grapple ends. The otyugh has two tentacles, each of "
+"which can grapple one target.    \n"
+"**Tentacle Slam.** The otyugh slams creatures grappled by it into each other "
+"or a solid surface. Each creature must succeed on a DC 14 Constitution "
+"saving throw or take 10 (2d6 + 3) bludgeoning damage and be stunned until "
+"the end of the otyugh's next turn. On a successful save, the target takes "
+"half the bludgeoning damage and isn't stunned.\n"
+msgstr ""

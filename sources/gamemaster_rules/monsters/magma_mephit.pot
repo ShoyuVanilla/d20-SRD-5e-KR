@@ -1,0 +1,86 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/magma_mephit.md:4
+msgid "name: Magma Mephit type: elemental cr: .5"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/magma_mephit.md:7
+msgid "# Magma Mephit _Small elemental, neutral evil_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/magma_mephit.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 11    \n"
+"**Hit Points** 22 (5d6 + 5)    \n"
+"**Speed** 30 ft., fly 30 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/magma_mephit.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 8 (−1)  | 12 (+1) | 12 (+1) | 7 (−2)  | 10 (+0) | 10 (+0) |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/magma_mephit.md:23
+#, no-wrap
+msgid ""
+"**Skills** Stealth +3    \n"
+"**Damage Vulnerabilities.** cold    \n"
+"**Damage Immunities** fire, poison    \n"
+"**Condition Immunities** poisoned    \n"
+"**Senses** darkvision 60 ft., passive Perception 10    \n"
+"**Languages** Ignan, Terran    \n"
+"**Challenge** 1/2 (100 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/magma_mephit.md:27
+#, no-wrap
+msgid ""
+"**Death Burst.** When the mephit dies, it explodes in a burst of lava. Each "
+"creature within 5 feet of it must make a DC 11 Dexterity saving throw, "
+"taking 7 (2d6) fire damage on a failed save, or half as much damage on a "
+"successful one.    \n"
+"**False Appearance.** While the mephit remains motionless, it is "
+"indistinguishable from an ordinary mound of magma.    \n"
+"**Innate Spellcasting (1/Day).** The mephit can innately cast **_heat "
+"metal_** (spell save DC 10), requiring no material components. Its innate "
+"spellcasting ability is Charisma. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/magma_mephit.md:30
+#, no-wrap
+msgid ""
+"### Actions    \n"
+"**Claws.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one "
+"creature. _Hit:_ 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.    \n"
+"**Fire Breath (Recharge 6).** The mephit exhales a 15-foot cone of "
+"fire. Each creature in that area must make a DC 11 Dexterity saving throw, "
+"taking 7 (2d6) fire damage on a failed save, or half as much damage on a "
+"successful one.\n"
+msgstr ""

@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/rod_of_alertness.md:3
+msgid "name: Rod of Alertness type: rod"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/rod_of_alertness.md:6
+msgid "# Rod of Alertness _Rod, very rare (requires attunement)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/rod_of_alertness.md:11
+#, no-wrap
+msgid ""
+"This rod has a flanged head and the following properties.    \n"
+"**Alertness.** While holding the rod, you have advantage on Wisdom "
+"(Perception) checks and on rolls for initiative.    \n"
+"**Spells.** While holding the rod, you can use an action to cast one of the "
+"following spells from it: **_detect evil and good_**, **_detect magic_**, "
+"**_detect poison and disease_**, or **_see invisibility_**.    \n"
+"**Protective Aura.** As an action, you can plant the haft end of the rod in "
+"the ground, whereupon the rod's head sheds bright light in a 60-foot radius "
+"and dim light for an additional 60 feet. While in that bright light, you and "
+"any creature that is friendly to you gain a +1 bonus to AC and saving throws "
+"and can sense the location of any invisible hostile creature that is also in "
+"the bright light.    \n"
+"The rod's head stops glowing and the effect ends after 10 minutes, or when a "
+"creature uses an action to pull the rod from the ground. This property can't "
+"be used again until the next dawn.\n"
+msgstr ""

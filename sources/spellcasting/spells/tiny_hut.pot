@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/tiny_hut.md:6
+#, no-wrap
+msgid ""
+"name: Tiny Hut\n"
+"level: 3\n"
+"school: evocation\n"
+"classes: bard\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/tiny_hut.md:9
+msgid "# Tiny Hut _3rd-level evocation (ritual)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/tiny_hut.md:14
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 minute    \n"
+"**Range:** Self (10-foot-radius hemisphere)    \n"
+"**Components:** V, S, M (a small crystal bead)    \n"
+"**Duration:** 8 hours \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/tiny_hut.md:17
+#, no-wrap
+msgid ""
+"A 10-foot-radius immobile dome of force springs into existence around and "
+"above you and remains stationary for the duration. The spell ends if you "
+"leave its area.    \n"
+"Nine creatures of Medium size or smaller can fit inside the dome with "
+"you. The spell fails if its area includes a larger creature or more than "
+"nine creatures. Creatures and objects within the dome when you cast this "
+"spell can move through it freely. All other creatures and objects are barred "
+"from passing through it. Spells and other magical effects can't extend "
+"through the dome or be cast through it. The atmosphere inside the space is "
+"comfortable and dry, regardless of the weather outside.    \n"
+"Until the spell ends, you can command the interior to become dimly lit or "
+"dark. The dome is opaque from the outside, of any color you choose, but it "
+"is transparent from the inside. \n"
+msgstr ""

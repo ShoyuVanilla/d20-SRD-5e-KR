@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/mislead.md:6
+#, no-wrap
+msgid ""
+"name: Mislead\n"
+"level: 5\n"
+"school: illusion\n"
+"classes: bard\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/mislead.md:9
+msgid "# Mislead _5th-level illusion_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/mislead.md:14
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** Self    \n"
+"**Components:** S    \n"
+"**Duration:** Concentration, up to 1 hour \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/mislead.md:17
+#, no-wrap
+msgid ""
+"You become invisible at the same time that an illusory double of you appears "
+"where you are standing. The double lasts for the duration, but the "
+"invisibility ends if you attack or cast a spell.    \n"
+"You can use your action to move your illusory double up to twice your speed "
+"and make it gesture, speak, and behave in whatever way you choose.    \n"
+"You can see through its eyes and hear through its ears as if you were "
+"located where it is. On each of your turns as a bonus action, you can switch "
+"from using its senses to using your own, or back again. While you are using "
+"its senses, you are blinded and deafened in regard to your own "
+"surroundings. \n"
+msgstr ""

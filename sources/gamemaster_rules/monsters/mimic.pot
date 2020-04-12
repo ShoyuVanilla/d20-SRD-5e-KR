@@ -1,0 +1,87 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mimic.md:4
+msgid "name: Mimic type: monstrosity (shapechanger)  cr: 2"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mimic.md:7
+msgid "# Mimic _Medium monstrosity (shapechanger), neutral_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mimic.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 12 (natural armor)    \n"
+"**Hit Points** 58 (9d8 + 18)    \n"
+"**Speed** 15 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mimic.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 17 (+3) | 12 (+1) | 15 (+2) | 5 (−3)  | 13 (+1) | 8 (−1)  |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mimic.md:22
+#, no-wrap
+msgid ""
+"**Skills** Stealth +5    \n"
+"**Damage Immunities** acid    \n"
+"**Condition Immunities** prone    \n"
+"**Senses** darkvision 60 ft., passive Perception 11    \n"
+"**Languages** --    \n"
+"**Challenge** 2 (450 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mimic.md:27
+#, no-wrap
+msgid ""
+"**Shapechanger.** The mimic can use its action to polymorph into an object "
+"or back into its true, amorphous form. Its statistics are the same in each "
+"form. Any equipment it is wearing or carrying isn't transformed. It reverts "
+"to its true form if it dies.    \n"
+"**Adhesive (Object Form Only).** The mimic adheres to anything that touches "
+"it. A Huge or smaller creature adhered to the mimic is also grappled by it "
+"(escape DC 13). Ability checks made to escape this grapple have "
+"disadvantage.    \n"
+"**False Appearance (Object Form Only).** While the mimic remains motionless, "
+"it is indistinguishable from an ordinary object.    \n"
+"**Grappler.** The mimic has advantage on attack rolls against any creature "
+"grappled by it. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/mimic.md:30
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Pseudopod.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one "
+"target. _Hit:_ 7 (1d8 + 3) bludgeoning damage. If the mimic is in object "
+"form, the target is subjected to its Adhesive trait.    \n"
+"**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ "
+"7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.\n"
+msgstr ""

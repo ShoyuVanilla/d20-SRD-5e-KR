@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/boots_of_the_winterlands.md:3
+msgid "name: Boots of the Winterlands type: item"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/boots_of_the_winterlands.md:6
+msgid "# Boots of the Winterlands _Wondrous item, uncommon (requires attunement)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/boots_of_the_winterlands.md:8
+msgid ""
+"These furred boots are snug and feel quite warm. While you wear them, you "
+"gain the following benefits:"
+msgstr ""
+
+#. type: Bullet: '* '
+#: sources/gamemaster_rules/magic_items/boots_of_the_winterlands.md:10
+msgid "You have resistance to cold damage."
+msgstr ""
+
+#. type: Bullet: '* '
+#: sources/gamemaster_rules/magic_items/boots_of_the_winterlands.md:10
+msgid ""
+"You ignore difficult terrain created by ice or snow. You can tolerate "
+"temperatures as low as −50 degrees Fahrenheit without any additional "
+"protection. If you wear heavy clothes, you can tolerate temperatures as low "
+"as −100 degrees Fahrenheit."
+msgstr ""

@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/fabricate.md:5
+msgid "name: Fabricate level: 4 school: transmutation classes: wizard"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/fabricate.md:8
+msgid "# Fabricate _4th-level transmutation_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/fabricate.md:13
+#, no-wrap
+msgid ""
+"**Casting Time:** 10 minutes    \n"
+"**Range:** 120 feet    \n"
+"**Components:** V, S    \n"
+"**Duration:** Instantaneous \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/fabricate.md:16
+#, no-wrap
+msgid ""
+"You convert raw materials into products of the same material. For example, "
+"you can fabricate a wooden bridge from a clump of trees, a rope from a patch "
+"of hemp, and clothes from flax or wool.    \n"
+"Choose raw materials that you can see within range. You can fabricate a "
+"Large or smaller object (contained within a 10-foot cube, or eight connected "
+"5-foot cubes), given a sufficient quantity of raw material. If you are "
+"working with metal, stone, or another mineral substance, however, the "
+"fabricated object can be no larger than Medium (contained within a single "
+"5-foot cube). The quality of objects made by the spell is commensurate with "
+"the quality of the raw materials.    \n"
+"Creatures or magic items can't be created or transmuted by this spell. You "
+"also can't use it to create items that ordinarily require a high degree of "
+"craftsmanship, such as jewelry, weapons, glass, or armor, unless you have "
+"proficiency with the type of artisan's tools used to craft such objects. \n"
+msgstr ""

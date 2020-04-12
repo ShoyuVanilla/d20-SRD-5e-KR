@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/demon_armor.md:3
+msgid "name: Demon Armor type: armor"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/demon_armor.md:6
+msgid "# Demon Armor _Armor (plate), very rare (requires attunement)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/demon_armor.md:8
+#, no-wrap
+msgid ""
+"While wearing this armor, you gain a +1 bonus to AC, and you can understand "
+"and speak Abyssal. In addition, the armor's clawed gauntlets turn unarmed "
+"strikes with your hands into magic weapons that deal slashing damage, with a "
+"+1 bonus to attack rolls and damage rolls and a damage die of 1d8.    \n"
+"**Curse.** Once you don this cursed armor, you can't doff it unless you are "
+"targeted by the **_remove curse_** spell or similar magic. While wearing the "
+"armor, you have disadvantage on attack rolls against demons and on saving "
+"throws against their spells and special abilities. \n"
+msgstr ""

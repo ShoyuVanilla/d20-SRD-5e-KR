@@ -1,0 +1,86 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ice_mephit.md:4
+msgid "name: Ice Mephit type: elemental cr: .5"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ice_mephit.md:7
+msgid "# Ice Mephit _Small elemental, neutral evil_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ice_mephit.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 11    \n"
+"**Hit Points** 21 (6d6)    \n"
+"**Speed** 30 ft., fly 30 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ice_mephit.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 7 (−2)  | 13 (+1) | 10 (+0) | 9 (−1)  | 11 (+0) | 12 (+1) |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ice_mephit.md:23
+#, no-wrap
+msgid ""
+"**Skills** Perception +2, Stealth +3    \n"
+"**Damage Vulnerabilities.** bludgeoning, fire    \n"
+"**Damage Immunities** cold, poison    \n"
+"**Condition Immunities** poisoned    \n"
+"**Senses** darkvision 60 ft., passive Perception 12    \n"
+"**Languages** Aquan, Auran    \n"
+"**Challenge** 1/2 (100 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ice_mephit.md:27
+#, no-wrap
+msgid ""
+"**Death Burst.** When the mephit dies, it explodes in a burst of jagged "
+"ice. Each creature within 5 feet of it must make a DC 10 Dexterity saving "
+"throw, taking 4 (1d8) slashing damage on a failed save, or half as much "
+"damage on a successful one.    \n"
+"**False Appearance.** While the mephit remains motionless, it is "
+"indistinguishable from an ordinary shard of ice.    \n"
+"**Innate Spellcasting (1/Day).** The mephit can innately cast **_fog "
+"cloud_**, requiring no material components. Its innate spellcasting ability "
+"is Charisma. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ice_mephit.md:30
+#, no-wrap
+msgid ""
+"### Actions    \n"
+"**Claws.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one "
+"creature. _Hit:_ 3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage.    \n"
+"**Frost Breath (Recharge 6).** The mephit exhales a 15- foot cone of cold "
+"air. Each creature in that area must succeed on a DC 10 Dexterity saving "
+"throw, taking 5 (2d4) cold damage on a failed save, or half as much damage "
+"on a successful one.\n"
+msgstr ""

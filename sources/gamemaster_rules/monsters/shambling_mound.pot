@@ -1,0 +1,86 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/shambling_mound.md:4
+msgid "name: Shambling Mound type: plant cr: 5"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/shambling_mound.md:7
+msgid "# Shambling Mound _Large plant, unaligned_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/shambling_mound.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 15 (natural armor)    \n"
+"**Hit Points** 136 (16d10 + 48)    \n"
+"**Speed** 20 ft., swim 20 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/shambling_mound.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 18 (+4) | 8 (−1)  | 16 (+3) | 5 (−3)  | 10 (+0) | 5 (−3)  |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/shambling_mound.md:23
+#, no-wrap
+msgid ""
+"**Skills** Stealth +2    \n"
+"**Damage Resistances** cold, fire    \n"
+"**Damage Immunities** lightning    \n"
+"**Condition Immunities** blinded, deafened, exhaustion    \n"
+"**Senses** blindsight 60 ft. (blind beyond this radius), passive Perception "
+"10    \n"
+"**Languages** --    \n"
+"**Challenge** 5 (1,800 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/shambling_mound.md:25
+#, no-wrap
+msgid ""
+"**Lightning Absorption.** Whenever the shambling mound is subjected to "
+"lightning damage, it takes no damage and regains a number of hit points "
+"equal to the lightning damage dealt. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/shambling_mound.md:29
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Multiattack.** The shambling mound makes two slam attacks. If both attacks "
+"hit a Medium or smaller target, the target is grappled (escape DC 14), and "
+"the shambling mound uses its Engulf on it.    \n"
+"**Slam.** _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ "
+"13 (2d8 + 4) bludgeoning damage.    \n"
+"**Engulf.** The shambling mound engulfs a Medium or smaller creature "
+"grappled by it. The engulfed target is blinded, restrained, and unable to "
+"breathe, and it must succeed on a DC 14 Constitution saving throw at the "
+"start of each of the mound's turns or take 13 (2d8 + 4) bludgeoning "
+"damage. If the mound moves, the engulfed target moves with it. The mound can "
+"have only one creature engulfed at a time.\n"
+msgstr ""

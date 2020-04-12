@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/oil_of_slipperiness.md:3
+msgid "name: Oil of Slipperiness type: potion"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/oil_of_slipperiness.md:6
+msgid "# Oil of Slipperiness _Potion, uncommon_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/oil_of_slipperiness.md:8
+#, no-wrap
+msgid ""
+"This sticky black unguent is thick and heavy in the container, but it flows "
+"quickly when poured. The oil can cover a Medium or smaller creature, along "
+"with the equipment it's wearing and carrying (one additional vial is "
+"required for each size category above Medium). Applying the oil takes 10 "
+"minutes. The affected creature then gains the effect of a **_freedom of "
+"movement_** spell for 8 hours.    \n"
+"Alternatively, the oil can be poured on the ground as an action, where it "
+"covers a 10-foot square, duplicating the effect of the **_grease_** spell in "
+"that area for 8 hours.\n"
+msgstr ""

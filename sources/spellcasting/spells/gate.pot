@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/gate.md:7
+#, no-wrap
+msgid ""
+"name: Gate\n"
+"level: 9\n"
+"school: conjuration\n"
+"classes: cleric\n"
+"         sorcerer\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/gate.md:10
+msgid "# Gate _9th-level conjuration_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/gate.md:15
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** 60 feet    \n"
+"**Components:** V, S, M (a diamond worth at least 5,000 gp)    \n"
+"**Duration:** Concentration, up to 1 minute \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/gate.md:19
+#, no-wrap
+msgid ""
+"You conjure a portal linking an unoccupied space you can see within range to "
+"a precise location on a different plane of existence. The portal is a "
+"circular opening, which you can make 5 to 20 feet in diameter. You can "
+"orient the portal in any direction you choose. The portal lasts for the "
+"duration.    \n"
+"The portal has a front and a back on each plane where it appears. Travel "
+"through the portal is possible only by moving through its front. Anything "
+"that does so is instantly transported to the other plane, appearing in the "
+"unoccupied space nearest to the portal.    \n"
+"Deities and other planar rulers can prevent portals created by this spell "
+"from opening in their presence or anywhere within their domains.    \n"
+"When you cast this spell, you can speak the name of a specific creature (a "
+"pseudonym, title, or nickname doesn't work). If that creature is on a plane "
+"other than the one you are on, the portal opens in the named creature's "
+"immediate vicinity and draws the creature through it to the nearest "
+"unoccupied space on your side of the portal. You gain no special power over "
+"the creature, and it is free to act as the GM deems appropriate. It might "
+"leave, attack you, or help you. \n"
+msgstr ""

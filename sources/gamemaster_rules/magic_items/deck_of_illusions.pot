@@ -1,0 +1,93 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/deck_of_illusions.md:3
+msgid "name: Deck of Illusions type: item"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/deck_of_illusions.md:6
+msgid "# Deck of Illusions _Wondrous item, uncommon_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/deck_of_illusions.md:11
+#, no-wrap
+msgid ""
+"This box contains a set of parchment cards. A full deck has 34 cards. A deck "
+"found as treasure is usually missing 1d20 − 1 cards.    \n"
+"The magic of the deck functions only if cards are drawn at random (you can "
+"use an altered deck of playing cards to simulate the deck). You can use an "
+"action to draw a card at random from the deck and throw it to the ground at "
+"a point within 30 feet of you.    \n"
+"An illusion of one or more creatures forms over the thrown card and remains "
+"until dispelled. An illusory creature appears real, of the appropriate size, "
+"and behaves as if it were a real creature except that it can do no "
+"harm. While you are within 120 feet of the illusory creature and can see it, "
+"you can use an action to move it magically anywhere within 30 feet of its "
+"card. Any physical interaction with the illusory creature reveals it to be "
+"an illusion, because objects pass through it. Someone who uses an action to "
+"visually inspect the creature identifies it as illusory with a successful DC "
+"15 Intelligence (Investigation) check. The creature then appears "
+"translucent.    \n"
+"The illusion lasts until its card is moved or the illusion is "
+"dispelled. When the illusion ends, the image on its card disappears, and "
+"that card can't be used again.\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/deck_of_illusions.md:47
+#, no-wrap
+msgid ""
+"| Playing Card      | Illusion                         |\n"
+"|-------------------|----------------------------------|\n"
+"| Ace of hearts     | Red dragon                       |\n"
+"| King of hearts    | Knight and four guards           |\n"
+"| Queen of hearts   | Succubus or incubus              |\n"
+"| Jack of hearts    | Druid                            |\n"
+"| Ten of hearts     | Cloud giant                      |\n"
+"| Nine of hearts    |  Ettin                           |\n"
+"| Eight of hearts   | Bugbear                          |\n"
+"| Two of hearts     | Goblin                           |\n"
+"| Ace of diamonds   | Beholder                         |\n"
+"| King of diamonds  | Archmage and mage apprentice     |\n"
+"| Queen of diamonds | Night hag                        |\n"
+"| Jack of diamonds  | Assassin                         |\n"
+"| Ten of diamonds   | Fire giant                       |\n"
+"| Nine of diamonds  | Ogre mage                        |\n"
+"| Eight of diamonds | Gnoll                            |\n"
+"| Two of diamonds   | Kobold                           |\n"
+"| Ace of spades     | Lich                             |\n"
+"| King of spades    | Priest and two acolytes          |\n"
+"| Queen of spades   | Medusa                           |\n"
+"| Jack of spades    | Veteran                          |\n"
+"| Ten of spades     | Frost giant                      |\n"
+"| Nine of spades    | Troll                            |\n"
+"| Eight of spades   | Hobgoblin                        |\n"
+"| Two of spades     | Goblin                           |\n"
+"| Ace of clubs      | Iron golem                       |\n"
+"| King of clubs     | Bandit captain and three bandits |\n"
+"| Queen of clubs    | Erinyes                          |\n"
+"| Jack of clubs     | Berserker                        |\n"
+"| Ten of clubs      | Hill giant                       |\n"
+"| Nine of clubs     | Ogre                             |\n"
+"| Eight of clubs    | Orc                              |\n"
+"| Two of clubs      | Kobold                           |\n"
+"| Jokers (2)        | You (the deck's owner)           |\n"
+msgstr ""

@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/hellish_rebuke.md:5
+msgid "name: Hellish Rebuke level: 1 school: evocation classes: warlock"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/hellish_rebuke.md:8
+msgid "# Hellish Rebuke _1st-level evocation_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/hellish_rebuke.md:13
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 reaction, which you take in response to being damaged by "
+"a creature within 60 feet of you that you can see    \n"
+"**Range:** 60 feet    \n"
+"**Components:** V, S    \n"
+"**Duration:** Instantaneous \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/hellish_rebuke.md:15
+msgid ""
+"You point your finger, and the creature that damaged you is momentarily "
+"surrounded by hellish flames. The creature must make a Dexterity saving "
+"throw. It takes 2d10 fire damage on a failed save, or half as much damage on "
+"a successful one.  **At Higher Levels.** When you cast this spell using a "
+"spell slot of 2nd level or higher, the damage increases by 1d10 for each "
+"slot level above 1st."
+msgstr ""

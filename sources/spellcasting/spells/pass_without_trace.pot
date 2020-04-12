@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/pass_without_trace.md:6
+#, no-wrap
+msgid ""
+"name: Pass without Trace\n"
+"level: 2\n"
+"school: abjuration\n"
+"classes: druid\n"
+"         ranger\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/pass_without_trace.md:9
+msgid "# Pass without Trace _2nd-level abjuration_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/pass_without_trace.md:14
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** Self    \n"
+"**Components:** V, S, M (ashes from a burned leaf of mistletoe and a sprig "
+"of spruce)    \n"
+"**Duration:** Concentration, up to 1 hour \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/pass_without_trace.md:15
+msgid ""
+"A veil of shadows and silence radiates from you, masking you and your "
+"companions from detection. For the duration, each creature you choose within "
+"30 feet of you (including you) has a +10 bonus to Dexterity (Stealth) checks "
+"and can't be tracked except by magical means. A creature that receives this "
+"bonus leaves behind no tracks or other traces of its passage."
+msgstr ""

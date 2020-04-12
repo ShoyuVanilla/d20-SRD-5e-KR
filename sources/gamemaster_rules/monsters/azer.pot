@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/azer.md:4
+msgid "name: Azer type: elemental cr: 2"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/azer.md:7
+msgid "# Azer _Medium elemental, lawful neutral_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/azer.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 17 (natural armor, shield)    \n"
+"**Hit Points** 39 (6d8 + 12)    \n"
+"**Speed** 30 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/azer.md:15
+#, no-wrap
+msgid ""
+"| STR      | DEX     | CON      | INT     | WIS     | CHA     |\n"
+"|----------|---------|----------|---------|---------|---------|\n"
+"| 17 (+3)  | 12 (+1) | 15 (+2)  | 12 (+1) | 13 (+1) | 10 (+0) |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/azer.md:22
+#, no-wrap
+msgid ""
+"**Saving Throws** Con +4    \n"
+"**Damage Immunities** fire, poison    \n"
+"**Condition Immunities** poisoned    \n"
+"**Senses** passive Perception 11    \n"
+"**Languages** Ignan    \n"
+"**Challenge** 2 (450 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/azer.md:26
+#, no-wrap
+msgid ""
+"**Heated Body.** A creature that touches the azer or hits it with a melee "
+"attack while within 5 feet of it takes 5 (1d10) fire damage.    \n"
+"**Heated Weapons.** When the azer hits with a metal melee weapon, it deals "
+"an extra 3 (1d6) fire damage (included in the attack).    \n"
+"**Illumination.** The azer sheds bright light in a 10-­foot radius and dim "
+"light for an additional 10 feet. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/azer.md:28
+msgid ""
+"### Actions **Warhammer.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., "
+"one target. _Hit:_ 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) "
+"bludgeoning damage if used with two hands to make a melee attack, plus 3 "
+"(1d6) fire damage."
+msgstr ""

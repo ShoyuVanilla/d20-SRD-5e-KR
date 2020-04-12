@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/word_of_recall.md:5
+msgid "name: Word of Recall level: 6 school: conjuration classes: cleric"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/word_of_recall.md:8
+msgid "# Word of Recall _6th-level conjuration_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/word_of_recall.md:13
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** 5 feet    \n"
+"**Components:** V    \n"
+"**Duration:** Instantaneous \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/word_of_recall.md:15
+#, no-wrap
+msgid ""
+"You and up to five willing creatures within 5 feet of you instantly teleport "
+"to a previously designated sanctuary. You and any creatures that teleport "
+"with you appear in the nearest unoccupied space to the spot you designated "
+"when you prepared your sanctuary (see below). If you cast this spell without "
+"first preparing a sanctuary, the spell has no effect.    \n"
+"You must designate a sanctuary by casting this spell within a location, such "
+"as a temple, dedicated to or strongly linked to your deity. If you attempt "
+"to cast the spell in this manner in an area that isn't dedicated to your "
+"deity, the spell has no effect.\n"
+msgstr ""

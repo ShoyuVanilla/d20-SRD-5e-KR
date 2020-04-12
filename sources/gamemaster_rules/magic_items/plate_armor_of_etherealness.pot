@@ -1,0 +1,39 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/plate_armor_of_etherealness.md:3
+msgid "name: Plate Armor of Etherealness type: armor"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/plate_armor_of_etherealness.md:6
+msgid ""
+"# Plate Armor of Etherealness _Armor (plate), legendary (requires "
+"attunement)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/plate_armor_of_etherealness.md:7
+msgid ""
+"While you're wearing this armor, you can speak its command word as an action "
+"to gain the effect of the **_etherealness_** spell, which last for 10 "
+"minutes or until you remove the armor or use an action to speak the command "
+"word again. This property of the armor can't be used again until the next "
+"dawn."
+msgstr ""

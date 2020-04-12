@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/darkvision.md:8
+#, no-wrap
+msgid ""
+"name: Darkvision\n"
+"level: 2\n"
+"school: transmutation\n"
+"classes: druid\n"
+"         ranger\n"
+"         sorcerer\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/darkvision.md:11
+msgid "# Darkvision _2nd-level transmutation_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/darkvision.md:16
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** Touch    \n"
+"**Components:** V, S, M (either a pinch of dried carrot or an agate)    \n"
+"**Duration:** 8 hours \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/darkvision.md:17
+msgid ""
+"You touch a willing creature to grant it the ability to see in the dark. For "
+"the duration, that creature has darkvision out to a range of 60 feet."
+msgstr ""

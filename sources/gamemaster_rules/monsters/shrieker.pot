@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/shrieker.md:4
+msgid "name: Shrieker type: plant cr: 0"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/shrieker.md:7
+msgid "# Shrieker _Medium plant, unaligned_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/shrieker.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 5    \n"
+"**Hit Points** 13 (3d8)    \n"
+"**Speed** 0 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/shrieker.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 1 (−5) | 1 (−5) | 10 (+0) | 1 (−5) | 3 (−4) | 1 (−5) |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/shrieker.md:20
+#, no-wrap
+msgid ""
+"**Condition Immunities** blinded, deafened, frightened    \n"
+"**Senses** blindsight 30 ft. (blind beyond this radius), passive Perception "
+"6    \n"
+"**Languages** --    \n"
+"**Challenge** 0 (10 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/shrieker.md:22
+#, no-wrap
+msgid ""
+"**False Appearance.** While the shrieker remains motionless, it is "
+"indistinguishable from an ordinary fungus.    \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/shrieker.md:24
+msgid ""
+"### Reactions **Shriek.** When bright light or a creature is within 30 feet "
+"of the shrieker, it emits a shriek audible within 300 feet of it. The "
+"shrieker continues to shriek until the disturbance moves out of range and "
+"for 1d4 of the shrieker's turns afterward."
+msgstr ""

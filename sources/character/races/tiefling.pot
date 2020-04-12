@@ -1,0 +1,97 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/character/races/tiefling.md:5
+msgid ""
+"# Tiefling ## Tiefling Traits - - - Tieflings share certain racial traits as "
+"a result of their infernal descent."
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/tiefling.md:7
+#, no-wrap
+msgid ""
+"**Ability Score Increase.** Your Intelligence score increases by 1, and your "
+"Charisma score increases by 2. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/tiefling.md:9
+#, no-wrap
+msgid ""
+"**Age.** Tieflings mature at the same rate as humans but live a few years "
+"longer. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/tiefling.md:11
+#, no-wrap
+msgid ""
+"**Alignment.** Tieflings might not have an innate tendency toward evil, but "
+"many of them end up there. Evil or not, an independent nature inclines many "
+"tieflings toward a chaotic alignment. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/tiefling.md:13
+#, no-wrap
+msgid ""
+"**Size.** Tieflings are about the same size and build as humans. Your size "
+"is Medium. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/tiefling.md:15
+#, no-wrap
+msgid "**Speed.** Your base walking speed is 30 feet. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/tiefling.md:17
+#, no-wrap
+msgid ""
+"**Darkvision.** Thanks to your infernal heritage, you have superior vision "
+"in dark and dim conditions. You can see in dim light within 60 feet of you "
+"as if it were bright light, and in darkness as if it were dim light. You "
+"can’t discern color in darkness, only shades of gray. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/tiefling.md:19
+#, no-wrap
+msgid "**Hellish Resistance.** You have resistance to fire damage. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/tiefling.md:21
+#, no-wrap
+msgid ""
+"**Infernal Legacy.** You know the **_thaumaturgy_** cantrip. When you reach "
+"3rd level, you can cast the **_hellish rebuke_** spell as a 2nd-level spell "
+"once with this trait and regain the ability to do so when you finish a long "
+"rest. When you reach 5th level, you can cast the **_darkness_** spell once "
+"with this trait and regain the ability to do so when you finish a long "
+"rest. Charisma is your spellcasting ability for these spells. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/character/races/tiefling.md:22
+#, no-wrap
+msgid "**Languages.** You can speak, read, and write Common and Infernal.\n"
+msgstr ""

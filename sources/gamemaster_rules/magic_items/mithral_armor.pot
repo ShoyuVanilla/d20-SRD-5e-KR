@@ -1,0 +1,36 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/mithral_armor.md:3
+msgid "name: Mithral Armor type: armor"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/mithral_armor.md:6
+msgid "# Mithral Armor _Armor (medium or heavy, but not hide), uncommon_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/mithral_armor.md:7
+msgid ""
+"Mithral is a light, flexible metal. A mithral chain shirt or breastplate can "
+"be worn under normal clothes. If the armor normally imposes disadvantage on "
+"Dexterity (Stealth) checks or has a Strength requirement, the mithral "
+"version of the armor doesn't."
+msgstr ""

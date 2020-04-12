@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/death_ward.md:6
+#, no-wrap
+msgid ""
+"name: Death Ward\n"
+"level: 4\n"
+"school: abjuration\n"
+"classes: cleric\n"
+"         paladin\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/death_ward.md:9
+msgid "# Death Ward _4th-level abjuration_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/death_ward.md:14
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 action    \n"
+"**Range:** Touch    \n"
+"**Components:** V, S    \n"
+"**Duration:** 8 hours \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/death_ward.md:17
+#, no-wrap
+msgid ""
+"You touch a creature and grant it a measure of protection from death.    \n"
+"The first time the target would drop to 0 hit points as a result of taking "
+"damage, the target instead drops to 1 hit point, and the spell ends.    \n"
+"If the spell is still in effect when the target is subjected to an effect "
+"that would kill it instantaneously without dealing damage, that effect is "
+"instead negated against the target, and the spell ends. \n"
+msgstr ""

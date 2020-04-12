@@ -1,0 +1,79 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gargoyle.md:4
+msgid "name: Gargoyle type: elemental cr: 2"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gargoyle.md:7
+msgid "# Gargoyle _Medium elemental, chaotic evil_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gargoyle.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 15 (natural armor)    \n"
+"**Hit Points** 52 (7d8 + 21)    \n"
+"**Speed** 30 ft., fly 60 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gargoyle.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 15 (+2) | 11 (+0) | 16 (+3) | 6 (−2) | 11 (+0) | 7 (−2) |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gargoyle.md:22
+#, no-wrap
+msgid ""
+"**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical "
+"attacks that aren't adamantine    \n"
+"**Damage Immunities** poison    \n"
+"**Condition Immunities** exhaustion, petrified, poisoned    \n"
+"**Senses** darkvision 60 ft., passive Perception 10    \n"
+"**Languages** Terran    \n"
+"**Challenge** 2 (450 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gargoyle.md:24
+#, no-wrap
+msgid ""
+"**False Appearance.** While the gargoyle remains motionless, it is "
+"indistinguishable from an inanimate statue. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/gargoyle.md:28
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Multiattack.** The gargoyle makes two attacks: one with its bite and one "
+"with its claws.    \n"
+"**Bite.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ "
+"5 (1d6 + 2) piercing damage.    \n"
+"**Claws.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ "
+"5 (1d6 + 2) slashing damage.\n"
+msgstr ""

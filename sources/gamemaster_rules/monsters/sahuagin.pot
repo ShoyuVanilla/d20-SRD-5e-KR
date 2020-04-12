@@ -1,0 +1,84 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/sahuagin.md:4
+msgid "name: Sahuagin type: humanoid (sahuagin)  cr: .5"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/sahuagin.md:7
+msgid "# Sahuagin _Medium humanoid (sahuagin), lawful evil_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/sahuagin.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 12 (natural armor)    \n"
+"**Hit Points** 22 (4d8 + 4)    \n"
+"**Speed** 30 ft., swim 40 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/sahuagin.md:15
+#, no-wrap
+msgid ""
+"| STR     | DEX     | CON     | INT     | WIS     | CHA     |\n"
+"|---------|---------|---------|---------|---------|---------|\n"
+"| 13 (+1) | 11 (+0) | 12 (+1) | 12 (+1) | 13 (+1) | 9 (−1)  |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/sahuagin.md:20
+#, no-wrap
+msgid ""
+"**Skills** Perception +5    \n"
+"**Senses** darkvision 120 ft., passive Perception 15    \n"
+"**Languages** Sahuagin    \n"
+"**Challenge** 1/2 (100 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/sahuagin.md:24
+#, no-wrap
+msgid ""
+"**Blood Frenzy.** The sahuagin has advantage on melee attack rolls against "
+"any creature that doesn't have all its hit points.    \n"
+"**Limited Amphibiousess.** The sahuagin can breathe air and water, but it "
+"needs to be submerged at least once every 4 hours to avoid suffocating.    "
+"\n"
+"**Shark Telepathy.** The sahuagin can magically command any shark within 120 "
+"feet of it, using a limited telepathy. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/sahuagin.md:29
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Multiattack.** The sahuagin makes two melee attacks: one with its bite and "
+"one with its claws or spear.    \n"
+"**Bite.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ "
+"3 (1d4 + 1) piercing damage.    \n"
+"**Claws.** _Melee Weapon Attack:_ +3 to hit, reach 5 ft., one target. _Hit:_ "
+"3 (1d4 + 1) slashing damage.    \n"
+"**Spear.** _Melee or _Ranged Weapon Attack:__ +3 to hit, reach 5 ft. or "
+"range 20/60 ft., one target. _Hit:_ 4 (1d6 + 1) piercing damage, or 5 (1d8 + "
+"1) piercing damage if used with two hands to make a melee attack.\n"
+msgstr ""

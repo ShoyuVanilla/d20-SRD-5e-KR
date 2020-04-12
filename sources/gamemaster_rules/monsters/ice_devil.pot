@@ -1,0 +1,104 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ice_devil.md:4
+msgid "name: Ice Devil type: fiend (devil)  cr: 14"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ice_devil.md:7
+msgid "# Ice Devil _Large fiend (devil), lawful evil_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ice_devil.md:11
+#, no-wrap
+msgid ""
+"**Armor Class** 18 (natural armor)    \n"
+"**Hit Points** 180 (19d10 + 76)    \n"
+"**Speed** 40 ft. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ice_devil.md:15
+#, no-wrap
+msgid ""
+"| STR      | DEX     | CON      | INT     | WIS     | CHA     |\n"
+"|----------|---------|----------|---------|---------|---------|\n"
+"| 21 (+5) | 14 (+2) | 18 (+4) | 18 (+4) | 15 (+2) | 18 (+4) |\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ice_devil.md:23
+#, no-wrap
+msgid ""
+"**Saving Throws** Dex +7, Con +9, Wis +7, Cha +9    \n"
+"**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical "
+"attacks that aren't silvered    \n"
+"**Damage Immunities** cold, fire, poison    \n"
+"**Condition Immunities** poisoned    \n"
+"**Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 12    "
+"\n"
+"**Languages** Infernal, telepathy 120 ft.    \n"
+"**Challenge** 14 (11,500 XP) \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ice_devil.md:26
+#, no-wrap
+msgid ""
+"**Devil's Sight.** Magical darkness doesn't impede the devil's darkvision.    "
+"\n"
+"**Magic Resistance.** The devil has advantage on saving throws against "
+"spells and other magical effects. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/monsters/ice_devil.md:34
+#, no-wrap
+msgid ""
+"### Actions \n"
+"**Multiattack.** The devil makes three attacks: one with its bite, one with "
+"its claws, and one with its tail.    \n"
+"**Bite.** _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one target. _Hit:_ "
+"12 (2d6 + 5) piercing damage plus 10 (3d6) cold damage.    \n"
+"**Claws.** _Melee Weapon Attack:_ +10 to hit, reach 5 ft., one "
+"target. _Hit:_ 10 (2d4 + 5) slashing damage plus 10 (3d6) cold damage.    \n"
+"**Tail.** _Melee Weapon Attack:_ +10 to hit, reach 10 ft., one "
+"target. _Hit:_ 12 (2d6 + 5) bludgeoning damage plus 10 (3d6) cold damage.    "
+"\n"
+"**Wall of Ice (Recharge 6).** The devil magically forms an opaque wall of "
+"ice on a solid surface it can see within 60 feet of it. The wall is 1 foot "
+"thick and up to 30 feet long and 10 feet high, or it's a hemispherical dome "
+"up to 20 feet in diameter.    \n"
+"When the wall appears, each creature in its space is pushed out of it by the "
+"shortest route. The creature chooses which side of the wall to end up on, "
+"unless the creature is incapacitated. The creature then makes a DC 17 "
+"Dexterity saving throw, taking 35 (10d6) cold damage on a failed save, or "
+"half as much damage on a successful one.    \n"
+"The wall lasts for 1 minute or until the devil is incapacitated or dies. The "
+"wall can be damaged and breached; each 10-­foot section has AC 5, 30 hit "
+"points, vulnerability to fire damage, and immunity to acid, cold, necrotic, "
+"poison, and psychic damage. If a section is destroyed, it leaves behind a "
+"sheet of frigid air in the space the wall occupied. Whenever a creature "
+"finishes moving through the frigid air on a turn, willingly or otherwise, "
+"the creature must make a DC 17 Constitution saving throw, taking 17 (5d6) "
+"cold damage on a failed save, or half as much damage on a successful "
+"one. The frigid air dissipates when the rest of the wall vanishes.\n"
+msgstr ""

@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/sword_of_sharpness.md:3
+msgid "name: Sword of Sharpness type: weapon"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/sword_of_sharpness.md:6
+msgid ""
+"# Sword of Sharpness _Weapon (any sword that deals slashing damage), very "
+"rare (requires attunement)_"
+msgstr ""
+
+#. type: Plain text
+#: sources/gamemaster_rules/magic_items/sword_of_sharpness.md:9
+#, no-wrap
+msgid ""
+"When you attack an object with this magic sword and hit, maximize your "
+"weapon damage dice against the target.    \n"
+"When you attack a creature with this weapon and roll a 20 on the attack "
+"roll, that target takes an extra 4d6 slashing damage. Then roll another "
+"d20. If you roll a 20, you lop off one of the target's limbs, with the "
+"effect of such loss determined by the GM. If the creature has no limb to "
+"sever, you lop off a portion of its body instead.    \n"
+"In addition, you can speak the sword's command word to cause the blade to "
+"shed bright light in a 10-foot radius and dim light for an additional 10 "
+"feet. Speaking the command word again or sheathing the sword puts out the "
+"light. \n"
+msgstr ""

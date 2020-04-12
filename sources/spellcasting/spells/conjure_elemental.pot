@@ -1,0 +1,75 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-12 21:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: sources/spellcasting/spells/conjure_elemental.md:6
+#, no-wrap
+msgid ""
+"name: Conjure Elemental\n"
+"level: 5\n"
+"school: conjuration\n"
+"classes: druid\n"
+"         wizard\n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/conjure_elemental.md:9
+msgid "# Conjure Elemental _5th-level conjuration_"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/conjure_elemental.md:14
+#, no-wrap
+msgid ""
+"**Casting Time:** 1 minute    \n"
+"**Range:** 90 feet    \n"
+"**Components:** V, S, M (burning incense for air, soft clay for earth, "
+"sulfur and phosphorus for fire, or water and sand for water)    \n"
+"**Duration:** Concentration, up to 1 hour \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/conjure_elemental.md:18
+#, no-wrap
+msgid ""
+"You call forth an elemental servant. Choose an area of air, earth, fire, or "
+"water that fills a 10-foot cube within range. An elemental of challenge "
+"rating 5 or lower appropriate to the area you chose appears in an unoccupied "
+"space within 10 feet of it. For example, a fire elemental emerges from a "
+"bonfire, and an earth elemental rises up from the ground. The elemental "
+"disappears when it drops to 0 hit points or when the spell ends.    \n"
+"The elemental is friendly to you and your companions for the duration. Roll "
+"initiative for the elemental, which has its own turns. It obeys any verbal "
+"commands that you issue to it (no action required by you). If you don't "
+"issue any commands to the elemental, it defends itself from hostile "
+"creatures but otherwise takes no actions.    \n"
+"If your concentration is broken, the elemental doesn't disappear. Instead, "
+"you lose control of the elemental, it becomes hostile toward you and your "
+"companions, and it might attack. An uncontrolled elemental can't be "
+"dismissed by you, and it disappears 1 hour after you summoned it. The GM has "
+"the elemental's statistics. \n"
+msgstr ""
+
+#. type: Plain text
+#: sources/spellcasting/spells/conjure_elemental.md:19
+#, no-wrap
+msgid ""
+"**At Higher Levels.** When you cast this spell using a spell slot of 6th "
+"level or higher, the challenge rating increases by 1 for each slot level "
+"above 5th. \n"
+msgstr ""
